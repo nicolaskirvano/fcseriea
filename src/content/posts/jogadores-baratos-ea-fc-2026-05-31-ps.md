@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:27.000Z
+pubDatetime: 2026-05-31T22:30:01.000Z
 title: "Jogadores baratos de Serie A no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -35,7 +35,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | +6% |
 | Ché Adams | 88 | ST | Serie A TIM | 14k coins | -6.7% |
 | Mike Maignan | 88 | GK | Serie A TIM | 15k coins | -1.6% |
-| Nicolò Barella | 87 | CM | Serie A TIM | 2k coins | -19% |
+| Yann Sommer | 87 | GK | Serie A TIM | 2k coins | +6.7% |
+| Kevin De Bruyne | 87 | CM | Serie A TIM | 2k coins | -5.6% |
 | Pervis Estupiñán | 87 | LB | Serie A TIM | 11k coins | -21.4% |
 | Gustav Isaksen | 87 | RW | Serie A TIM | 12k coins | -16.4% |
 | Éderson | 87 | CM | Serie A TIM | 12k coins | -16.1% |
@@ -43,7 +44,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +4.4% |
 | Marco Carnesecchi | 87 | GK | Serie A TIM | 12k coins | -12.5% |
 | Rasmus Højlund | 87 | ST | Serie A TIM | 12k coins | -12.5% |
-| Bremer | 87 | CB | Serie A TIM | 12k coins | -23.4% |
 
 
 ## 📈 Destaques

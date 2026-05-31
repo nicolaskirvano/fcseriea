@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:28.000Z
+pubDatetime: 2026-05-31T22:30:02.000Z
 title: "Jogadores baratos de Serie A no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +11.1% |
 | Lautaro Martínez | 88 | ST | Serie A TIM | 4k coins | +50% |
 | Diego Milito | 88 | ST | Serie A TIM | 11k coins | 0% |
-| Mike Maignan | 88 | GK | Serie A TIM | 14k coins | -6.7% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | -18.9% |
 | Nicolò Barella | 87 | CM | Serie A TIM | 2k coins | +8.7% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Gustav Isaksen | 87 | RW | Serie A TIM | 11k coins | -8.2% |
+| Gustav Isaksen | 87 | RW | Serie A TIM | 11k coins | -10.2% |
+| Pervis Estupiñán | 87 | LB | Serie A TIM | 11k coins | -8.2% |
 | Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +4.6% |
-| Bremer | 87 | CB | Serie A TIM | 12k coins | -80.7% |
-| Marco Carnesecchi | 87 | GK | Serie A TIM | 12k coins | -6% |
-| Federico Dimarco | 87 | LB | Serie A TIM | 12k coins | -71.3% |
-| Éderson | 87 | CM | Serie A TIM | 12k coins | -3.9% |
-| Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 12k coins | -15.5% |
+| Marco Carnesecchi | 87 | GK | Serie A TIM | 12k coins | -8% |
+| Éderson | 87 | CM | Serie A TIM | 12k coins | -4.1% |
+| Rasmus Højlund | 87 | ST | Serie A TIM | 12k coins | -2% |
 | Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +11.4% |
-| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -1.7% |
+| Hakan Çalhanoğlu | 87 | CDM | Serie A TIM | 12k coins | -13.8% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 15k coins | +7.1% |
 
 
 ## 📈 Destaques
@@ -54,7 +54,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Mike Maignan (88, GK)** da Serie A TIM, a apenas **14k coins**
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Nicolò Barella (87, CM)** da Serie A TIM, a apenas **2k coins**
 

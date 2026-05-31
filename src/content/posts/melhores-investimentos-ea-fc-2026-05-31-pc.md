@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:28.000Z
+pubDatetime: 2026-05-31T22:30:02.000Z
 title: "Melhores investimentos em Serie A no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Donyell Malen (89, Serie A TIM) lidera, com +36.8% em 7 dias a 93k coins no PC, e o modelo dá 40% de chance de seguir subindo."
+    a: "Nuno Tavares (91, Serie A TIM) lidera, com +71.1% em 7 dias a 68k coins no PC, e o modelo dá 57% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Donyell Malen (89) acumula **+36.8% em 7 dias** a 93k coins.
+> 🔝 **Destaque:** Nuno Tavares (91) acumula **+71.1% em 7 dias** a 68k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,30 +31,31 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Donyell Malen | 89 | Serie A TIM | 93k coins | +26.5% | +36.8% | 40% |
-| Gianluca Mancini | 85 | Serie A TIM | 31k coins | +11.7% | +36.3% | 46% |
-| Francisco Conceição | 89 | Serie A TIM | 40k coins | +11.9% | +33.3% | 52% |
+| Nuno Tavares | 91 | Serie A TIM | 68k coins | +10.6% | +71.1% | 57% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 61k coins | +6.1% | +55.4% | 25% |
+| Charles De Ketelaere | 89 | Serie A TIM | 110k coins | +15.8% | +38.4% | 37% |
+| Marcus Pedersen | 88 | Serie A TIM | 28k coins | +34.1% | +35.7% | 39% |
 | Andrea Barzagli | 87 | Serie A TIM | 16k coins | +1.6% | +27.4% | 50% |
+| Gianluca Mancini | 85 | Serie A TIM | 29k coins | +3.6% | +25% | 46% |
 | Wesley Sneijder | 88 | Serie A TIM | 28k coins | +7.8% | +18.1% | 29% |
 | Iván Córdoba | 87 | Serie A TIM | 17k coins | +32.7% | +17% | 43% |
-| Nicolò Zaniolo | 86 | Serie A TIM | 23k coins | +27.8% | +12.2% | 70% |
-| Maicon | 90 | Serie A TIM | 100k coins | +17.6% | +11.1% | 64% |
-| Khéphren Thuram | 87 | Serie A TIM | 140k coins | +40% | +7.7% | 36% |
+| Santiago Castro | 87 | Serie A TIM | 16k coins | +10.3% | +10.3% | 19% |
+| Nicolò Zaniolo | 86 | Serie A TIM | 22k coins | +21.6% | +9.8% | 70% |
+| Rasmus Højlund | 87 | Serie A TIM | 47k coins | +20.6% | +8.1% | 38% |
 | Claudio Marchisio | 87 | Serie A TIM | 15k coins | +15.4% | +7.1% | 47% |
-| Gervinho | 87 | Serie A TIM | 250k coins | +16.3% | +6.8% | 20% |
 
 
 ## 📈 Análise dos destaques
 
-- **Donyell Malen (89)** — 93k coins, **+36.8% em 7 dias** (+26.5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nuno Tavares (91)** — 68k coins, **+71.1% em 7 dias** (+10.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gianluca Mancini (85)** — 31k coins, **+36.3% em 7 dias** (+11.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Giovanni Di Lorenzo (86)** — 61k coins, **+55.4% em 7 dias** (+6.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Francisco Conceição (89)** — 40k coins, **+33.3% em 7 dias** (+11.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Charles De Ketelaere (89)** — 110k coins, **+38.4% em 7 dias** (+15.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Marcus Pedersen (88)** — 28k coins, **+35.7% em 7 dias** (+34.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Andrea Barzagli (87)** — 16k coins, **+27.4% em 7 dias** (+1.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Wesley Sneijder (88)** — 28k coins, **+18.1% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -72,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Donyell Malen (89, Serie A TIM) lidera, com +36.8% em 7 dias a 93k coins no PC, e o modelo dá 40% de chance de seguir subindo.
+Nuno Tavares (91, Serie A TIM) lidera, com +71.1% em 7 dias a 68k coins no PC, e o modelo dá 57% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

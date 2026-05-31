@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:28.000Z
+pubDatetime: 2026-05-31T22:30:02.000Z
 title: "Serie A no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Daniele De Rossi (87, Serie A TIM), com +54.2% em 24h, a 32k coins no PC."
+    a: "Scott McTominay (87, Serie A TIM), com +56% em 24h, a 156k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Arthur Atta (85), -43.1% em 24h, a 45k coins."
+    a: "Hidetoshi Nakata (88), -45.6% em 24h, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 61 cartas em alta contra 44 em queda (média 2.61%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 49 cartas em alta contra 55 em queda (média 2.0%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **61 subiram** e **44 caíram**, com variação média de **2.61%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **49 subiram** e **55 caíram**, com variação média de **2.0%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Daniele De Rossi (87) **+54.2%** · 🔴 **Maior baixa:** Arthur Atta (85) **-43.1%**
+> 🟢 **Maior alta:** Scott McTominay (87) **+56%** · 🔴 **Maior baixa:** Hidetoshi Nakata (88) **-45.6%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Scott McTominay | 87 | Serie A TIM | 156k coins | +56% | -28.8% |
 | Daniele De Rossi | 87 | Serie A TIM | 32k coins | +54.2% | -8.6% |
-| Nuno Tavares | 91 | Serie A TIM | 65k coins | +53.8% | +63.5% |
-| Juan David Cabal | 85 | Serie A TIM | 28k coins | +52.7% | -8.9% |
-| Khéphren Thuram | 87 | Serie A TIM | 140k coins | +40% | +7.7% |
-| Wesley Sneijder | 92 | Serie A TIM | 950k coins | +33% | +18.8% |
-| Nicolò Zaniolo | 86 | Serie A TIM | 23k coins | +27.8% | +12.2% |
-| Jhon Lucumí | 81 | Serie A TIM | 42k coins | +27.7% | -10.3% |
-| Donyell Malen | 89 | Serie A TIM | 93k coins | +26.5% | +36.8% |
-| Charles De Ketelaere | 89 | Serie A TIM | 109k coins | +24.6% | +147.7% |
-| Wesley Sneijder | 89 | Serie A TIM | 250k coins | +20.8% | 0% |
+| Junior Messias | 87 | Serie A TIM | 24k coins | +54.1% | +44.6% |
+| Pierre Kalulu | 91 | Serie A TIM | 100k coins | +50.8% | +65.8% |
+| Piotr Zieliński | 85 | Serie A TIM | 58k coins | +43.2% | +2.6% |
+| Marcus Pedersen | 88 | Serie A TIM | 28k coins | +34.1% | +35.7% |
+| Matías Soulé | 86 | Serie A TIM | 35k coins | +26.4% | -30.2% |
+| Khéphren Thuram | 85 | Serie A TIM | 283k coins | +25.8% | +34.1% |
+| Jhon Lucumí | 81 | Serie A TIM | 39k coins | +23.8% | +41.8% |
+| Nicolò Zaniolo | 86 | Serie A TIM | 22k coins | +21.6% | +9.8% |
 
 
 ### Análise das altas
 
+- **Scott McTominay (87)** subiu **+56%** em 24h, a **156k coins** (faixa do dia: 100k–200k). Está +20% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+
 - **Daniele De Rossi (87)** subiu **+54.2%** em 24h, a **32k coins** (faixa do dia: 21k–32k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Nuno Tavares (91)** subiu **+53.8%** em 24h, a **65k coins** (faixa do dia: 40k–79k). Está +50% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Juan David Cabal (85)** subiu **+52.7%** em 24h, a **28k coins** (faixa do dia: 18k–30k). Está +27% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Junior Messias (87)** subiu **+54.1%** em 24h, a **24k coins** (faixa do dia: 15k–35k). Está +18% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arthur Atta | 85 | Serie A TIM | 45k coins | -43.1% | -65.2% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 55k coins | -30.4% | -31.2% |
-| Wesley | 88 | Serie A TIM | 39k coins | -21.6% | -21.6% |
-| Filip Kostić | 88 | Serie A TIM | 24k coins | -19% | +29% |
+| Hidetoshi Nakata | 88 | Serie A TIM | 22k coins | -45.6% | -44.9% |
+| Mattia Zaccagni | 87 | Serie A TIM | 23k coins | -23.3% | -7.1% |
+| Weston McKennie | 91 | Serie A TIM | 56k coins | -20% | +61.2% |
 | Claudio Marchisio | 88 | Serie A TIM | 220k coins | -18.8% | -18.8% |
-| Armand Laurienté | 86 | Serie A TIM | 50k coins | -14.5% | -13.8% |
-| Maicon | 88 | Serie A TIM | 38k coins | -12.8% | -33% |
-| De Gea | 89 | Serie A TIM | 105k coins | -12.5% | -4.6% |
-| Francisco Conceição | 85 | Serie A TIM | 24k coins | -11.1% | -15.8% |
-| Nuno Tavares | 87 | Serie A TIM | 98k coins | -10.9% | -10.9% |
+| Marek Hamšík | 88 | Serie A TIM | 52k coins | -18.1% | -7.1% |
+| Wesley | 88 | Serie A TIM | 37k coins | -17.2% | -25.1% |
+| Donyell Malen | 89 | Serie A TIM | 80k coins | -16.8% | +18.7% |
+| Denzel Dumfries | 89 | Serie A TIM | 45k coins | -16.4% | +45.5% |
+| Daniele De Rossi | 89 | Serie A TIM | 133k coins | -16.4% | -16.4% |
+| Nuno Tavares | 87 | Serie A TIM | 94k coins | -14.6% | -14.6% |
 
 
 ### Análise das baixas
 
-- **Arthur Atta (85)** caiu **-43.1%** em 24h, a **45k coins** (faixa do dia: 45k–120k). Está -43% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Hidetoshi Nakata (88)** caiu **-45.6%** em 24h, a **22k coins** (faixa do dia: 20k–39k). Está -36% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Kouadio Manu Koné (88)** caiu **-30.4%** em 24h, a **55k coins** (faixa do dia: 55k–78k). Está -29% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Mattia Zaccagni (87)** caiu **-23.3%** em 24h, a **23k coins** (faixa do dia: 11k–30k). Está -8% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Wesley (88)** caiu **-21.6%** em 24h, a **39k coins** (faixa do dia: 39k–50k). Está -21% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Weston McKennie (91)** caiu **-20%** em 24h, a **56k coins** (faixa do dia: 48k–70k). Está +28% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Daniele De Rossi (87, Serie A TIM), com +54.2% em 24h, a 32k coins no PC.
+Scott McTominay (87, Serie A TIM), com +56% em 24h, a 156k coins no PC.
 
 **E a maior queda do dia?**  
-Arthur Atta (85), -43.1% em 24h, a 45k coins.
+Hidetoshi Nakata (88), -45.6% em 24h, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 61 cartas em alta contra 44 em queda (média 2.61%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 49 cartas em alta contra 55 em queda (média 2.0%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
