@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:30:01.000Z
+pubDatetime: 2026-05-31T21:27:27.000Z
 title: "Serie A no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,71 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Rui Costa (88, Serie A TIM), com +50% em 24h, a 42k coins no Console (PS)."
+    a: "Federico Baschirotto (81, Serie A TIM), com +47.5% em 24h, a 30k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Yoan Bonny (86), -40.5% em 24h, a 113k coins."
+    a: "Rafael Leão (93), -44.7% em 24h, a 1.38M coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 50k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 100 em queda (média -3.92%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 55 cartas em alta contra 85 em queda (média 0.4%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **42 subiram** e **100 caíram**, com variação média de **-3.92%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **55 subiram** e **85 caíram**, com variação média de **0.4%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rui Costa (88) **+50%** · 🔴 **Maior baixa:** Yoan Bonny (86) **-40.5%**
+> 🟢 **Maior alta:** Federico Baschirotto (81) **+47.5%** · 🔴 **Maior baixa:** Rafael Leão (93) **-44.7%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rui Costa | 88 | Serie A TIM | 42k coins | +50% | +31.2% |
-| Lautaro Martínez | 90 | Serie A TIM | 29k coins | +41.5% | +31.8% |
+| Federico Baschirotto | 81 | Serie A TIM | 30k coins | +47.5% | -1.7% |
+| Filip Kostić | 88 | Serie A TIM | 30k coins | +47.5% | +59.5% |
+| Kenan Yıldız | 88 | Serie A TIM | 306k coins | +41% | +12.9% |
+| Juan David Cabal | 85 | Serie A TIM | 24k coins | +35.7% | -13.6% |
 | Gervinho | 85 | Serie A TIM | 39k coins | +34.5% | -26.4% |
-| Kenan Yıldız | 88 | Serie A TIM | 279k coins | +28.6% | +16.7% |
-| Maicon | 90 | Serie A TIM | 100k coins | +22% | +56.2% |
-| Antonio Di Natale | 89 | Serie A TIM | 353k coins | +19.7% | -0.3% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 106k coins | +19.1% | +21.8% |
-| Víctor Ibarbo | 85 | Serie A TIM | 61k coins | +18.4% | -5.4% |
-| Daniele De Rossi | 87 | Serie A TIM | 28k coins | +18.1% | -15.3% |
-| Maicon | 89 | Serie A TIM | 146k coins | +15.9% | +30.4% |
+| Zion Suzuki | 84 | Serie A TIM | 298k coins | +30.1% | +57.7% |
+| Weston McKennie | 91 | Serie A TIM | 32k coins | +23.5% | +21.2% |
+| Claudio Marchisio | 88 | Serie A TIM | 137k coins | +23.4% | +37.7% |
+| Marek Hamšík | 88 | Serie A TIM | 37k coins | +22.1% | -41.3% |
+| Khéphren Thuram | 87 | Serie A TIM | 97k coins | +21.2% | -18.5% |
 
 
 ### Análise das altas
 
-- **Rui Costa (88)** subiu **+50%** em 24h, a **42k coins** (faixa do dia: 27k–44k). Está +35% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Federico Baschirotto (81)** subiu **+47.5%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
 
-- **Lautaro Martínez (90)** subiu **+41.5%** em 24h, a **29k coins** (faixa do dia: 18k–36k). Está +33% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Filip Kostić (88)** subiu **+47.5%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está +53% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Gervinho (85)** subiu **+34.5%** em 24h, a **39k coins** (faixa do dia: 29k–39k). Está +17% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+- **Kenan Yıldız (88)** subiu **+41%** em 24h, a **306k coins** (faixa do dia: 206k–379k). Está em linha com a média de 7 dias (+2%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Yoan Bonny | 86 | Serie A TIM | 113k coins | -40.5% | -1.7% |
-| Kevin De Bruyne | 89 | Serie A TIM | 200k coins | -31% | +8.7% |
-| Rafael Leão | 86 | Serie A TIM | 1.45M coins | -27.5% | -23.2% |
-| Iván Córdoba | 88 | Serie A TIM | 110k coins | -26.7% | 0% |
-| Weston McKennie | 91 | Serie A TIM | 24k coins | -22% | +14.3% |
-| Charles De Ketelaere | 89 | Serie A TIM | 58k coins | -21% | +10.4% |
-| Wesley Sneijder | 92 | Serie A TIM | 805k coins | -18.8% | -16.7% |
-| Iván Córdoba | 88 | Serie A TIM | 87k coins | -17.9% | -13% |
-| Kenan Yıldız | 87 | Serie A TIM | 98k coins | -17.9% | -32.5% |
-| Antonio Di Natale | 92 | Serie A TIM | 587k coins | -17.1% | +2.1% |
+| Rafael Leão | 93 | Serie A TIM | 1.38M coins | -44.7% | +16.6% |
+| Scott McTominay | 87 | Serie A TIM | 45k coins | -29.7% | -62.5% |
+| Scott McTominay | 91 | Serie A TIM | 350k coins | -28.9% | +26.4% |
+| Charles De Ketelaere | 89 | Serie A TIM | 55k coins | -27.6% | +10% |
+| Francisco Conceição | 89 | Serie A TIM | 39k coins | -26.4% | -27.1% |
+| Dušan Vlahović | 86 | Serie A TIM | 44k coins | -25.8% | +20.3% |
+| Paulo Dybala | 91 | Serie A TIM | 895k coins | -18.5% | +37.7% |
+| Antonio Di Natale | 92 | Serie A TIM | 539k coins | -17.1% | -9.9% |
+| Nico Paz | 82 | Serie A TIM | 24k coins | -17% | -12.5% |
+| Maicon | 88 | Serie A TIM | 50k coins | -14.2% | -16.4% |
 
 
 ### Análise das baixas
 
-- **Yoan Bonny (86)** caiu **-40.5%** em 24h, a **113k coins** (faixa do dia: 98k–190k). Está em linha com a média de 7 dias (-2%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Rafael Leão (93)** caiu **-44.7%** em 24h, a **1.38M coins** (faixa do dia: 1.21M–2.49M). Está em linha com a média de 7 dias (-7%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Kevin De Bruyne (89)** caiu **-31%** em 24h, a **200k coins** (faixa do dia: 190k–290k). Está em linha com a média de 7 dias (-3%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Scott McTominay (87)** caiu **-29.7%** em 24h, a **45k coins** (faixa do dia: 45k–66k). Está -40% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Rafael Leão (86)** caiu **-27.5%** em 24h, a **1.45M coins** (faixa do dia: 1.45M–2M). Está -24% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Scott McTominay (91)** caiu **-28.9%** em 24h, a **350k coins** (faixa do dia: 320k–420k). Está -18% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -87,13 +87,13 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Giovanni Di Lorenzo | 85 | 50k coins | 59k coins | 95% |
-| Antonio Di Natale | 89 | 353k coins | 439k coins | 95% |
-| Kouadio Manu Koné | 88 | 106k coins | 126k coins | 95% |
-| Iván Córdoba | 88 | 87k coins | 100k coins | 95% |
 | Seydou Doumbia | 85 | 20k coins | 23k coins | 95% |
-| Denzel Dumfries | 86 | 17k coins | 20k coins | 95% |
-| Mattia Zaccagni | 87 | 25k coins | 32k coins | 95% |
-| Christian Pulisic | 87 | 20k coins | 23k coins | 95% |
+| Kouadio Manu Koné | 88 | 95k coins | 113k coins | 95% |
+| Iván Córdoba | 88 | 113k coins | 130k coins | 95% |
+| Mattia Zaccagni | 87 | 24k coins | 31k coins | 95% |
+| Andrea Barzagli | 88 | 31k coins | 35k coins | 93% |
+| Donyell Malen | 89 | 133k coins | 150k coins | 93% |
+| Wesley Sneijder | 89 | 280k coins | 316k coins | 93% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Nuno Tavares | 87 | 44k coins | -24.1% |
-| Pierre Kalulu | 91 | 89k coins | -17.4% |
-| Charles De Ketelaere | 89 | 58k coins | -34.2% |
-| Scott McTominay | 87 | 61k coins | -17.5% |
-| Giovanni Di Lorenzo | 86 | 60k coins | -24% |
-| Marek Hamšík | 89 | 44k coins | -16.7% |
-| Juan Cuadrado | 86 | 27k coins | -29.1% |
-| Juan David Cabal | 85 | 18k coins | -24.1% |
+| Nuno Tavares | 87 | 47k coins | -24.1% |
+| Scott McTominay | 87 | 45k coins | -17.5% |
+| Francisco Conceição | 89 | 39k coins | -16.7% |
+| Weston McKennie | 91 | 32k coins | -16.7% |
+| Giovanni Di Lorenzo | 86 | 56k coins | -24% |
+| Denzel Dumfries | 89 | 35k coins | -17.3% |
+| Davide Zappacosta | 88 | 61k coins | -34.2% |
+| Charles De Ketelaere | 89 | 55k coins | -34.2% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -120,20 +120,22 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Rui Costa (88, Serie A TIM), com +50% em 24h, a 42k coins no Console (PS).
+Federico Baschirotto (81, Serie A TIM), com +47.5% em 24h, a 30k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Yoan Bonny (86), -40.5% em 24h, a 113k coins.
+Rafael Leão (93), -44.7% em 24h, a 1.38M coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 50k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 42 cartas em alta contra 100 em queda (média -3.92%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 55 cartas em alta contra 85 em queda (média 0.4%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

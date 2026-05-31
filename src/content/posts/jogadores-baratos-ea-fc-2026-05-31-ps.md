@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:30:01.000Z
+pubDatetime: 2026-05-31T21:27:27.000Z
 title: "Jogadores baratos de Serie A no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | -1.9% |
-| Giovane | 89 | CAM | Serie A TIM | 14k coins | -8.3% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -2.1% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | +1.8% |
-| Ché Adams | 88 | ST | Serie A TIM | 15k coins | -1.7% |
-| Mike Maignan | 88 | GK | Serie A TIM | 15k coins | 0% |
+| Giovane | 89 | CAM | Serie A TIM | 15k coins | +7.1% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +2.1% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | +6% |
+| Ché Adams | 88 | ST | Serie A TIM | 14k coins | -6.7% |
+| Mike Maignan | 88 | GK | Serie A TIM | 15k coins | -1.6% |
 | Nicolò Barella | 87 | CM | Serie A TIM | 2k coins | -19% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | 0% |
-| Bremer | 87 | CB | Serie A TIM | 12k coins | -65.4% |
-| Gustav Isaksen | 87 | RW | Serie A TIM | 12k coins | -14.3% |
-| Pervis Estupiñán | 87 | LB | Serie A TIM | 12k coins | -14.3% |
+| Pervis Estupiñán | 87 | LB | Serie A TIM | 11k coins | -21.4% |
+| Gustav Isaksen | 87 | RW | Serie A TIM | 12k coins | -16.4% |
+| Éderson | 87 | CM | Serie A TIM | 12k coins | -16.1% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | +4.4% |
-| Marco Carnesecchi | 87 | GK | Serie A TIM | 12k coins | -14.3% |
-| Éderson | 87 | CM | Serie A TIM | 12k coins | -12.5% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +4.4% |
+| Marco Carnesecchi | 87 | GK | Serie A TIM | 12k coins | -12.5% |
 | Rasmus Højlund | 87 | ST | Serie A TIM | 12k coins | -12.5% |
+| Bremer | 87 | CB | Serie A TIM | 12k coins | -23.4% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13k coins**
 
-- **Giovane (89, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Giovane (89, CAM)** da Serie A TIM, a apenas **15k coins**
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **14k coins**
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **13k coins**
 
-- **Ché Adams (88, ST)** da Serie A TIM, a apenas **15k coins**
+- **Ché Adams (88, ST)** da Serie A TIM, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

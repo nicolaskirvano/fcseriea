@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:30:02.000Z
+pubDatetime: 2026-05-31T21:27:28.000Z
 title: "Melhores investimentos em Serie A no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -33,12 +33,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Donyell Malen | 89 | Serie A TIM | 93k coins | +26.5% | +36.8% | 40% |
 | Gianluca Mancini | 85 | Serie A TIM | 31k coins | +11.7% | +36.3% | 46% |
-| Wesley Sneijder | 88 | Serie A TIM | 28k coins | +20.4% | +33.3% | 29% |
 | Francisco Conceição | 89 | Serie A TIM | 40k coins | +11.9% | +33.3% | 52% |
-| Marek Hamšík | 87 | Serie A TIM | 18k coins | +2.9% | +22.4% | 64% |
+| Andrea Barzagli | 87 | Serie A TIM | 16k coins | +1.6% | +27.4% | 50% |
+| Wesley Sneijder | 88 | Serie A TIM | 28k coins | +7.8% | +18.1% | 29% |
+| Iván Córdoba | 87 | Serie A TIM | 17k coins | +32.7% | +17% | 43% |
 | Nicolò Zaniolo | 86 | Serie A TIM | 23k coins | +27.8% | +12.2% | 70% |
 | Maicon | 90 | Serie A TIM | 100k coins | +17.6% | +11.1% | 64% |
 | Khéphren Thuram | 87 | Serie A TIM | 140k coins | +40% | +7.7% | 36% |
+| Claudio Marchisio | 87 | Serie A TIM | 15k coins | +15.4% | +7.1% | 47% |
 | Gervinho | 87 | Serie A TIM | 250k coins | +16.3% | +6.8% | 20% |
 
 
@@ -48,11 +50,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Gianluca Mancini (85)** — 31k coins, **+36.3% em 7 dias** (+11.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Wesley Sneijder (88)** — 28k coins, **+33.3% em 7 dias** (+20.4% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
 - **Francisco Conceição (89)** — 40k coins, **+33.3% em 7 dias** (+11.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Marek Hamšík (87)** — 18k coins, **+22.4% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (-2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andrea Barzagli (87)** — 16k coins, **+27.4% em 7 dias** (+1.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Wesley Sneijder (88)** — 28k coins, **+18.1% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -78,6 +80,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 
