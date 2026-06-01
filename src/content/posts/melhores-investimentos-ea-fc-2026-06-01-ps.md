@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:30:01.000Z
+pubDatetime: 2026-06-01T13:30:01.000Z
 title: "Melhores investimentos em Serie A no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -44,8 +44,8 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Juan Cuadrado | 86 | Serie A TIM | 34k coins | +14.5% | +18.6% | 5% |
 | Antonio Di Natale | 88 | Serie A TIM | 169k coins | +3% | +16.6% | 8% |
 | Charles De Ketelaere | 88 | Serie A TIM | 74k coins | +3.5% | +13.7% | 43% |
+| Iván Córdoba | 87 | Serie A TIM | 24k coins | +29% | +12.6% | 27% |
 | Billy Gilmour | 87 | Serie A TIM | 40k coins | +13.6% | +12% | 53% |
-| Jonathan David | 90 | Serie A TIM | 80k coins | +32.2% | +10.3% | 8% |
 
 
 ## 📈 Análise dos destaques
