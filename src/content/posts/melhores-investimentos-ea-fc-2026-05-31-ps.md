@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:30:01.000Z
+pubDatetime: 2026-06-01T01:30:01.000Z
 title: "Melhores investimentos em Serie A no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -33,19 +33,17 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Nuno Tavares | 87 | Serie A TIM | 47k coins | +6.8% | +74.1% | 5% |
 | Maicon | 90 | Serie A TIM | 100k coins | +7% | +61.3% | 51% |
+| Daniele De Rossi | 87 | Serie A TIM | 47k coins | +14.7% | +42.8% | 27% |
 | Nicolò Zaniolo | 86 | Serie A TIM | 24k coins | +9.1% | +39.1% | 5% |
 | Claudio Marchisio | 88 | Serie A TIM | 137k coins | +23.4% | +37.7% | 16% |
-| Maicon | 88 | Serie A TIM | 62k coins | +30.9% | +25% | 95% |
-| Daniele De Rossi | 89 | Serie A TIM | 150k coins | +11.1% | +23% | 39% |
+| Wesley Sneijder | 88 | Serie A TIM | 50k coins | +19.5% | +32.9% | 54% |
+| Daniele De Rossi | 89 | Serie A TIM | 150k coins | +7.1% | +23% | 39% |
 | Pierre Kalulu | 91 | Serie A TIM | 86k coins | +14% | +22.1% | 5% |
 | Morata | 87 | Serie A TIM | 26k coins | +20.4% | +21.8% | 5% |
 | Weston McKennie | 91 | Serie A TIM | 32k coins | +23.5% | +21.2% | 5% |
 | Wesley | 88 | Serie A TIM | 44k coins | +8.8% | +20% | 8% |
 | Juan Cuadrado | 86 | Serie A TIM | 32k coins | +16.4% | +12.3% | 5% |
-| Iván Córdoba | 88 | Serie A TIM | 113k coins | +7.6% | +8.6% | 95% |
 | Giovane | 89 | Serie A TIM | 15k coins | +15.4% | +7.1% | 40% |
-| Lúcio | 89 | Serie A TIM | 95k coins | +1.6% | +6.7% | 39% |
-| Wesley Sneijder | 88 | Serie A TIM | 45k coins | +6.5% | +5.3% | 54% |
 
 
 ## 📈 Análise dos destaques
@@ -54,11 +52,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Maicon (90)** — 100k coins, **+61.3% em 7 dias** (+7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
+- **Daniele De Rossi (87)** — 47k coins, **+42.8% em 7 dias** (+14.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+
 - **Nicolò Zaniolo (86)** — 24k coins, **+39.1% em 7 dias** (+9.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Claudio Marchisio (88)** — 137k coins, **+37.7% em 7 dias** (+23.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
-
-- **Maicon (88)** — 62k coins, **+25% em 7 dias** (+30.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
