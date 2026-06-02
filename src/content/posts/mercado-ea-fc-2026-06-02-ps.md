@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:30:01.000Z
+pubDatetime: 2026-06-02T13:30:01.000Z
 title: "Serie A no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true

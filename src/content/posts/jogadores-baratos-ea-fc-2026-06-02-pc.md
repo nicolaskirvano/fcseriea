@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:30:03.000Z
+pubDatetime: 2026-06-02T13:30:03.000Z
 title: "Jogadores baratos de Serie A no EA FC (02/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
