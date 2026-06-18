@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:30:17.000Z
+pubDatetime: 2026-06-18T19:35:04.000Z
 title: "Serie A no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
