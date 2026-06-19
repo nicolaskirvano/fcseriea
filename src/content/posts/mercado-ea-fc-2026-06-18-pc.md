@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:40:41.000Z
+pubDatetime: 2026-06-19T01:32:17.000Z
 title: "Serie A no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Daniele De Rossi (87, Serie A TIM), com +47.9% em 24h, a 32k coins no PC."
+    a: "Kenan Yıldız (87, Serie A TIM), com +57.9% em 24h, a 180k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nuno Tavares (87), -42.9% em 24h, a 48k coins."
+    a: "Nuno Tavares (87), -42.7% em 24h, a 47k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 46 cartas em alta contra 58 em queda (média 1.23%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 56 cartas em alta contra 56 em queda (média 2.09%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado da Serie A em PC apresenta uma dinâmica lateral robusta para esta segunda-feira, 18 de junho de 2026, caracterizada por uma ausência clara de direcionalidade macro que exige extrema cautela dos traders experientes. Com um balanço de 46 altas contra 58 quedas nas últimas 24 horas e uma variação média modesta de 1.23%, o cenário indica uma consolidação de preços onde o volume de negociação é mais reativo a eventos específicos do que a tendências estruturais de mercado. Esta lateralidade sugere que os investidores estão posicionados em standby, aguardando clareza sobre promoções de fim de semana ou eventos de temporada que possam catalizar um movimento mais definido, criando assim uma janela de oportunidade para operações de curto prazo com baixo risco sistêmico. O trader inteligente deve observar que a falta de um narrativo dominante permite que movimentos individuais de jogadores específicos se destaquem sem o ruído de alta volatilidade generalizada, permitindo uma análise mais cirúrgica das probabilidades de alta e dos fundamentos de cada ativo. Portanto, a estratégia do dia deve focar na identificação de discrepâncias entre a percepção de valor e a realidade de oferta e demanda, utilizando os dados de probabilidade como bússola para decisões de entrada e saída precisas.
+O cenário do mercado da Serie A para o dia 18/06/2026 em PC apresenta um viés claramente otimista, com um sentimento de alta dominando as negociações e refletindo uma liquidez robusta entre os traders que buscam ativos de valorização rápida. Com um balanço equilibrado mas tendencioso para o positivo, registramos 56 valorizações significativas contra 56 quedas, resultando em uma média de alta de 2.09% nas últimas 24 horas, o que indica que a pressão de compra está superando a oferta em muitos segmentos-chave da liga italiana. Este contexto de mercado em alta sugere que os traders estão dispostos a pagar prêmios por jogadores com alta probabilidade de apreciação futura, especialmente aqueles com raridades ou utilidades específicas em meta squads, criando oportunidades tangíveis para quem sabe ler os sinais de escassez. A volatilidade controlada permite que estratégias de swing trading sejam executadas com maior confiança, desde que se evite alavancagem excessiva em ativos com fundamentos frágeis ou probabilidade de alta baixa, focando-se naqueles que demonstram força relativa consistente. O tom do dia é de cautela otimista, onde a seleção criteriosa dos ativos é mais importante do que o volume de operações, pois o mercado recompensa a precisão na identificação dos pontos de inflexão de preço.
 
-> 🟢 **Maior alta:** Daniele De Rossi (87) **+47.9%** · 🔴 **Maior baixa:** Nuno Tavares (87) **-42.9%**
+> 🟢 **Maior alta:** Kenan Yıldız (87) **+57.9%** · 🔴 **Maior baixa:** Nuno Tavares (87) **-42.7%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +47.9% | +17.4% |
-| Andrea Barzagli | 87 | Serie A TIM | 22k coins | +43.2% | +23.3% |
-| Seydou Doumbia | 85 | Serie A TIM | 26k coins | +39% | +57.4% |
-| Marek Hamšík | 88 | Serie A TIM | 60k coins | +37.5% | +89.7% |
-| Kenan Yıldız | 88 | Serie A TIM | 210k coins | +37.3% | +17.3% |
-| Francisco Conceição | 84 | Serie A TIM | 46k coins | +36.9% | +7.2% |
-| Rasmus Højlund | 87 | Serie A TIM | 30k coins | +34.8% | +3.3% |
-| Marek Hamšík | 89 | Serie A TIM | 58k coins | +31.8% | +45% |
-| Matías Soulé | 86 | Serie A TIM | 26k coins | +30% | +30% |
-| Yoan Bonny | 86 | Serie A TIM | 63k coins | +29.9% | -3.1% |
+| Kenan Yıldız | 87 | Serie A TIM | 180k coins | +57.9% | +56.5% |
+| Wesley Sneijder | 93 | Serie A TIM | 969k coins | +52.1% | +44.4% |
+| Marek Hamšík | 88 | Serie A TIM | 60k coins | +50% | +106.9% |
+| Seydou Doumbia | 85 | Serie A TIM | 29k coins | +43.2% | +55.9% |
+| Esteban Cambiasso | 86 | Serie A TIM | 22k coins | +39.4% | +53.3% |
+| Kenan Yıldız | 88 | Serie A TIM | 210k coins | +37.3% | +20% |
+| Víctor Ibarbo | 85 | Serie A TIM | 60k coins | +37.1% | +20% |
+| Rasmus Højlund | 87 | Serie A TIM | 31k coins | +36.4% | 0% |
+| Paulo Dybala | 88 | Serie A TIM | 139k coins | +33.7% | +63.5% |
+| Gervinho | 85 | Serie A TIM | 30k coins | +31.9% | +42.9% |
 
 
-O lado das altas é dominado por movimentos significativos em ativos de médio e baixo custo, onde Daniele De Rossi (87) lidera com um impressionante aumento de 47.9% atingindo 32k coins, apesar de sua probabilidade de alta futura ser de apenas 17%, indicando um possível pico de interesse momentâneo ou esgotamento de estoque que deve ser vendido rapidamente.紧随其后, Andrea Barzagli (87) sobe 43.2% para 22k coins com uma probabilidade de alta de 50%, sugerindo uma tendência mais sustentável e uma boa oportunidade de segurar se o momentum se manter, enquanto Seydou Doumbia (85) acompanha com 39% de alta para 26k coins e uma probabilidade de 53%, reforçando a força dos ativos de entrada na Serie A. No segmento de preço médio, Marek Hamšík (88) dispara 37.5% para 60k coins, mas sua baixa probabilidade de 19% alerta para um movimento especulativo de curto prazo que pode corrigir, exigindo vigilância constante. Por outro lado, Kenan Yıldız (88) apresenta uma alta de 37.3% para um preço elevado de 210k coins com probabilidade de 22%, um sinal de que o topo de mercado está mais volátil e sensível a liquidez, enquanto Francisco Conceição (84) sobe 36.9% para 46k coins com 40% de probabilidade, oferecendo um equilíbrio interessante entre risco e retorno potencial para carteiras diversificadas.
+O destaque absoluto das altas foi Kenan Yıldız (87, Serie A TIM), que registrou um impressionante aumento de 57.9% em 24 horas, atingindo os 180k coins, impulsionado por uma probabilidade de alta de 16% que atraiu especuladores de curto prazo buscando ganhos rápidos em um ativo de médio porte.紧随其后的是 Wesley Sneijder (93, Serie A TIM), cuja valorização de 52.1% o levou a 969k coins, um movimento robusto sustentado por sua probabilidade de alta de 20% e pela demanda constante por lendas de alto nível em squads de competição de elite, onde seu custo elevado é justificado pelo impacto estatístico. Marek Hamšík (88, Serie A TIM) também se sobressaiu com alta de 50%, agora cotado a 60k coins, aproveitando uma probabilidade de alta de 19% que indica sustentabilidade na tendência, tornando-o um ativo de entrada acessível com potencial de multiplicação rápida para traders com capital limitado. Seydou Doumbia (85, Serie A TIM) apresentou um dos movimentos mais fortes em termos de probabilidade, subindo 43.2% para 29k coins com uma probabilidade de alta de 53%, o que sugere que o mercado está precificando antecipadamente uma futura escassez ou utilidade em eventos específicos, tornando-o uma compra de alto risco-recompensa. Esteban Cambiasso (86, Serie A TIM) completou o top 5 com alta de 39.4% a 22k coins, respaldado por probabilidade de 24%, indicando que ativos de custo baixo estão sendo alvos de arbitragem de liquidez, onde pequenas entradas de capital geram retornos percentuais elevados devido à baixa base de preço.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 87 | Serie A TIM | 48k coins | -42.9% | -40.9% |
-| Gervinho | 87 | Serie A TIM | 80k coins | -36.4% | -32.4% |
-| Jonathan David | 90 | Serie A TIM | 34k coins | -32.1% | -60.2% |
-| Juan David Cabal | 85 | Serie A TIM | 29k coins | -29.4% | +7.1% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 40k coins | -26.1% | -17% |
-| Luca Mazzitelli | 84 | Serie A TIM | 28k coins | -25% | -23.1% |
-| Weston McKennie | 84 | Serie A TIM | 38k coins | -25% | -6.2% |
+| Nuno Tavares | 87 | Serie A TIM | 47k coins | -42.7% | -43.7% |
+| Morata | 87 | Serie A TIM | 55k coins | -37.5% | +13.4% |
+| Idrissa Touré | 83 | Serie A TIM | 119k coins | -37.4% | +172% |
+| Luca Mazzitelli | 84 | Serie A TIM | 28k coins | -30.6% | -28.8% |
+| Lorenzo Pellegrini | 83 | Serie A TIM | 42k coins | -29.8% | -16.7% |
+| Hidetoshi Nakata | 88 | Serie A TIM | 30k coins | -27.3% | +11.1% |
+| Juan David Cabal | 85 | Serie A TIM | 30k coins | -27.1% | +9.7% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 45k coins | -26.9% | -21.3% |
 | Giovanni Di Lorenzo | 85 | Serie A TIM | 32k coins | -24.4% | -42.3% |
-| Arthur Atta | 85 | Serie A TIM | 56k coins | -24.3% | +88.2% |
-| Lorenzo Pellegrini | 83 | Serie A TIM | 45k coins | -21.5% | -6.8% |
+| Martin Baturina | 89 | Serie A TIM | 36k coins | -21.9% | +38.9% |
 
 
-As quedas mais acentuadas ocorrem em ativos que estavam previamente sobreavaliados ou sofrendo de falta de demanda orgânica, com Nuno Tavares (87) liderando as perdas com -42.9% caindo para 48k coins, apesar de manter uma probabilidade de alta de 26%, o que sugere um fundo técnico potencialmente interessante para compradores ousados. Gervinho (87) sofre uma queda drástica de -36.4% para 80k coins com probabilidade de 20%, indicando uma perda de confiança do mercado e um ativo que deve ser evitado até sinais de reversão claros, pois o risco de continuação da queda é alto. Jonathan David (90) despencou -32.1% para 34k coins, um movimento intrigante dado seu alto rating e probabilidade de alta de 76%, sugerindo uma oportunidade de compra de valor para traders de longo prazo que acreditam na revalorização do ativo. Juan David Cabal (85) cai -29.4% para 29k coins com probabilidade de 26%, refletindo uma liquidação de carteiras que podem estar ajustando posições, enquanto Giovanni Di Lorenzo (86) perde -26.1% para 40k coins com probabilidade de 25%, mostrando fragilidade no setor de laterais. Luca Mazzitelli (84) e Weston McKennie (84) também caem 25% cada, para 28k e 38k respectivamente, com probabilidades de 64% e 49%, indicando que McKennie pode estar mais próximo de um suporte sólido e potencial recuperação do que Mazzitelli, apesar da queda similar.
+Na contramão do sentimento geral, Nuno Tavares (87, Serie A TIM) sofreu a maior queda com -42.7%, recuando para 47k coins, um movimento severo que reflete uma probabilidade de alta baixa de 26% e possivelmente uma redistribuição de capital para ativos mais quentes ou uma saturação momentânea de oferta no mercado secundário. Morata (87, Serie A TIM) caiu 37.5% para 55k coins, com uma probabilidade de alta ínfima de 11%, sinalizando que o ativo perdeu o interesse dos holders e está em uma fase de desvalorização estrutural, sendo arriscado tentar comprar na queda sem sinais claros de suporte ou reversão técnica. Idrissa Touré (83, Serie A TIM) despencou 37.4% para 119k coins, apesar de uma probabilidade de alta de 25%, o que pode indicar que grandes carteiras estão liquidando posições de alto valor para reequilibrar portfólios, criando uma pressão vendedora temporária mas intensa em ativos de maior ticket. Luca Mazzitelli (84, Serie A TIM) perdeu 30.6% para 28k coins, paradoxalmente apresentando a maior probabilidade de alta entre os baixados com 64%, o que sugere que esta queda pode ser uma oportunidade de compra de contramão para traders dispostos a aguardar a correção da probabilidade para o preço, desde que o volume suporte a reversão. Lorenzo Pellegrini (83, Serie A TIM) caiu 29.8% para 42k coins com probabilidade de alta de apenas 13%, reforçando a ideia de que ativos com fundamentos fracos e baixa utilidade em metas atuais tendem a ser abandonados rapidamente pelo mercado em tempos de alta seletiva.
 
 
 ## 🎯 A estratégia do dia
-A estratégia recomendada para hoje é focar na compra seletiva de ativos com alta probabilidade de recuperação que sofreram quedas recentes, especificamente Jonathan David (90) e Weston McKennie (84), aproveitando a desconfiança do mercado para acumular posições a preços descontados com margem de segurança. Deve-se evitar comprar os líderes das altas como Daniele De Rossi (87) e Marek Hamšík (88) neste momento, pois suas baixas probabilidades de alta futura (17% e 19%) indicam que os preços já incorporaram o otimismo e há risco imediato de correção. Traders de curto prazo podem considerar vender rapidamente Andrea Barzagli (87) e Seydou Doumbia (85) se houver lucro, usando o momentum atual para realizar ganhos antes que a lateralidade do mercado absorva a pressão de compra. É crucial monitorar de perto a probabilidade de alta de Kenan Yıldız (88), pois ativos de alto valor com probabilidade baixa (22%) são extremamente sensíveis a mudanças de sentimento e devem ser negociados com ordens limite rigorosas para evitar perdas. No geral, a cautela é a palavra-chave, priorizando a preservação de capital em um mercado sem direção clara e aproveitando apenas as discrepâncias óbvias entre preço e probabilidade para operações de arbitragem de sentimento.
+A estratégia para hoje deve focar na acumulação seletiva de ativos de alta probabilidade e baixo custo, como Seydou Doumbia e Víctor Ibarbo, que combinam quedas recentes ou bases de preço acessíveis com probabilidades de alta superiores a 50% e 60% respectivamente, oferecendo o melhor risco-retorno para traders ágeis. É recomendável evitar a compra imediata de Morata e Lorenzo Pellegrini, cujas probabilidades de alta abaixo de 15% indicam fraqueza estrutural e risco de continuação da desvalorização, a menos que haja uma mudança drástica no sentimento do mercado ou em eventos externos. Traders com capital mais robusto devem considerar a entrada em Kenan Yıldız e Wesley Sneijder, mas com alvos de lucro mais apertados e stop-loss rigorosos, dada a volatilidade extrema e os preços já elevados que podem atrair lucros rápidos de outros holders. A venda de Nuno Tavares e Idrissa Touré deve ser considerada se os holders não tiverem paciência para esperar a correção das probabilidades, pois a queda acentuada sugere perda de confiança imediata, embora a probabilidade de 25-26% em Touré possa indicar um fundo técnico próximo. O timing ideal para operações de compra é durante os horários de menor volume, para garantir melhores preços de entrada, enquanto as vendas devem ser executadas nos picos de atividade do servidor, aproveitando a liquidez para maximizar os ganhos nas valorizações de ativos como Hamšík e Cambiasso, que demonstram consistência na tendência de alta com probabilidades saudáveis de 19% a 24%.
 
 
 ## 🧪 De onde vêm estes números
@@ -77,13 +77,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Daniele De Rossi (87, Serie A TIM), com +47.9% em 24h, a 32k coins no PC.
+Kenan Yıldız (87, Serie A TIM), com +57.9% em 24h, a 180k coins no PC.
 
 **E a maior queda do dia?**  
-Nuno Tavares (87), -42.9% em 24h, a 48k coins.
+Nuno Tavares (87), -42.7% em 24h, a 47k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 46 cartas em alta contra 58 em queda (média 1.23%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 56 cartas em alta contra 56 em queda (média 2.09%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

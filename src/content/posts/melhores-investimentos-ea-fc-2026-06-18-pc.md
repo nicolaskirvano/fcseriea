@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:41:03.000Z
+pubDatetime: 2026-06-19T01:32:48.000Z
 title: "Melhores investimentos em Serie A no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Marek Hamšík (88, Serie A TIM) lidera, com +89.7% em 7 dias a 60k coins no PC, e o modelo dá 19% de chance de seguir subindo."
+    a: "Paulo Dybala (88, Serie A TIM) lidera, com +63.5% em 7 dias a 139k coins no PC, e o modelo dá 36% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Marek Hamšík (88) acumula **+89.7% em 7 dias** a 60k coins.
+> 🔝 **Destaque:** Paulo Dybala (88) acumula **+63.5% em 7 dias** a 139k coins.
 
 
 ## 🔎 Análise do mercado hoje
-Ao analisar o mercado de Ultimate Team no PC para a data de 18 de junho de 2026, o foco recai sobre a coleção Serie A TIM, onde a volatilidade recente oferece oportunidades claras de investimento. A tendência de valorização nos últimos sete dias indica que certas cartas específicas estão se destacando não apenas pelo aumento de preço imediato, mas pela alta probabilidade de continuidade dessa ascensão. Para investidores que buscam segurança e retorno consistente, a análise dos dados revela que a escolha deve ser guiada pela combinação entre o percentual de alta nas últimas 24 horas e, principalmente, pela probabilidade estatística de o ativo continuar subindo, evitando assim compras em picos efêmeros.
+Ao analisar o mercado do EA FC Ultimate Team para a Série A TIM no PC, datado de 18 de junho de 2026, observamos um cenário vibrante de oportunidades de investimento baseadas na tendência de valorização dos últimos sete dias. O foco principal recai sobre cartas que demonstraram não apenas um aumento no preço, mas uma alta probabilidade estatística de continuidade dessa ascensão. Entre os destaques absolutos, Paulo Dybala se impõe como uma peça de alto valor e alto risco calculado. Com um aumento de 33,7% nas últimas 24 horas, sua carta de rating 88 atingiu a marca de 139 mil coins. A probabilidade de alta é estimada em 36%, o que, combinado com o patamar de preço elevado, sugere um movimento liderado por demanda de squads específicos ou itens de meta, exigindo atenção constante dos investidores que buscam lucros expressivos em ativos premium.
 
-Dentre as opções de baixo custo, o Marek Hamšík (87, Serie A TIM) apresenta-se como uma das entradas mais seguras. Com uma valorização de 31.7% nas últimas 24 horas e um preço atual de apenas 20k coins, esta carta possui uma probabilidade de alta impressionante de 64%. Esse indicador sugere que o ativo ainda está em fase de acumulação por parte dos usuários, tornando-o um excelente ponto de entrada para quem deseja minimizar o risco inicial. O movimento de mercado demonstra que cartas de rating mais acessíveis estão sendo alvo de buscas rápidas, impulsionadas pela necessidade de completar squads temáticos ou fortalecer times de divisão inferior sem comprometer o orçamento principal.
+Na faixa de investimento médio, Ché Adams e Denzel Dumfries apresentam perfis interessantes para quem busca equilíbrio entre risco e retorno. Ché Adams, com rating 89, valorizou 12,1% em 24 horas, estabilizando-se em 33 mil coins. Sua probabilidade de alta de 60% é um indicador robusto de sustentabilidade, tornando-o uma escolha segura para carteiras de médio porte. Já Denzel Dumfries, também de rating 89, registrou um salto de 25% para atingir 100 mil coins. Com uma probabilidade de alta de 36%, semelhante à de Dybala, mas em um patamar de entrada mais acessível, Dumfries oferece uma alternativa para investidores que desejam exposição a jogadores de elite sem o custo exorbitante das cartas mais caras do mercado.
 
-No segmento intermediário, o Leonardo Spinazzola (89, Serie A TIM) desponta como uma das apostas mais sólidas. Embora tenha registrado um aumento de 13.2% nas últimas 24 horas, seu diferencial está na probabilidade de alta de 56%, posicionando-se a 38k coins. Esse cenário indica uma demanda estrutural, possivelmente ligada à utilidade da carta em meta squads ou desafios específicos da temporada. A estabilidade do preço combinada com a alta probabilidade de crescimento futuro sugere que o Spinazzola não é apenas uma moda passageira, mas um ativo com fundamento no uso competitivo, oferecendo uma margem de lucro saudável para vendas a médio prazo.
+Os ativos de baixo custo, por outro lado, revelam as maiores potencialidades de multiplicação percentual, atraindo investidores com capital limitado. Marek Hamšík é, sem dúvida, o destaque estatístico desta categoria. Sua carta de rating 87 subiu 38,6% em apenas 24 horas, custando apenas 20 mil coins. O que realmente chama a atenção é a probabilidade de alta de 64%, um dos índices mais elevados do grupo analisado. Isso indica uma forte pressão de compra e uma tendência consolidada, sugerindo que Hamšík pode ser a aposta mais racional para quem prioriza a segurança do retorno sobre o valor nominal da carta.
 
-Para investidores dispostos a arriscar um pouco mais em busca de retornos exponenciais, o Seydou Doumbia (85, Serie A TIM) merece atenção especial. Com a maior alta registrada nas últimas 24 horas entre os ativos analisados, saltando 39%, e uma probabilidade de alta de 53%, esta carta a 26k coins representa uma oportunidade de *breakout*. O forte impulso recente indica uma entrada massiva de compradores, e a probabilidade estatística confirma que há espaço para o preço continuar subindo antes de estabilizar. É um ativo de giro rápido, ideal para quem monitora o mercado diariamente e precisa de agilidade na execução das vendas.
+Outro nome que se destaca na categoria de baixo investimento é Gervinho. Com rating 85, sua carta aumentou 31,9% em 24 horas, posicionando-se em 30 mil coins. Assim como Hamšík, Gervinho possui uma probabilidade de alta de 60%, reforçando a ideia de que jogadores com ratings mais baixos, mas com utilidade em formatos específicos ou SBCs, estão sendo alvos de compra agressiva. A combinação de alta volatilidade positiva e alta probabilidade de continuidade torna Gervinho uma peça chave para estratégias de curto prazo com alto turnover.
 
-Por fim, para quem busca o equilíbrio perfeito entre risco e recompensa, o Billy Gilmour (87, Serie A TIM) é a carta com a maior probabilidade de alta de toda a lista, com 76%. Apesar de ter subido apenas 16.1% nas últimas 24 horas, o preço de 45k coins reflete uma valorização controlada e consistente. Essa alta probabilidade de 76% é um sinal forte de sustentação no mercado, indicando que a demanda supera consistentemente a oferta. Enquanto cartas como o Dybala (143k coins) e o Hamšík (89, 58k coins) oferecem probabilidades menores de 36% e 67% respectivamente, o Gilmour se consolida como a escolha racional para quem prioriza a segurança do investimento baseada em dados estatísticos robustos, garantindo uma posição favorável no mercado da Serie A TIM.
+Para investidores dispostos a arriscar um pouco mais em ativos de custo intermediário, Billy Gilmour oferece uma perspectiva única. Sua carta de rating 87 subiu 15,4% em 24 horas, custando 45 mil coins. Apesar do aumento percentual ser menor que o de Hamšík ou Gervinho, a probabilidade de alta de Gilmour é impressionante: 76%. Este é o índice mais alto entre todas as cartas listadas, indicando uma tendência extremamente forte e sustentada. Para analistas conservadores, Gilmour representa o equilíbrio ideal entre um preço acessível e uma certeza estatística de valorização, minimizando o risco de queda brusca.
+
+Finalmente, é importante observar cartas como Esteban Cambiasso, Khéphren Thuram, Pierre Kalulu e Andrea Barzagli, que, embora em tendência de alta, apresentam probabilidades mais baixas ou preços que podem inibir a liquidez rápida. Cambiasso (86, 22k coins) tem alta probabilidade de 24%, enquanto Thuram (85, 99k coins) tem apenas 14%. Kalulu (91, 85k coins) e Barzagli (88, 50k coins) também mostram sinais de alta, mas com probabilidades de 31% e 49%, respectivamente. A recomendação final, portanto, foca a entrada de capital em Dybala para alto risco/retorno, Hamšík e Gervinho para multiplicação rápida de capital baixo, e Billy Gilmour como a aposta mais segura estatisticamente para o médio prazo.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marek Hamšík | 88 | Serie A TIM | 60k coins | +37.5% | +89.7% | 19% |
-| Paulo Dybala | 88 | Serie A TIM | 143k coins | +22.2% | +68.2% | 36% |
-| Khéphren Thuram | 85 | Serie A TIM | 100k coins | +13.2% | +58.5% | 14% |
-| Seydou Doumbia | 85 | Serie A TIM | 26k coins | +39% | +57.4% | 53% |
-| Leonardo Spinazzola | 89 | Serie A TIM | 38k coins | +13.2% | +57.1% | 56% |
-| Marek Hamšík | 87 | Serie A TIM | 20k coins | +31.7% | +51.9% | 64% |
-| Marek Hamšík | 89 | Serie A TIM | 58k coins | +31.8% | +45% | 67% |
-| Ché Adams | 89 | Serie A TIM | 35k coins | +4% | +43.3% | 60% |
-| Andrea Barzagli | 88 | Serie A TIM | 46k coins | +28.7% | +41.5% | 49% |
-| Billy Gilmour | 87 | Serie A TIM | 45k coins | +16.1% | +36.4% | 76% |
-| Pierre Kalulu | 91 | Serie A TIM | 85k coins | +17.2% | +34.9% | 31% |
-| Cher Ndour | 86 | Serie A TIM | 18k coins | +2.7% | +33.3% | 50% |
-| Denzel Dumfries | 89 | Serie A TIM | 90k coins | +13.1% | +33.1% | 36% |
-| Matías Soulé | 86 | Serie A TIM | 26k coins | +30% | +30% | 59% |
-| Nico Paz | 90 | Serie A TIM | 64k coins | +17.6% | +27% | 60% |
+| Paulo Dybala | 88 | Serie A TIM | 139k coins | +33.7% | +63.5% | 36% |
+| Ché Adams | 89 | Serie A TIM | 33k coins | +12.1% | +54.4% | 60% |
+| Esteban Cambiasso | 86 | Serie A TIM | 22k coins | +39.4% | +53.3% | 24% |
+| Khéphren Thuram | 85 | Serie A TIM | 99k coins | +9.3% | +48.1% | 14% |
+| Pierre Kalulu | 91 | Serie A TIM | 85k coins | +14.8% | +47.1% | 31% |
+| Denzel Dumfries | 89 | Serie A TIM | 100k coins | +25% | +47.1% | 36% |
+| Marek Hamšík | 87 | Serie A TIM | 20k coins | +38.6% | +43.6% | 64% |
+| Gervinho | 85 | Serie A TIM | 30k coins | +31.9% | +42.9% | 60% |
+| Billy Gilmour | 87 | Serie A TIM | 45k coins | +15.4% | +42.9% | 76% |
+| Andrea Barzagli | 88 | Serie A TIM | 50k coins | +3.4% | +39.2% | 49% |
+| Marek Hamšík | 89 | Serie A TIM | 54k coins | +29.5% | +39% | 67% |
+| Armand Laurienté | 86 | Serie A TIM | 38k coins | +25% | +33.9% | 15% |
+| Nico Paz | 90 | Serie A TIM | 64k coins | +7.6% | +27% | 60% |
+| Matías Soulé | 86 | Serie A TIM | 24k coins | +6.5% | +22.5% | 59% |
+| Víctor Ibarbo | 85 | Serie A TIM | 60k coins | +37.1% | +20% | 66% |
 
 
 ## 📈 Análise dos destaques
 
-- **Marek Hamšík (88)** — 60k coins, **+89.7% em 7 dias** (+37.5% em 24h). Preço +40% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Paulo Dybala (88)** — 139k coins, **+63.5% em 7 dias** (+33.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Paulo Dybala (88)** — 143k coins, **+68.2% em 7 dias** (+22.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ché Adams (89)** — 33k coins, **+54.4% em 7 dias** (+12.1% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Khéphren Thuram (85)** — 100k coins, **+58.5% em 7 dias** (+13.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Esteban Cambiasso (86)** — 22k coins, **+53.3% em 7 dias** (+39.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Seydou Doumbia (85)** — 26k coins, **+57.4% em 7 dias** (+39% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khéphren Thuram (85)** — 99k coins, **+48.1% em 7 dias** (+9.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Leonardo Spinazzola (89)** — 38k coins, **+57.1% em 7 dias** (+13.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pierre Kalulu (91)** — 85k coins, **+47.1% em 7 dias** (+14.8% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +90,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Marek Hamšík (88, Serie A TIM) lidera, com +89.7% em 7 dias a 60k coins no PC, e o modelo dá 19% de chance de seguir subindo.
+Paulo Dybala (88, Serie A TIM) lidera, com +63.5% em 7 dias a 139k coins no PC, e o modelo dá 36% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
