@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:31:27.000Z
+pubDatetime: 2026-06-19T19:31:16.000Z
 title: "Melhores investimentos em Serie A no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Maicon (88, Serie A TIM) lidera, com +86.4% em 7 dias a 110k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
+    a: "Khéphren Thuram (85, Serie A TIM) lidera, com +53.8% em 7 dias a 80k coins no Console (PS), e o modelo dá 68% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Maicon (88) acumula **+86.4% em 7 dias** a 110k coins.
+> 🔝 **Destaque:** Khéphren Thuram (85) acumula **+53.8% em 7 dias** a 80k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-O mercado de cartas da Serie A TIM no EA FC Ultimate Team apresenta uma dinâmica interessante para investidores cautelosos nesta sexta-feira, 19 de junho de 2026, no console PlayStation. Ao analisar as tendências de valorização dos últimos sete dias, focamos naqueles ativos que combinam alta recente com uma probabilidade estatística robusta de continuidade na valorização. Entre as opções disponíveis, Maicon se destaca como uma escolha sólida para entrada imediata. O lateral-direito, com uma classificação de 88, registrou uma apreciação de 1,9% nas últimas 24 horas, atingindo a marca de 110 mil moedas. O que torna essa carta particularmente atrativa não é apenas o ganho percentual, mas a probabilidade de alta de 95%, indicando um cenário de mercado extremamente favorável e estável para este ativo específico.
+No cenário atual do EA FC Ultimate Team, focado especificamente na liga Serie A TIM para consoles PlayStation em 19 de junho de 2026, a análise de mercado revela oportunidades distintas baseadas na volatilidade recente e na probabilidade estatística de valorização. Ao observarmos os dados dos últimos sete dias, é evidente que nem todos os jogadores reagem da mesma forma às flutuações do mercado, sendo crucial distinguir entre alta volatilidade imediata e sustentabilidade de preço. A decisão de investir deve ser guiada estritamente pelos números apresentados, evitando especulações externas que não possuem suporte nos dados fornecidos para este período específico.
 
-Outro nome que merece atenção imediata é Rasmus Højlund. O atacante, avaliado em 87, apresentou um crescimento expressivo de 6% em apenas um dia, consolidando-se na faixa dos 40 mil moedas. Assim como Maicon, Højlund possui uma probabilidade de alta de 95%, o que sugere que a demanda por sua carta está superando a oferta de forma consistente. Essa combinação de acessibilidade relativa e alta probabilidade de retorno positivo o posiciona como um dos investimentos mais seguros dentro do pacote Serie A TIM para o curto prazo.
+Dentre as opções disponíveis, Khéphren Thuram se destaca como a carta com maior potencial de entrada imediata. Com uma valorização de 17.6% nas últimas 24 horas e uma probabilidade de alta de 68%, ele apresenta o cenário mais robusto entre os listados. Sua cotação atual de 80 mil coins reflete um ativo que já está em movimento ascendente significativo. A alta probabilidade associada a esse percentual de ganho sugere que a demanda pelo lateral-esquerdo está consolidada, tornando-o uma escolha segura para quem busca exposição a um ativo de médio-alto valor com tendência confirmada de crescimento no curto prazo.
 
-Seydou Doumbia surge como uma oportunidade de alto potencial de retorno rápido. Com uma classificação de 85, a carta do atacante subiu impressionantes 12,3% nas últimas 24 horas, valendo atualmente 42 mil moedas. A probabilidade de alta também é de 95%, o que é raro para ativos com tal volatilidade recente. Para investidores dispostos a assumir riscos moderados em busca de lucros mais agressivos, Doumbia oferece uma relação risco-retrato muito atraente, dada a forte tendência de compra observada no mercado.
+Outro nome que chama atenção, embora com um perfil de risco diferente, é Yoan Bonny. O meia apresenta um salto impressionante de 32.5% em apenas 24 horas, posicionando-se como o maior ganhador percentual do dia. No entanto, sua probabilidade de alta futura é de apenas 33%, o que indica uma volatilidade extrema. Comprá-lo a 78 mil coins exige cautela, pois o mercado pode estar superaquecido a curto prazo. Para investidores agressivos que entendem os riscos de correção após um pico tão acentuado, ele pode oferecer lucros rápidos, mas a baixa probabilidade de continuidade da alta alerta para uma possível estabilização ou queda nos próximos dias.
 
-No entanto, é crucial distinguir entre alta provável e especulação pura. Khéphren Thuram, com 85 de classificação e 11,9% de alta em 24 horas a 80 mil moedas, apresenta uma probabilidade de continuidade de apenas 68%. Embora o preço tenha subido, a menor certeza estatística exige cautela. Da mesma forma, Morata, apesar de ter uma alta de 11,5% a 36 mil moedas, possui uma probabilidade de alta de apenas 5%, indicando que seu pico pode estar próximo e que a correção de preço é mais provável do que a continuação da valorização.
+Para quem prefere um equilíbrio entre custo e probabilidade, Dušan Vlahović e Nicolae Stanciu oferecem perfis interessantes. Vlahović, cotado a 45 mil coins, subiu 10.8% com uma probabilidade de alta de 45%, apresentando um meio-termo sólido. Já Stanciu, a 43 mil coins, registrou alta de 6.6% com probabilidade de 50%, o que é estatisticamente relevante. Ambos os jogadores possuem preços de entrada acessíveis em comparação com Thuram e Bonny, e suas probabilidades de continuar subindo são superiores à de Bonny, oferecendo uma relação risco-retorno mais favorável para carteiras de investimento diversificadas na Serie A.
 
-Cartas de maior classificação e preço, como Jamie Vardy (90, 28,4% de alta a 245 mil moedas) e Antonio Di Natale (88, 10,3% de alta a 90 mil moedas), apresentam probabilidades de alta de 27% e 8%, respectivamente. Esses números sugerem que, apesar dos ganhos recentes, o mercado pode estar saturado ou em fase de distribuição, tornando-as riscos elevados para entrada neste momento específico. Nicolae Stanciu (50% de probabilidade) e Dušan Vlahović (45% de probabilidade) ocupam uma posição intermediária, exigindo análise técnica mais profunda além dos dados de tendência.
+Por outro lado, cartas como Scott McTominay e Marek Hamšík demonstram sinais de estagnação ou baixa atratividade para compra imediata. McTominay, apesar do alto preço de 96 mil coins, tem apenas 3.8% de alta e 5% de probabilidade de continuar subindo. Da mesma forma, Hamšík, a 46 mil coins, mostra apenas 4% de alta com 5% de probabilidade. Esses números sugerem que o mercado não está empurrando esses ativos para cima no momento, tornando-os menos atrativos para estratégias de "buy low, sell high" baseadas em tendência de alta recente.
 
-Por fim, Yoan Bonny, com 22,2% de alta a 82 mil moedas e probabilidade de 33%, representa uma aposta de alto risco. Em resumo, para uma estratégia de investimento baseada estritamente nos dados de tendência de 7 dias e probabilidade de alta, Maicon, Rasmus Højlund e Seydou Doumbia são as únicas cartas da Serie A TIM que oferecem a combinação ideal de segurança estatística (95% de probabilidade) e valorização confirmada, sendo as melhores candidatas para entrada hoje.
+Finalmente, os jogadores de menor custo, como Daniele De Rossi (25k), Junior Messias (22k) e Claudio Marchisio (21k), apresentam probabilidades de alta modestas (27%, 18% e 16%, respectivamente). Embora tenham registrado altas em 24h (17.9%, 18.4% e 9.9%), a probabilidade de sustentação desses ganhos é limitada. Investir neles pode ser uma estratégia de volume, comprando grandes quantidades por baixo custo, mas o retorno percentual líquido tende a ser menor do que focar em Thuram ou Stanciu. A conclusão é clara: Khéphren Thuram e Nicolae Stanciu parecem as escolhas mais racionais para entrada hoje, considerando o equilíbrio entre preço atual, alta recente e, principalmente, a alta probabilidade de valorização futura.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Maicon | 88 | Serie A TIM | 110k coins | +1.9% | +86.4% | 95% |
-| Rasmus Højlund | 87 | Serie A TIM | 40k coins | +6% | +71% | 95% |
-| Seydou Doumbia | 85 | Serie A TIM | 42k coins | +12.3% | +65.7% | 95% |
-| Khéphren Thuram | 85 | Serie A TIM | 80k coins | +11.9% | +60% | 68% |
-| Morata | 87 | Serie A TIM | 36k coins | +11.5% | +57.6% | 5% |
-| Jamie Vardy | 90 | Serie A TIM | 245k coins | +28.4% | +53.6% | 27% |
-| Nicolae Stanciu | 86 | Serie A TIM | 44k coins | +4.8% | +46.2% | 50% |
-| Dušan Vlahović | 86 | Serie A TIM | 43k coins | +6.9% | +42.5% | 45% |
-| Antonio Di Natale | 88 | Serie A TIM | 90k coins | +10.3% | +37.9% | 8% |
-| Yoan Bonny | 86 | Serie A TIM | 82k coins | +22.2% | +37.5% | 33% |
-| Marten de Roon | 85 | Serie A TIM | 24k coins | +15.9% | +35.7% | 16% |
-| Oliver Bierhoff | 88 | Serie A TIM | 16k coins | +10.3% | +33.3% | 55% |
-| Gervinho | 87 | Serie A TIM | 129k coins | +11.9% | +31.9% | 95% |
-| Marek Hamšík | 88 | Serie A TIM | 62k coins | +4.2% | +30.9% | 50% |
-| Luka Modrić | 90 | Serie A TIM | 110k coins | +7.3% | +28.6% | 50% |
+| Khéphren Thuram | 85 | Serie A TIM | 80k coins | +17.6% | +53.8% | 68% |
+| Yoan Bonny | 86 | Serie A TIM | 78k coins | +32.5% | +49% | 33% |
+| Dušan Vlahović | 86 | Serie A TIM | 45k coins | +10.8% | +45.8% | 45% |
+| Nicolae Stanciu | 86 | Serie A TIM | 43k coins | +6.6% | +42.7% | 50% |
+| Daniele De Rossi | 87 | Serie A TIM | 25k coins | +17.9% | +37.5% | 27% |
+| Scott McTominay | 87 | Serie A TIM | 96k coins | +3.8% | +36.2% | 5% |
+| Junior Messias | 87 | Serie A TIM | 22k coins | +18.4% | +34.3% | 18% |
+| Claudio Marchisio | 87 | Serie A TIM | 21k coins | +9.9% | +23.6% | 16% |
+| Piotr Zieliński | 85 | Serie A TIM | 38k coins | +2.2% | +22.1% | 8% |
+| Marek Hamšík | 89 | Serie A TIM | 46k coins | +4% | +17.3% | 5% |
+| Daniele De Rossi | 91 | Serie A TIM | 199k coins | +2.3% | +16.9% | 33% |
+| Giovane | 89 | Serie A TIM | 18k coins | +2.8% | +15.6% | 40% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 48k coins | +6.5% | +14% | 28% |
+| Donyell Malen | 89 | Serie A TIM | 111k coins | +17.8% | +12.8% | 93% |
+| Lautaro Martínez | 90 | Serie A TIM | 60k coins | +2.6% | +12.1% | 47% |
 
 
 ## 📈 Análise dos destaques
 
-- **Maicon (88)** — 110k coins, **+86.4% em 7 dias** (+1.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khéphren Thuram (85)** — 80k coins, **+53.8% em 7 dias** (+17.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
-- **Rasmus Højlund (87)** — 40k coins, **+71% em 7 dias** (+6% em 24h). Preço +29% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Yoan Bonny (86)** — 78k coins, **+49% em 7 dias** (+32.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Seydou Doumbia (85)** — 42k coins, **+65.7% em 7 dias** (+12.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Dušan Vlahović (86)** — 45k coins, **+45.8% em 7 dias** (+10.8% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Khéphren Thuram (85)** — 80k coins, **+60% em 7 dias** (+11.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Nicolae Stanciu (86)** — 43k coins, **+42.7% em 7 dias** (+6.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Morata (87)** — 36k coins, **+57.6% em 7 dias** (+11.5% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Daniele De Rossi (87)** — 25k coins, **+37.5% em 7 dias** (+17.9% em 24h). Preço em linha com a média de 7 dias (-2%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Maicon (88, Serie A TIM) lidera, com +86.4% em 7 dias a 110k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
+Khéphren Thuram (85, Serie A TIM) lidera, com +53.8% em 7 dias a 80k coins no Console (PS), e o modelo dá 68% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
