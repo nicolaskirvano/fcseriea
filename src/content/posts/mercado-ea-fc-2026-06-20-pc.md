@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:31:56.000Z
+pubDatetime: 2026-06-20T22:32:02.000Z
 title: "Serie A no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Matías Soulé (86, Serie A TIM), com +49.5% em 24h, a 33k coins no PC."
+    a: "Hidetoshi Nakata (89, Serie A TIM), com +60% em 24h, a 28k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Wesley Sneijder (88), -38.2% em 24h, a 20k coins."
+    a: "Kevin De Bruyne (88), -45.2% em 24h, a 200k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 36 cartas em alta contra 58 em queda (média -0.31%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 53 cartas em alta contra 63 em queda (média -0.22%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O cenário do mercado de Ultimate Team para o segmento Serie A em PC, datado de 20 de junho de 2026, apresenta uma volatilidade agressiva e claramente direcionada para a desvalorização de ativos, configurando um ambiente hostil para investidores de longo prazo e favorável apenas a traders de alta frequência com disciplina rigorosa de stop-loss. O sentimento geral é de pressão extrema, evidenciado por um desequilíbrio matemático onde 58 jogadores registraram quedas de preço contra apenas 36 que subiram, resultando em uma média negativa de -0.31% nas últimas 24 horas, o que indica uma liquidez em retirada e uma aversão ao risco generalizada entre a base de jogadores. Esta dinâmica sugere que o mercado está digerindo informações de forma pessimista, possivelmente devido a atualizações de forma, lesões ou falta de demanda orgânica para cartões específicos, criando oportunidades de compra seletiva para quem consegue identificar ativos super-vendidos com fundamentos sólidos de retorno. A análise dos dados revela que, apesar do volume de quedas, existem exceções notáveis que merecem atenção cirúrgica, pois indicam fluxos de capital concentrados em poucas cartas, enquanto a maioria dos ativos sofre erosão de valor silenciosa e perigosa. Portanto, a estratégia para hoje deve ser predominantemente defensiva, focando na exploração das distorções de preço causadas pelo pânico de venda, mas com extrema cautela para não acumular posições em ativos que podem continuar a desvalorizar em um mercado sem fundo aparente.
+O mercado da Serie A TIM em PC para a data de 20/06/2026 apresenta um cenário de extrema volatilidade e indecisão, caracterizado por um dia sem tendência dominante clara, onde a batalha entre compradores e vendedores resulta em um saldo negativo sutil de -0.22% na média das últimas 24 horas. Com 53 cartas registrando altas e 63 sofrendo quedas, o ambiente reflete uma liquidez fragmentada, onde traders especulativos tentam se posicionar em ativos específicos enquanto a maioria do mercado observa com cautela, aguardando sinais mais definidos de demanda ou oferta. Essa indefinição cria oportunidades de arbitragem para quem consegue identificar dissonâncias entre o sentimento de curto prazo e a probabilidade estatística de alta, exigindo uma análise cirúrgica dos fundamentos de cada jogador em vez de seguir manadas. A presença de variações drásticas em ambos os sentidos indica que o algoritmo de precificação está sensível a movimentos de inventário de grandes colecionadores ou a ajustes rápidos em metas de squad, tornando o timing da execução tão crucial quanto a seleção do ativo. Operar neste contexto de ruído exige disciplina férrea, pois a ausência de uma narrativa forte de mercado significa que os preços podem reverter rapidamente assim que a liquidez se esgota em um único ponto de equilíbrio.
 
-> 🟢 **Maior alta:** Matías Soulé (86) **+49.5%** · 🔴 **Maior baixa:** Wesley Sneijder (88) **-38.2%**
+> 🟢 **Maior alta:** Hidetoshi Nakata (89) **+60%** · 🔴 **Maior baixa:** Kevin De Bruyne (88) **-45.2%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matías Soulé | 86 | Serie A TIM | 33k coins | +49.5% | +36% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 42k coins | +44% | -10.2% |
-| Jonathan David | 90 | Serie A TIM | 50k coins | +40.6% | +0.9% |
-| Iván Córdoba | 88 | Serie A TIM | 94k coins | +27.3% | +4.4% |
-| Rafael Leão | 86 | Serie A TIM | 880k coins | +25.2% | +28.6% |
-| Khéphren Thuram | 85 | Serie A TIM | 99k coins | +23.8% | +44.5% |
-| Paulo Dybala | 91 | Serie A TIM | 266k coins | +20.9% | +91.4% |
-| Davide Zappacosta | 88 | Serie A TIM | 32k coins | +20.6% | -39.7% |
-| Gervinho | 85 | Serie A TIM | 30k coins | +20% | +66.7% |
-| Maicon | 88 | Serie A TIM | 48k coins | +20% | +33.3% |
+| Hidetoshi Nakata | 89 | Serie A TIM | 28k coins | +60% | -2.6% |
+| Matías Soulé | 86 | Serie A TIM | 32k coins | +58.8% | +27% |
+| Scott McTominay | 87 | Serie A TIM | 94k coins | +57.7% | -4.7% |
+| Scott McTominay | 91 | Serie A TIM | 440k coins | +51.7% | +15.8% |
+| Víctor Ibarbo | 85 | Serie A TIM | 55k coins | +51% | +36.2% |
+| Hidetoshi Nakata | 87 | Serie A TIM | 28k coins | +50% | +1.8% |
+| Nicolae Stanciu | 86 | Serie A TIM | 88k coins | +50% | -22.7% |
+| Rafael Leão | 86 | Serie A TIM | 826k coins | +45.2% | +17.2% |
+| Juan Cuadrado | 86 | Serie A TIM | 40k coins | +34.5% | -8.6% |
+| Davide Zappacosta | 88 | Serie A TIM | 28k coins | +30.3% | -45.8% |
 
 
-Entre os ativos que conseguiram resistir à gravidade do mercado e registrar valorização, Matías Soulé se destaca como o líder absoluto com um impressionante aumento de 49.5% em 24 horas, atingindo um preço de 33k coins, impulsionado por uma probabilidade de alta futura de 59% que sugere sustentabilidade técnica no gráfico e demanda institucional para rotas de SBC ou squads competitivos. Giovanni Di Lorenzo também apresenta um movimento robusto de 44% em um dia, posicionando-se em 42k coins, embora sua probabilidade de alta de apenas 25% indique que este pode ser um movimento isolado ou baseado em hype de curto prazo, exigindo lucros rápidos antes de uma possível correção. Jonathan David é outro caso de estudo interessante, com alta de 40.6% para 50k coins, apoiado pela maior probabilidade de alta do grupo (76%), o que sinaliza forte convicção dos traders na continuidade da tendência de alta, tornando-o um ativo de segura para holdings de curto a médio prazo. Iván Córdoba, apesar de ser um ativo de alto valor em 94k coins, subiu 27.3%, mas sua probabilidade de alta de apenas 19% alerta para uma possível exaustão de compradores, sugerindo que o preço atual pode estar precificando expectativas excessivas sem suporte fundamental imediato. Rafael Leão, em um movimento de grande capital, subiu 25.2% para uma valorização de 880k coins, mas sua probabilidade de alta de apenas 4% é um sinal de alerta máximo, indicando que a alta pode ser um 'trap' para compradores tardios, enquanto Khéphren Thuram (99k, 23.8%) e Paulo Dybala (266k, 20.9%) mostram movimentos moderados que precisam ser confirmados por volume para serem considerados tendências reais e não apenas ruído de mercado.
+A liderança das altas é dominada por Hidetoshi Nakata na versão 89, que impressiona com uma alta de 60% em 24 horas, atingindo os 28k coins, um movimento robusto que sugere forte demanda por cartas de legado ou itens de coleção específicos, apesar de sua probabilidade de alta futura ser moderada em 21%. Matías Soulé, na versão 86, segue com força, subindo 58.8% e valendo 32k coins, com uma probabilidade de alta de 59%, indicando que o mercado está começando a precificar o potencial de curto prazo desse ativo de forma mais otimista do que o modelo estatístico inicial previa. Scott McTominay aparece em duas versões distintas, com a carta 87 subindo 57.7% para 94k coins (59% de prob. alta) e a versão 91 disparando 51.7% para os impressionantes 440k coins (64% de prob. alta), sugerindo uma correlação de demanda entre as versões ou uma escassez aguda da versão premium que está puxando o preço do ativo de referência. Víctor Ibarbo, na versão 85, também se destaca com alta de 51% para 55k coins e a maior probabilidade de alta do grupo em 66%, o que pode indicar uma acumulação silenciosa por traders que visam revenda rápida antes da correção natural. Nicolae Stanciu (86) e Rafael Leão (86) completam o cenário de altas, com Stanciu subindo 50% para 88k coins (45% prob. alta) e Leão, um ativo de alto valor, aumentando 45.2% para 826k coins, embora a baixa probabilidade de alta de 4% para Leão sugira que este movimento pode ser mais especulativo de curto prazo do que sustentável a longo prazo.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wesley Sneijder | 88 | Serie A TIM | 20k coins | -38.2% | -6.7% |
-| Wesley Sneijder | 93 | Serie A TIM | 380k coins | -36.3% | -49.2% |
-| Charles De Ketelaere | 88 | Serie A TIM | 37k coins | -34.2% | -32.4% |
-| Billy Gilmour | 87 | Serie A TIM | 31k coins | -31.7% | -16.3% |
-| Charles De Ketelaere | 89 | Serie A TIM | 28k coins | -28.7% | +3.6% |
-| Filip Kostić | 88 | Serie A TIM | 30k coins | -27.5% | +20.8% |
-| Wesley | 88 | Serie A TIM | 55k coins | -26.7% | -26.2% |
-| Maicon | 90 | Serie A TIM | 85k coins | -25.7% | -28.7% |
-| Nuno Tavares | 91 | Serie A TIM | 46k coins | -24.6% | -26.4% |
-| Semih Kılıçsoy | 84 | Serie A TIM | 39k coins | -22.3% | -30.5% |
+| Kevin De Bruyne | 88 | Serie A TIM | 200k coins | -45.2% | -45.4% |
+| Nuno Tavares | 91 | Serie A TIM | 34k coins | -44.2% | -48.5% |
+| Marek Hamšík | 89 | Serie A TIM | 32k coins | -43.3% | +5.8% |
+| Esteban Cambiasso | 86 | Serie A TIM | 29k coins | -39.4% | -36.8% |
+| Wesley | 88 | Serie A TIM | 49k coins | -35% | -35% |
+| Kenan Yıldız | 88 | Serie A TIM | 141k coins | -32.9% | -32.9% |
+| Jamie Vardy | 90 | Serie A TIM | 149k coins | -31.8% | -15.3% |
+| Charles De Ketelaere | 88 | Serie A TIM | 38k coins | -29.4% | -32% |
+| Junior Messias | 87 | Serie A TIM | 20k coins | -29.2% | -10.1% |
+| Nuno Tavares | 87 | Serie A TIM | 48k coins | -27.2% | -40.5% |
 
 
-Do lado da desvalorização, a queda é generalizada e severa, com Wesley Sneijder (88) liderando as perdas em -38.2% para 20k coins, um movimento que, apesar de sua probabilidade de alta de 29%, sugere uma venda em pânico ou falta total de interesse da comunidade, tornando-o um ativo de alto risco para compra imediata. A versão mais rara de Wesley Sneijder (93) também sangrou -36.3%, caindo para 380k coins, e com apenas 20% de probabilidade de alta, este ativo parece estar em uma tendência de baixa estrutural que pode continuar a erodir o capital dos investidores que tentarem adivinhar o fundo. Charles De Ketelaere (88) caiu 34.2% para 37k coins, mas sua alta probabilidade de reversão de 63% indica que esta queda pode ser uma oportunidade de compra de desconto, desde que o trader esteja disposto a aguardar a estabilização do preço. Billy Gilmour (87) também sofreu uma queda acentuada de 31.7% para 31k coins, mas com 76% de probabilidade de alta, ele se destaca como um dos ativos mais promissores para reversão, sugerindo que a venda foi excessiva e não fundamentada por mudanças na qualidade do jogador. Charles De Ketelaere (89) caiu 28.7% para 28k coins, e Filip Kostić (88) perdeu 27.5% para 30k coins, ambos apresentando probabilidades de alta moderadas (37% e 46%, respectivamente) que tornam sua entrada no mercado uma aposta equilibrada, mas arriscada, enquanto Wesley (88) e Maicon (90) também registraram quedas significativas de -26.7% e -25.7%, respectivamente, exigindo análise cuidadosa de suas probabilidades de 58% e 64% para determinar se a queda está exaurida.
+No outro extremo, Kevin De Bruyne na versão 88 sofre uma queda severa de 45.2%, caindo para 200k coins, com uma probabilidade de alta baixa de 13%, o que sinaliza uma possível saturação do mercado ou saída de grandes investidores que lucram com o ativo de elite, aumentando o risco de desvalorização contínua se não houver suporte de demanda orgânica. Nuno Tavares (91) e Marek Hamšík (89) também registram quedas significativas de 44.2% e 43.3%, respectivamente, valendo agora 34k e 32k coins, mas suas altas probabilidades de alta de 57% e 67% sugerem que essas quedas podem ser oportunidades de compra, pois o preço atual pode estar descontado excessivamente em relação ao valor fundamental esperado pelo modelo. Esteban Cambiasso (86) cai 39.4% para 29k coins com apenas 24% de prob. alta, indicando uma venda de pânico ou correção técnica sem forte contrapartida de compradores, o que torna seu perfil de risco mais elevado para entrada imediata. Wesley (88) e Kenan Yıldız (88) apresentam quedas de 35% e 32.9%, valendo 49k e 141k coins, com probabilidades de alta de 58% e 22%, respectivamente, onde o caso de Wesley parece mais atraente para rebote devido à maior probabilidade estatística de recuperação, enquanto Yıldız permanece em terreno incerto. Jamie Vardy (90) e Charles De Ketelaere (88) completam as baixas com quedas de 31.8% e 29.4%, valendo 149k e 38k coins, sendo que a alta probabilidade de De Ketelaere em 63% contrasta com sua queda, sugerindo uma divergência entre o preço de mercado atual e a expectativa de valorização futura que traders ágeis podem explorar.
 
 
 ## 🎯 O que fazer hoje
-A estratégia recomendada para o dia é de agressividade seletiva, focando exclusivamente na compra de ativos que apresentaram quedas severas combinadas com altas probabilidades de reversão, especificamente Billy Gilmour e Jonathan David, que oferecem o melhor risco-retorno baseado nos dados de probabilidade e magnitude da queda. É fundamental evitar a compra de ativos como Rafael Leão e Iván Córdoba, cujas altas recentes são apoiadas por baixas probabilidades de continuidade, indicando riscos elevados de correção imediata, e também evitar expor capital a Wesley Sneijder em qualquer versão, dada a combinação de queda acentuada e baixa probabilidade de recuperação. Traders devem manter uma posição neutra ou ligeiramente vendida no mercado geral, aproveitando apenas oportunidades de 'compre na correção' em ativos de alta probabilidade como Charles De Ketelaere (88) e Maicon, mas com ordens de stop-loss rigorosas para limitar perdas em caso de continuidade da tendência de baixa. O timing é crucial, pois a volatilidade extrema sugere que os preços podem oscilar rapidamente, e a paciência para esperar a confirmação de suporte antes de entrar em posições longas é a chave para preservar o capital neste ambiente hostil. Em resumo, compre apenas os ativos super-vendidos com fundamentos estatísticos de retorno, segure as posições de alta probabilidade como Jonathan David e evite completamente a especulação em ativos de baixa probabilidade como Rafael Leão, priorizando a proteção do capital sobre a busca por ganhos rápidos em um mercado sem direção clara.
+Diante deste mercado indefinido com média negativa de -0.22%, a estratégia ideal é evitar exposição pesada em ativos de alta volatilidade sem suporte de probabilidade, como Rafael Leão e Kevin De Bruyne, onde o risco de perda é elevado devido às baixas probabilidades de alta e quedas recentes significativas. Recomenda-se focar na compra de ativos que apresentam quedas acentuadas combinadas com alta probabilidade de recuperação estatística, especificamente Nuno Tavares (91) e Marek Hamšík (89), pois suas quedas de 44.2% e 43.3% parecem ser correções temporárias em ativos que o modelo projeta com 57% e 67% de chance de alta, respectivamente. Para operações de swing trading de curto prazo, Scott McTominay (91) e Víctor Ibarbo (85) oferecem o melhor equilíbrio entre momentum atual (altas de 51.7% e 51%) e probabilidade de continuidade (64% e 66%), permitindo ganhos rápidos enquanto o sentimento positivo perdura. É crucial monitorar Hidetoshi Nakata (89) com cautela, pois embora tenha subido 60%, sua baixa probabilidade de 21% sugere que o pico de preço pode estar próximo, sendo momento para tomar lucro e não para entrar. Por fim, mantenha uma reserva de liquidez significativa para aproveitar eventuais correções em ativos como Wesley (88) se as probabilidades de alta se confirmarem, enquanto evita alavancagem excessiva em um dia onde a falta de tendência clara pode resultar em reversões bruscas e não previsíveis.
 
 
 ## 🔍 Como apuramos os preços
@@ -77,13 +77,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Matías Soulé (86, Serie A TIM), com +49.5% em 24h, a 33k coins no PC.
+Hidetoshi Nakata (89, Serie A TIM), com +60% em 24h, a 28k coins no PC.
 
 **E a maior queda do dia?**  
-Wesley Sneijder (88), -38.2% em 24h, a 20k coins.
+Kevin De Bruyne (88), -45.2% em 24h, a 200k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 36 cartas em alta contra 58 em queda (média -0.31%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 53 cartas em alta contra 63 em queda (média -0.22%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
