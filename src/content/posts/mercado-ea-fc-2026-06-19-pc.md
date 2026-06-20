@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:32:59.000Z
+pubDatetime: 2026-06-20T01:31:54.000Z
 title: "Serie A no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Nuno Tavares (87, Serie A TIM), com +42.3% em 24h, a 68k coins no PC."
+    a: "Nuno Tavares (87, Serie A TIM), com +38.4% em 24h, a 62k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Arthur Atta (85), -38.4% em 24h, a 34k coins."
+    a: "Weston McKennie (92), -48.1% em 24h, a 47k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 60 em queda (média -1.82%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 57 cartas em alta contra 69 em queda (média -5.3%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado da Serie A TIM em PC apresenta um cenário de extrema volatilidade e pressão vendedora nesta segunda-feira, 19 de junho de 2026, caracterizado por um sentimento predominantemente bearish que afasta investidores indecisos. Com um saldo negativo acentuado, onde 60 jogadores registraram quedas contra apenas 44 altas, o índice médio do segmento recuou 1.82% nas últimas 24 horas, sinalizando uma limpeza de inventário e uma busca por liquidez imediata por parte dos traders. Este ambiente hostil para especulação de curto prazo exige uma leitura fina dos fluxos de oferta e demanda, pois a maioria das cartas está sendo liquidada sem resistência significativa dos compradores. A dinâmica atual sugere que o mercado está reagindo a notícias externas ou ao fim de eventos específicos, criando oportunidades pontuais para quem opera com disciplina e evita o pânico emocional. O trader experiente deve aproveitar essa desordem para acum ativos de longo prazo enquanto evita expor capital excessivo em ativos de alta volatilidade sem suporte fundamental.
+O cenário do mercado da Serie A TIM em PC para 19 de junho de 2026 é dominado por um sentimento de venda agressivo, onde a pressão de liquidez superou qualquer demanda especulativa imediata, resultando em uma dinâmica clara de queda de preços na maioria dos ativos negociados. Os indicadores macro revelam uma distorção significativa na balança de ofertas, com 69 quedas registradas contra apenas 57 altas, consolidando uma média negativa de -5.3% em um período de 24 horas que sinaliza cautela extrema para traders impulsivos. Este ambiente de 'clima vendedor' exige que os analistas ignorem o ruído de pequenas flutuações e foquem exclusivamente nos ativos que apresentam desvios estatísticos relevantes, pois a volatilidade atual é mais fruto de correções de preço do que de valor intrínseco dos jogadores. A probabilidade de alta para a maioria das cartas está baixa ou moderada, indicando que o mercado está em fase de descaso, onde apenas oportunidades de compra em fundos profundos podem gerar retornos significativos no médio prazo. Portanto, a estratégia do dia deve ser defensivamente orientada para a preservação de capital, aproveitando as quedas acentuadas em cartas de alto valor para acumular inventário de qualidade enquanto se evita expor capital em ativos que ainda estão em tendência de alta incerta.
 
-> 🟢 **Maior alta:** Nuno Tavares (87) **+42.3%** · 🔴 **Maior baixa:** Arthur Atta (85) **-38.4%**
+> 🟢 **Maior alta:** Nuno Tavares (87) **+38.4%** · 🔴 **Maior baixa:** Weston McKennie (92) **-48.1%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 87 | Serie A TIM | 68k coins | +42.3% | -28.9% |
-| Paulo Dybala | 88 | Serie A TIM | 200k coins | +40.8% | +150% |
-| Junior Messias | 87 | Serie A TIM | 28k coins | +37.8% | +50.7% |
-| Rasmus Højlund | 87 | Serie A TIM | 30k coins | +33.3% | +44.1% |
-| Cher Ndour | 86 | Serie A TIM | 22k coins | +28.6% | +20% |
-| Claudio Marchisio | 88 | Serie A TIM | 281k coins | +23.1% | +28% |
-| Nuno Tavares | 91 | Serie A TIM | 60k coins | +20.6% | 0% |
-| Éderson | 87 | Serie A TIM | 39k coins | +16.3% | -1.9% |
-| Antonio Di Natale | 89 | Serie A TIM | 188k coins | +15.9% | -33.3% |
-| Tommaso Pobega | 83 | Serie A TIM | 50k coins | +15.6% | -10.3% |
+| Nuno Tavares | 87 | Serie A TIM | 62k coins | +38.4% | -31.9% |
+| Jamie Vardy | 90 | Serie A TIM | 257k coins | +29.1% | +51.2% |
+| Christian Pulisic | 87 | Serie A TIM | 24k coins | +27.4% | +18.9% |
+| Martin Baturina | 84 | Serie A TIM | 41k coins | +23.3% | +13.9% |
+| Claudio Marchisio | 88 | Serie A TIM | 320k coins | +23.1% | +38.5% |
+| Paulo Dybala | 88 | Serie A TIM | 170k coins | +22.3% | +112.5% |
+| Lorenzo Pellegrini | 83 | Serie A TIM | 50k coins | +19.3% | -6.6% |
+| Charles De Ketelaere | 88 | Serie A TIM | 50k coins | +17.5% | -11.1% |
+| Rasmus Højlund | 87 | Serie A TIM | 32k coins | +16.1% | +30.9% |
+| Francisco Conceição | 85 | Serie A TIM | 26k coins | +15.2% | +1.9% |
 
 
-Entre os ativos que deflagram contra a maré vendedora, Nuno Tavares (87, Serie A TIM) destaca-se com uma alta explosiva de 42.3% em 24h, alcançando os 68k coins, impulsionado por uma probabilidade de alta de 26% que indica demanda concentrada em sua faixa de preço. Paulo Dybala (88, Serie A TIM) também resiste fortemente com 40.8% de valorização, subindo para 200k coins, onde sua probabilidade de alta de 36% sugere que grandes traders estão posicionando-se para eventos futuros ou necessidades de squad imediatas. Junior Messias (87, Serie A TIM) apresenta uma movimentação interessante com 37.8% de alta para 28k coins, apoiado por uma alta probabilidade de alta de 51%, o que pode indicar uma correção de preço após subestimação recente. Rasmus Højlund (87, Serie A TIM) sobe 33.3% para 30k coins, com probabilidade de alta de 38%, refletindo a constante necessidade de jovens atacantes de baixo custo para times de ascensão. Cher Ndour (86, Serie A TIM) completa o grupo de destaque com 28.6% de valorização para 22k coins, possuindo a segunda maior probabilidade de alta do grupo (50%), o que torna seu preço atrativo para compras em média. Claudion Marchisio (88, Serie A TIM) registra 23.1% de alta para 281k coins, mas sua probabilidade de alta de 49% sugere cautela, pois o preço alto limita a liquidez apesar da valorização percentual significativa.
+Entre os poucos ativos que conseguiram se destacar contra a maré de vendas, Nuno Tavares, da Serie A TIM, liderou as altas com um impressionante aumento de 38.4% em 24 horas, atingindo um preço de 62k coins, embora sua probabilidade de continuar subindo seja estimada em apenas 26%, sugerindo que este movimento pode ser uma correção técnica de curto prazo e não uma tendência sustentável de valorização. Jamie Vardy, também da Serie A TIM, registrou uma alta substancial de 29.1% em 24 horas, posicionando-se a 257k coins, com uma probabilidade de alta de 34% que indica uma certa resistência de preço devido à sua utilidade em squads específicos, fazendo com que traders mais conservadores evitem comprar no topo e aguardem uma estabilização. Christian Pulisic, outro nome da Serie A TIM, subiu 27.4% em 24 horas para 24k coins, apresentando uma probabilidade de alta de 34%, o que reflete uma demanda pontual provavelmente impulsionada por pacotes de promoção ou necessidades de meta, tornando-o um ativo de risco moderado para swing trades rápidos. Martin Baturina, da Serie A TIM, demonstrou volatilidade interessante com uma alta de 23.3% em 24 horas para 41k coins, mas chama atenção pela probabilidade de alta de 62%, indicando que, apesar do movimento recente, o modelo estatístico prevê continuidade na valorização, o que pode atrair buyers de momentum que buscam ativos com tendência confirmada. Claudio Marchisio, da Serie A TIM, completou o seleto grupo de altas com um aumento de 23.1% em 24 horas, atingindo um preço robusto de 320k coins, com uma probabilidade de alta de 49%, o que sugere um mercado mais equilibrado para este ativo de alto valor, onde a decisão de compra deve ser baseada na análise de liquidez e na intenção de uso em times de alto nível.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arthur Atta | 85 | Serie A TIM | 34k coins | -38.4% | +25.5% |
-| Yoan Bonny | 86 | Serie A TIM | 39k coins | -37.7% | -28.6% |
-| Martin Baturina | 89 | Serie A TIM | 26k coins | -34.4% | -6.2% |
-| Nicolò Zaniolo | 86 | Serie A TIM | 22k coins | -31.3% | +45.2% |
-| Lorenzo Pellegrini | 83 | Serie A TIM | 31k coins | -29.6% | -43.3% |
-| Scott McTominay | 87 | Serie A TIM | 98k coins | -27.8% | -29.3% |
-| Rafael Leão | 86 | Serie A TIM | 569k coins | -27% | -4% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 58k coins | -26.9% | -16.4% |
-| Alessandro Bastoni | 91 | Serie A TIM | 60k coins | -25.7% | -31.1% |
-| Iván Córdoba | 88 | Serie A TIM | 75k coins | -25% | -15.3% |
+| Weston McKennie | 92 | Serie A TIM | 47k coins | -48.1% | -31.8% |
+| Wesley Sneijder | 88 | Serie A TIM | 28k coins | -46.8% | -2% |
+| Nicolae Stanciu | 86 | Serie A TIM | 51k coins | -44% | -31.1% |
+| Alessandro Bastoni | 91 | Serie A TIM | 50k coins | -41.2% | -43.8% |
+| Rafael Leão | 86 | Serie A TIM | 574k coins | -37.6% | -7.6% |
+| Scott McTominay | 91 | Serie A TIM | 228k coins | -35.2% | -22.9% |
+| Marten de Roon | 85 | Serie A TIM | 24k coins | -34.3% | -6.1% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 55k coins | -31.9% | -22.1% |
+| Juan Cuadrado | 86 | Serie A TIM | 27k coins | -31.2% | -29.5% |
+| Scott McTominay | 87 | Serie A TIM | 76k coins | -30.5% | -44.6% |
 
 
-No lado oposto, a pressão vendedora é brutal, com Arthur Atta (85, Serie A TIM) liderando as perdas com uma queda de 38.4% para 34k coins, um movimento alarmante dado que sua probabilidade de alta é de 55%, sugerindo que o preço atual pode ser um fundo temporário ou uma venda forçada de inventário. Yoan Bonny (86, Serie A TIM) despencou 37.7% para 39k coins, e embora sua probabilidade de alta seja de apenas 39%, a magnitude da queda indica falta total de suporte comprador nesse nível, aumentando o risco de perda continuada. Martin Baturina (89, Serie A TIM) cai 34.4% para 26k coins, sendo particularmente perigosa pois possui alta probabilidade de alta de 60%, o que pode indicar que traders inteligentes estão aproveitando o pânico para acumular, ou que o ativo está em freefall sem fundo visível. Nicolò Zaniolo (86, Serie A TIM) registra -31.3% para 22k coins, mas sua probabilidade de alta de 70% é um sinal de alerta máximo para compradores, sugerindo que qualquer compra agora é extremamente arriscada devido à possível reversão imediata ou instabilidade. Lorenzo Pellegrini (83, Serie A TIM) cai 29.6% para 31k coins com baixa probabilidade de alta de 13%, indicando que a queda é fundamentada e pode continuar, sendo melhor evitar. Scott McTominay (87, Serie A TIM) perde 27.8% para 98k coins, com probabilidade de alta de 59%, o que cria um cenário de incerteza onde o preço pode estar estabilizando ou caindo mais a fundo.
+Do outro lado do espectro, as quedas foram severas e abrangentes, com Weston McKennie, da Serie A TIM, sofrendo a maior desvalorização de -48.1% em 24 horas, caindo para 47k coins, uma queda brutal que, paradoxalmente, vem acompanhada de uma probabilidade de alta de 61%, sugerindo fortemente que o preço atual é uma oportunidade de compra extrema e que o mercado pode estar corrigindo excessos anteriores de forma exagerada. Wesley Sneijder, da Serie A TIM, também caiu drasticamente -46.8% em 24 horas para 28k coins, mas com uma probabilidade de alta de apenas 29%, o que indica que esta queda pode ser estrutural e que o ativo perdeu relevância ou demanda, representando um risco elevado para quem tentar 'pegar a faca caindo' sem um plano de saída claro. Nicolae Stanciu, da Serie A TIM, recuou -44% em 24 horas para 51k coins, apresentando uma probabilidade de alta de 45%, o que coloca o ativo em uma zona cinzenta onde a recuperação é possível, mas não garantida, exigindo que o trader monitore atentamente os volumes de negociação para identificar sinais de fundo. Alessandro Bastoni, da Serie A TIM, caiu -41.2% em 24 horas para 50k coins, com uma probabilidade de alta de 69%, o que reforça a tese de que grandes defesas de alto rating estão sendo vendidas em pânico ou por falta de demanda específica, criando uma janela de oportunidade para traders de longo prazo que acreditam na recuperação do valor intrínseco da carta. Rafael Leão, da Serie A TIM, embora tenha caído -37.6% em 24 horas, mantém um preço elevado de 574k coins e uma probabilidade de alta extremamente baixa de 4%, o que é um sinal de alerta vermelho para compradores, indicando que a tendência de baixa pode se prolongar ou que o ativo está preso em uma faixa de preço sem compradores dispostos, caracterizando uma armadilha de liquidez.
 
 
 ## 🎯 Conclusão do dia
-A estratégia recomendada para hoje é de extrema cautela com foco em acumulação seletiva de ativos de alta probabilidade de alta que sofreram quedas, como Martin Baturina e Nicolò Zaniolo, mas apenas com ordens de compra limitadas em patamares inferiores aos atuais para mitigar riscos. Deve-se evitar comprar as altas recentes de Nuno Tavares e Dybala a preços de pico, aguardando uma correção natural ou uma consolidação de preço antes de entrar, pois a probabilidade de alta, embora positiva, não justifica compras impulsivas em um mercado vendedor. É crucial monitorar de perto Junior Messias e Cher Ndour, pois suas altas probabilidades de alta (51% e 50%, respectivamente) combinadas com valorização recente podem indicar tendências sustentáveis de curto prazo para flip. Jogadores como Arthur Atta e Yoan Bonny devem ser observados, mas não comprados imediatamente, pois a queda brusca pode esconder problemas fundamentais ou apenas a saída de grandes holders, exigindo confirmação de suporte. O trader deve manter 70% do capital em moeda para aproveitar oportunidades de último minuto ou quedas repentina no fim do dia, quando a volatilidade tende a aumentar. A paciência é o ativo mais valioso hoje; não force entradas em ativos em queda livre e realize lucros parciais em ativos que subiram acima de 30% para proteger capital em um ambiente incerto.
+Diante deste cenário de mercado da Serie A TIM, a estratégia recomendada para 19 de junho de 2026 é focar na compra agressiva de ativos com quedas severas e alta probabilidade de recuperação, especificamente Weston McKennie e Alessandro Bastoni, cujos descontos de quase 50% e 40% respectivamente, combinados com probabilidades de alta superiores a 60%, oferecem um ratio risco-retorno atrativo para acumulação de inventário de qualidade. É crucial evitar a compra de Nuno Tavares e Jamie Vardy no topo atual, pois suas altas recentes de 38.4% e 29.1% respectivamente, já incorporaram parte do valor, e a probabilidade de continuidade é baixa o suficiente para justificar a paciência em aguardar correções menores. Traders mais arrojados podem considerar pequenas posições em Martin Baturina, dada a sua probabilidade de alta de 62%, mas devem manter stop-loss apertados devido à volatilidade do ativo de 41k coins, enquanto devem ficar totalmente longe de Rafael Leão, cuja probabilidade de alta de 4% e preço de 574k coins indicam uma queda potencialmente sem fundo no curto prazo. A disciplina é fundamental neste dia de clima vendedor, onde a tentação de vender cartas da própria coleção para evitar mais perdas deve ser combatida com a análise fria dos dados, reconhecendo que quedas de 40% em ativos como Bastoni e McKennie são eventos raros que não podem ser ignorados. Portanto, segure suas cartas de longo prazo que não são essenciais para vendas imediatas, compre as oportunidades de fundo em McKennie e Bastoni, e aguarde a estabilização do mercado antes de expor capital em ativos que ainda estão em tendência de alta incerta como Pulisic e Vardy, garantindo assim a preservação do seu capital e a maximização de lucros em um dia de alta volatilidade.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -77,13 +77,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Nuno Tavares (87, Serie A TIM), com +42.3% em 24h, a 68k coins no PC.
+Nuno Tavares (87, Serie A TIM), com +38.4% em 24h, a 62k coins no PC.
 
 **E a maior queda do dia?**  
-Arthur Atta (85), -38.4% em 24h, a 34k coins.
+Weston McKennie (92), -48.1% em 24h, a 47k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 60 em queda (média -1.82%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 57 cartas em alta contra 69 em queda (média -5.3%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

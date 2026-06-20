@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:32:25.000Z
+pubDatetime: 2026-06-20T01:32:17.000Z
 title: "Melhores investimentos em Serie A no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Paulo Dybala (88, Serie A TIM) lidera, com +87.1% em 7 dias a 165k coins no PC, e o modelo dá 36% de chance de seguir subindo."
+    a: "Andrea Barzagli (87, Serie A TIM) lidera, com +88.5% em 7 dias a 24k coins no PC, e o modelo dá 50% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Paulo Dybala (88) acumula **+87.1% em 7 dias** a 165k coins.
+> 🔝 **Destaque:** Andrea Barzagli (87) acumula **+88.5% em 7 dias** a 24k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-Ao analisar o mercado de EA FC Ultimate Team no PC para a temporada da Serie A em 19 de junho de 2026, a volatilidade das cartas da Serie A TIM apresenta oportunidades distintas para investidores cautelosos e agressivos. A análise de tendência de valorização nos últimos sete dias destaca que nem todos os aumentos de preço indicam uma entrada segura. É fundamental cruzar a porcentagem de alta nas últimas 24 horas com a probabilidade estatística de continuação dessa tendência para identificar quais ativos realmente valem a pena comprar agora, evitando armadilhas de correção iminente.
+No cenário atual do EA FC Ultimate Team, focado na liga italiana, a análise de mercado de 19 de junho de 2026 revela oportunidades distintas baseadas na volatilidade recente das cartas da série Serie A TIM. Ao observar a tendência de valorização dos últimos sete dias, destacam-se ativos que combinam aumento de preço em 24 horas com alta probabilidade de continuação dessa trajetória ascendente. Entre os destaques absolutos, Christian Pulisic surge como uma das opções mais agressivas, registrando um impressionante aumento de 27,4% em apenas um dia. Apesar de ter uma probabilidade de alta de 34%, que é moderada em comparação com outros nomes, o seu preço atual de 24 mil moedas oferece um ponto de entrada acessível para jogadores que buscam lucros rápidos, aproveitando a momentum positiva gerada por sua performance recente no mercado.
 
-Dentre as opções, Giovane (89) e Seydou Doumbia (85) se destacam como as entradas mais sólidas devido à sua alta probabilidade de valorização sustentada. Giovane, cotado a 18k coins, registrou uma alta de 21,4% em 24 horas e possui uma probabilidade de 46% de continuar subindo. Seu baixo preço de entrada combinado com essa taxa de sucesso estatística oferece um risco reduzido. Da mesma forma, Seydou Doumbia, a apenas 24k coins, mostra uma alta de 5,3% com a maior probabilidade do grupo, 53%, sugerindo uma valorização lenta mas extremamente consistente, ideal para quem busca segurança no investimento a curto prazo.
+Outro nome que chama a atenção pela consistência estatística é Marek Hamšík. Com um aumento de 3,7% nas últimas 24 horas, a carta de 89 de overall apresenta a maior probabilidade de alta entre todas as listadas, chegando a 67%. Isso sugere uma demanda estrutural forte e estável, ideal para investidores que preferem menor risco em troca de uma valorização mais gradual. Pricado em 56 mil moedas, Hamšík representa um ativo de médio prazo, onde a segurança da tendência é mais valiosa do que a explosão imediata de preço, tornando-o uma escolha sólida para portfólios diversificados.
 
-Outra carta que merece atenção imediata é Gervinho (85). Apesar de ser uma carta de rating mais baixo, ele apresenta a maior probabilidade de alta do mercado analisado, com 60%, após subir 23,6% em 24 horas. Com um preço acessível de 30k coins, Gervinho representa uma oportunidade de alto retorno potencial com risco estatisticamente controlado. A combinação de um salto significativo no preço com a maior chance de continuidade entre todos os ativos listados torna-o um dos melhores pontos de entrada para carteiras com limite de capital.
+Para quem busca o equilíbrio entre risco e recompensa, Rasmus Højlund e Andrea Barzagli merecem atenção especial. Højlund apresentou uma alta de 16,1% em 24 horas, com uma probabilidade de continuação de 38% e preço de 32 mil moedas. Já Barzagli, embora tenha uma probabilidade de alta de apenas 50%, saltou 11,4% em um dia, estando disponível por 24 mil moedas. A combinação de um preço baixo com um percentual de alta significativo indica que Barzagli pode ser um "commodities" de curto prazo, enquanto Højlund oferece uma via intermediária com potencial de crescimento sustentado pela sua relevância no meta atual.
 
-Para investidores dispostos a arriscar mais em busca de ganhos expressivos, Charles De Ketelaere (89) e Khéphren Thuram (87) oferecem perfis interessantes. De Ketelaere, a 45k coins, subiu 23,4% em 24 horas e tem 37% de probabilidade de alta. Já Thuram, custando 70k coins, registrou alta de 8,5% com 36% de chance de continuidade. Ambos operam em faixas de preço intermediárias e apresentam equilíbrios razoáveis entre momentum recente e probabilidade futura, sendo bons candidatos para quem deseja diversificar além das opções de baixo custo.
+Gervinho e Armand Laurienté também se destacam, embora por motivos diferentes. Gervinho, com 85 de overall, subiu 5,3% e possui uma probabilidade de alta de 60%, o que é um indicador extremamente positivo para uma carta de entrada de 30 mil moedas. Já Laurienté, apesar de ter uma probabilidade de alta baixa de 15%, registrou um crescimento de 12,5% em 24 horas, valendo 42 mil moedas. A discrepância entre a alta recente e a baixa probabilidade futura sugere que Laurienté pode estar em um pico momentâneo, recomendando cautela ou uma venda rápida para quem já possui a carta, enquanto Gervinho parece ter espaço para continuar subindo.
 
-No topo da escala de preços, Paulo Dybala (88) e Pierre Kalulu (91) atraem investidores com maior liquidez. Dybala, a 165k coins, liderou as altas com 7,4% em 24 horas e possui 36% de probabilidade de alta, enquanto Kalulu, a 89k coins, subiu 9,2% com 31% de chance de continuar subindo. Embora os retornos percentuais sejam menores que os de cartas mais baratas, a probabilidade de alta permanece em níveis respeitáveis, oferecendo estabilidade relativa para grandes volumes de coins investidos.
-
-Por fim, cartas como Kenan Yıldız (87) e Morata (87) devem ser tratadas com extrema cautela. Yıldız, apesar de uma explosão de 39,2% em 24 horas a 126k coins, possui apenas 16% de probabilidade de alta, indicando um possível pico de preço seguido de correção. Morata, com alta de 33% mas probabilidade de apenas 11%, segue o mesmo padrão de risco elevado. Andrea Barzagli (87), a 24k coins, é a exceção neste grupo de alta volatilidade, pois mantém uma probabilidade de 50% de alta, tornando-se uma opção mais racional para quem busca exposição a ativos de maior variação com maior chance de sucesso estatístico.
+Por fim, os ativos de maior valor nominal, como Khéphren Thuram e Álvaro Morata, apresentam perfis de investimento distintos. Thuram, a 70 mil moedas, subiu 12,9% com 36% de probabilidade de alta, indicando uma volatilidade típica de cartas premium. Morata, a 66 mil moedas, teve um aumento de 8,3% mas com uma probabilidade de alta muito baixa de 11%, o que sinaliza possível saturação ou correção iminente. Charles De Ketelaere e Oliver Bierhoff completam o quadro com perfis moderados, onde Bierhoff (21k, 1,2% de alta, 47% de probabilidade) parece subvalorizado em termos de chance de retorno, enquanto De Ketelaere (36k, 5,3% de alta, 37% de probabilidade) mantém uma trajetória estável. Em resumo, Pulisic e Hamšík oferecem as melhores entradas baseadas no equilíbrio entre preço, alta recente e probabilidade futura.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +43,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Paulo Dybala | 88 | Serie A TIM | 165k coins | +7.4% | +87.1% | 36% |
-| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +9.2% | +79.8% | 31% |
-| Morata | 87 | Serie A TIM | 66k coins | +33% | +77.3% | 11% |
-| Andrea Barzagli | 87 | Serie A TIM | 24k coins | +3.1% | +66.7% | 50% |
-| Charles De Ketelaere | 89 | Serie A TIM | 45k coins | +23.4% | +54.3% | 37% |
-| Khéphren Thuram | 87 | Serie A TIM | 70k coins | +8.5% | +44.3% | 36% |
-| Kenan Yıldız | 87 | Serie A TIM | 126k coins | +39.2% | +42.4% | 16% |
-| Giovane | 89 | Serie A TIM | 18k coins | +21.4% | +41.7% | 46% |
-| Seydou Doumbia | 85 | Serie A TIM | 24k coins | +5.3% | +28.6% | 53% |
-| Gervinho | 85 | Serie A TIM | 30k coins | +23.6% | +26.4% | 60% |
-| Cher Ndour | 86 | Serie A TIM | 24k coins | +19.8% | +19.8% | 50% |
-| Oliver Bierhoff | 88 | Serie A TIM | 19k coins | +10.1% | +15.2% | 47% |
-| Rasmus Højlund | 87 | Serie A TIM | 32k coins | +3.2% | +12.3% | 38% |
-| Semih Kılıçsoy | 84 | Serie A TIM | 55k coins | +14.6% | +10% | 56% |
-| Armand Laurienté | 86 | Serie A TIM | 45k coins | +27.7% | +9.8% | 15% |
+| Andrea Barzagli | 87 | Serie A TIM | 24k coins | +11.4% | +88.5% | 50% |
+| Morata | 87 | Serie A TIM | 66k coins | +8.3% | +88.4% | 11% |
+| Marek Hamšík | 89 | Serie A TIM | 56k coins | +3.7% | +68.7% | 67% |
+| Gervinho | 85 | Serie A TIM | 30k coins | +5.3% | +48.1% | 60% |
+| Charles De Ketelaere | 89 | Serie A TIM | 36k coins | +5.3% | +40.4% | 37% |
+| Armand Laurienté | 86 | Serie A TIM | 42k coins | +12.5% | +40.2% | 15% |
+| Oliver Bierhoff | 88 | Serie A TIM | 21k coins | +1.2% | +32.8% | 47% |
+| Rasmus Højlund | 87 | Serie A TIM | 32k coins | +16.1% | +30.9% | 38% |
+| Khéphren Thuram | 87 | Serie A TIM | 70k coins | +12.9% | +26.1% | 36% |
+| Christian Pulisic | 87 | Serie A TIM | 24k coins | +27.4% | +18.9% | 34% |
+| Martin Baturina | 84 | Serie A TIM | 41k coins | +23.3% | +13.9% | 62% |
 
 
 ## 📈 Análise dos destaques
 
-- **Paulo Dybala (88)** — 165k coins, **+87.1% em 7 dias** (+7.4% em 24h). Preço +44% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andrea Barzagli (87)** — 24k coins, **+88.5% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Pierre Kalulu (91)** — 89k coins, **+79.8% em 7 dias** (+9.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Morata (87)** — 66k coins, **+88.4% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Morata (87)** — 66k coins, **+77.3% em 7 dias** (+33% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marek Hamšík (89)** — 56k coins, **+68.7% em 7 dias** (+3.7% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Andrea Barzagli (87)** — 24k coins, **+66.7% em 7 dias** (+3.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Gervinho (85)** — 30k coins, **+48.1% em 7 dias** (+5.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Charles De Ketelaere (89)** — 45k coins, **+54.3% em 7 dias** (+23.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Charles De Ketelaere (89)** — 36k coins, **+40.4% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (-5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +84,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Paulo Dybala (88, Serie A TIM) lidera, com +87.1% em 7 dias a 165k coins no PC, e o modelo dá 36% de chance de seguir subindo.
+Andrea Barzagli (87, Serie A TIM) lidera, com +88.5% em 7 dias a 24k coins no PC, e o modelo dá 50% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

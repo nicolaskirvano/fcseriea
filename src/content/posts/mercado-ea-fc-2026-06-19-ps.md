@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:31:10.000Z
+pubDatetime: 2026-06-20T01:30:44.000Z
 title: "Serie A no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,57 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Dušan Vlahović (86, Serie A TIM), com +30.8% em 24h, a 44k coins no Console (PS)."
+    a: "Donyell Malen (89, Serie A TIM), com +25% em 24h, a 114k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Maicon (88), -49.1% em 24h, a 44k coins."
+    a: "Khéphren Thuram (87), -48.6% em 24h, a 57k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Mattia Zaccagni (87) — 95% de probabilidade de alta, a 21k coins."
+    a: "Pelo modelo FutQuant, Jurgen Ekkelenkamp (83) — 95% de probabilidade de alta, a 31k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 26 cartas em alta contra 60 em queda (média -6.52%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 17 cartas em alta contra 68 em queda (média -10.68%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado da Serie A no console PlayStation exibe um cenário claramente desenhado para vendedores hoje, 19 de junho de 2026, com uma predominância esmagadora de quedas nos preços que define o tom da operação. Com 60 cartas registrando quedas contra apenas 26 altas, a média do mercado recuou 6,52% nas últimas 24 horas, indicando uma liquidez tímida e uma aversão ao risco significativa por parte dos traders. Este clima vendedor sugere que a maioria dos ativos está sob pressão, criando oportunidades de compra seletiva em cartas com fundamentos de alta, mas exigindo cautela extrema em ativos sem suporte claro. O volume de vendas em baixa é o fator predominante, forçando os jogadores a avaliarem se suas cartas de Serie A são essenciais para as squads ou se devem ser liquidadas para evitar perdas maiores. A volatilidade é alta, e a ausência de grandes eventos de impulso positivo torna a paciência e a disciplina as principais ferramentas para quem deseja navegar neste mar de vermelhos.
+O cenário do mercado da Serie A TIM para consoles PlayStation em 19 de junho de 2026 apresenta um viés extremamente agressivo contra a manutenção de ativos, caracterizando um dia de clima vendedor onde a pressão de venda superou amplamente a demanda de compra. Com uma estatística desequilibrada de 17 altas para 68 quedas e uma média negativa de -10.68% em 24 horas, a maioria dos traders está liquidando posições rapidamente, criando oportunidades de compra seletiva, mas exigindo cautela extrema para evitar ativos em queda livre. A volatilidade é alta, com grandes oscilações em cartas icônicas e promissoras, refletindo a incerteza do fim de ciclo ou ajustes de meta que forçam os usuários a venderem suas reservas de coins. O analista deve focar nos poucos ativos que mostram resiliência ou potencial de alta iminente, ignorando o pânico generalizado que afeta a grande maioria do mercado. Neste contexto, a liquidez está concentrada em vendas, o que significa que comprar no fundo pode ser lucrativo, mas segurar ativos sem fundamento de alta é arriscado demais.
 
-> 🟢 **Maior alta:** Dušan Vlahović (86) **+30.8%** · 🔴 **Maior baixa:** Maicon (88) **-49.1%**
+> 🟢 **Maior alta:** Donyell Malen (89) **+25%** · 🔴 **Maior baixa:** Khéphren Thuram (87) **-48.6%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dušan Vlahović | 86 | Serie A TIM | 44k coins | +30.8% | +55.8% |
-| Mattia Zaccagni | 87 | Serie A TIM | 21k coins | +23.7% | +15.9% |
-| Lorenzo Pellegrini | 83 | Serie A TIM | 53k coins | +23.3% | +1.9% |
-| Nicolae Stanciu | 86 | Serie A TIM | 47k coins | +18.1% | +47.7% |
-| Claudio Marchisio | 87 | Serie A TIM | 20k coins | +15.4% | +25% |
-| Matías Soulé | 84 | Serie A TIM | 48k coins | +14.5% | +4.4% |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 70k coins | +13.4% | +8.9% |
-| Kevin De Bruyne | 88 | Serie A TIM | 166k coins | +12.2% | +14.5% |
-| Jurgen Ekkelenkamp | 83 | Serie A TIM | 43k coins | +8.2% | +0.6% |
-| Rasmus Højlund | 87 | Serie A TIM | 35k coins | +7.7% | 0% |
+| Donyell Malen | 89 | Serie A TIM | 114k coins | +25% | +10% |
+| Nicolae Stanciu | 86 | Serie A TIM | 48k coins | +20.6% | +50.8% |
+| Kevin De Bruyne | 88 | Serie A TIM | 176k coins | +20.5% | +24.8% |
+| Nuno Tavares | 87 | Serie A TIM | 39k coins | +15.3% | -33.2% |
+| Lorenzo Pellegrini | 83 | Serie A TIM | 54k coins | +7.5% | +2.9% |
+| Semih Kılıçsoy | 84 | Serie A TIM | 56k coins | +6.7% | +26.1% |
+| David Neres | 86 | Serie A TIM | 44k coins | +4.4% | -1.1% |
+| Bremer | 88 | Serie A TIM | 160k coins | +3.4% | +27.5% |
 
 
-Entre as poucas cartas que conseguiram resistir à onda de vendas, Dušan Vlahović se destaca com uma alta impressionante de 30,8% em 24 horas, cotado a 44k coins, embora a probabilidade de continuação da alta seja moderada em 45%. Mattia Zaccagni também performa bem com 23,7% de alta, atingindo 21k coins, e possui uma probabilidade de alta muito forte de 95%, o que o torna um ativo de interesse imediato para flip de curto prazo. Lorenzo Pellegrini subiu 23,3% para 53k coins, mas sua probabilidade de alta é de apenas 5%, sugerindo fortemente que este movimento é um pico esgotado e uma oportunidade clara para venda, não para compra. Nicolae Stanciu apresentou alta de 18,1% para 47k coins com 50% de probabilidade de alta, indicando um equilíbrio delicado onde o trader deve monitorar a liquidez antes de tomar posição. Claudio Marchisio subiu 15,4% para 20k coins com baixa probabilidade de continuação de 16%, reforçando a tese de que estas altas são pontuais e devem ser aproveitadas para lucros rápidos antes de um provável retorno à média.
+Dentre as poucas cartas que conseguiram se valorizar, Donyell Malen (89, Serie A TIM) liderou com uma alta impressionante de 25% em 24 horas, atingindo 114k coins, impulsionado por uma probabilidade de alta de 93% que atraiu traders de curto prazo. Nicolae Stanciu (86, Serie A TIM) também se destaca com um ganho de 20.6%, chegando a 48k coins, embora sua probabilidade de alta seja mais moderada em 50%, sugerindo um movimento de compra mais especulativo. Kevin De Bruyne (88, Serie A TIM) subiu 20.5% para 176k coins, com alta probabilidade de continuação de 93%, indicando forte demanda por seu status de elite no mercado de console. Nuno Tavares (87, Serie A TIM) registrou alta de 15.3% para 39k coins, mas com probabilidade de alta de apenas 5%, sinalizando que seu movimento pode ser um falso rompimento ou correção de curto prazo sem sustentação. Lorenzo Pellegrini (83, Serie A TIM) e Semih Kılıçsoy (84, Serie A TIM) tiveram altas modestas de 7.5% e 6.7% respectivamente, com preços de 54k e 56k, onde apenas Kılıçsoy possui probabilidade de alta relevante de 93%, diferenciando-o de Pellegrini que tem apenas 5% de chance de continuar subindo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Maicon | 88 | Serie A TIM | 44k coins | -49.1% | -5.1% |
-| Maicon | 90 | Serie A TIM | 110k coins | -45.7% | -10.1% |
-| Khéphren Thuram | 87 | Serie A TIM | 45k coins | -42.7% | -32.9% |
-| Iván Córdoba | 87 | Serie A TIM | 20k coins | -35.3% | -10.7% |
-| Paulo Dybala | 88 | Serie A TIM | 56k coins | -34.7% | -28.3% |
-| Marcus Pedersen | 89 | Serie A TIM | 27k coins | -34.2% | -13.3% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 60k coins | -33.3% | -4% |
-| Weston McKennie | 84 | Serie A TIM | 43k coins | -32.4% | -40.3% |
-| Kevin De Bruyne | 89 | Serie A TIM | 110k coins | -30.5% | -22.8% |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 33k coins | -27.2% | -20.1% |
+| Khéphren Thuram | 87 | Serie A TIM | 57k coins | -48.6% | -35.4% |
+| Idrissa Touré | 83 | Serie A TIM | 58k coins | -41.5% | +25.8% |
+| Martin Baturina | 84 | Serie A TIM | 33k coins | -37.5% | -27.4% |
+| Paulo Dybala | 91 | Serie A TIM | 105k coins | -35.3% | -23.6% |
+| Juan David Cabal | 85 | Serie A TIM | 24k coins | -34.4% | -12% |
+| Juan Cuadrado | 86 | Serie A TIM | 20k coins | -33.8% | -23.3% |
+| Marek Hamšík | 88 | Serie A TIM | 38k coins | -33.3% | -15.6% |
+| Kevin De Bruyne | 89 | Serie A TIM | 100k coins | -32.9% | -25.9% |
+| Gervinho | 87 | Serie A TIM | 90k coins | -32.7% | -11.4% |
+| Rasmus Højlund | 87 | Serie A TIM | 30k coins | -31% | +21.6% |
 
 
-As quedas são profundas e abrangem diversos níveis de rareza, com Maicon (87) sofrendo um colapso de 49,1% para 44k coins, apesar de ter 95% de probabilidade de alta, o que indica uma oportunidade de compra de contrarianismo se o trader acredita na reversion da tendência. Maicon (90) caiu 45,7% para 110k coins com 51% de probabilidade de alta, mostrando que até cartas de alto rating não estão imunes à pressão de venda generalizada do mercado. Khéphren Thuram despencou 42,7% para 45k coins com apenas 8% de probabilidade de alta, sinalizando um ativo fraco que deve ser evitado ou vendido imediatamente para cortar perdas. Iván Córdoba caiu 35,3% para 20k coins com 27% de probabilidade de alta, enquanto Paulo Dybala recuou 34,7% para 56k coins com 43% de probabilidade, ambos demonstrando a fragilidade dos preços em um ambiente de desconfiança. Marcus Pedersen (-34,2% para 27k) e Kouadio Manu Koné (-33,3% para 60k) completam o grupo de grandes perdedores, sendo este último um caso interessante dado seu alto potencial de alta futuro.
+O lado negativo do mercado foi devastador, com Khéphren Thuram (87, Serie A TIM) despencando 48.6% para 57k coins, uma queda brutal com apenas 8% de probabilidade de alta, indicando que o ativo ainda pode cair mais antes de estabilizar. Idrissa Touré (83, Serie A TIM) perdeu 41.5% chegando a 58k coins, e apesar de ter 50% de probabilidade de alta, o volume de vendas esmagou qualquer demanda de suporte neste momento. Martin Baturina (84, Serie A TIM) caiu 37.5% para 33k coins, com 58% de probabilidade de alta, sugerindo que pode ser um ponto de entrada para traders ousados que acreditam em uma correção de preço. Paulo Dybala (91, Serie A TIM) sofreu uma queda significativa de 35.3% para 105k coins, um ativo de alto valor que está sendo liquidado agressivamente, com 58% de chance de alta, mas o risco de perda continua alto devido ao momentum vendedor. Juan David Cabal (85, Serie A TIM) e Juan Cuadrado (86, Serie A TIM) caíram 34.4% e 33.8% respectivamente, para 24k e 20k coins, ambos com apenas 5% de probabilidade de alta, tornando-os ativos perigosos para compra imediata, pois o mercado ainda não encontrou fundo.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,17 +72,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Mattia Zaccagni | 87 | 21k coins | 27k coins | 95% |
-| Jurgen Ekkelenkamp | 83 | 43k coins | 53k coins | 95% |
-| Kouadio Manu Koné | 88 | 60k coins | 71k coins | 95% |
-| Giovanni Di Lorenzo | 85 | 70k coins | 83k coins | 95% |
-| Semih Kılıçsoy | 84 | 50k coins | 56k coins | 93% |
-| Weston McKennie | 84 | 43k coins | 49k coins | 93% |
-| Kevin De Bruyne | 88 | 166k coins | 187k coins | 93% |
+| Jurgen Ekkelenkamp | 83 | 31k coins | 39k coins | 95% |
+| Rasmus Højlund | 87 | 30k coins | 35k coins | 95% |
+| Giovanni Di Lorenzo | 85 | 55k coins | 65k coins | 95% |
+| Semih Kılıçsoy | 84 | 56k coins | 63k coins | 93% |
+| Donyell Malen | 89 | 114k coins | 129k coins | 93% |
+| Kevin De Bruyne | 88 | 176k coins | 198k coins | 93% |
 | Giorgio Scalvini | 86 | 30k coins | 34k coins | 93% |
+| Ché Adams | 89 | 38k coins | 41k coins | 84% |
 
 
-O modelo de previsão identifica um conjunto de cartas com alta probabilidade de valorização futura, liderado por Mattia Zaccagni (87) a 21k coins com 95% de probabilidade de alta, confirmando a análise de curto prazo realizada anteriormente. Jurgen Ekkelenkamp (83) é projetado para alta a 43k coins com 95% de probabilidade, representando uma oportunidade de entrada em um ativo de menor custo com alta expectativa de retorno. Kouadio Manu Koné (88) aparece novamente nas previsões a 60k coins com 95% de probabilidade, sugerindo que sua queda recente de 33,3% pode ser o fundo do vale para uma recuperação significativa. Giovanni Di Lorenzo (85) é cotado a 70k coins com 95% de probabilidade de alta, alinhando-se com sua recente alta de 13,4% e indicando momentum positivo sustentado. Semih Kılıçsoy (84) a 50k coins e Weston McKennie (84) a 43k coins, ambos com 93% de probabilidade, oferecem opções de diversificação com risco calculado, enquanto Kevin De Bruyne (88) a 166k coins e Giorgio Scalvini (86) a 30k coins, também com 93% de probabilidade, completam o portfólio de ativos de alta confiança para os próximos dias.
+O modelo de previsão identifica Jurgen Ekkelenkamp (83, Serie A TIM) como a principal oportunidade de alta, com 95% de probabilidade de subir a partir de 31k coins, oferecendo uma relação risco-retorno atrativa para traders de baixo investimento. Rasmus Højlund (87, Serie A TIM) e Giovanni Di Lorenzo (85, Serie A TIM) também compartilham essa probabilidade máxima de 95%, com preços atuais de 30k e 55k coins respectivamente, tornando-os alvos primários para acumulação antes do movimento esperado. Semih Kılıçsoy (84, Serie A TIM), Donyell Malen (89, Serie A TIM) e Kevin De Bruyne (88, Serie A TIM) mantêm alta probabilidade de 93%, com preços de 56k, 114k e 176k, confirmando a tendência de alta observada nos dados de 24h. Giorgio Scalvini (86, Serie A TIM) aparece com 93% de probabilidade de alta a 30k coins, enquanto Ché Adams (89, Serie A TIM) tem 84% de chance de valorização a 38k coins, completando o grupo de ativos com expectativa positiva robusta para os próximos ciclos de mercado.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -94,17 +92,17 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
 | Davide Zappacosta | 88 | 30k coins | -34.2% |
-| Marcus Pedersen | 89 | 27k coins | -24% |
-| Gustav Isaksen | 87 | 32k coins | -17.3% |
+| Wladimiro Falcone | 85 | 32k coins | -23.8% |
+| Lorenzo Pellegrini | 83 | 54k coins | -15.6% |
+| Gift Orban | 86 | 30k coins | -15.6% |
+| Giovanni Di Lorenzo | 86 | 70k coins | -24% |
+| Leonardo Spinazzola | 89 | 30k coins | -16.7% |
 | Nuno Tavares | 87 | 39k coins | -24.1% |
-| Morata | 87 | 28k coins | -15.5% |
-| Lorenzo Pellegrini | 83 | 53k coins | -15.6% |
-| Marek Hamšík | 89 | 41k coins | -16.7% |
-| Rafael Leão | 86 | 365k coins | -17.4% |
+| Morata | 87 | 30k coins | -15.5% |
 
 
 ## 🎯 Conclusão do dia
-A estratégia do dia deve focar em comprar seletivamente as quedas de alta probabilidade, como Maicon (87) e Kouadio Manu Koné, enquanto se vende agressivamente as altas com baixa probabilidade de continuação, como Lorenzo Pellegrini e Claudio Marchisio. É crucial evitar segurar ativos que estão caindo sem suporte técnico ou fundamentalista, como Khéphren Thuram e Marcus Pedersen, pois o sentimento vendedor pode perpetuar as perdas. Priorize o flip rápido em Mattia Zaccagni e Giovanni Di Lorenzo, utilizando a alta probabilidade de 95% para garantir lucros antes que o mercado se estabilize. Monitore de perto a entrada de volume em Kevin De Bruyne e Giorgio Scalvini, pois sua alta probabilidade de 93% sugere que podem ser os líderes de recuperação do segmento em breve. Lembre-se que a média negativa de 6,52% é o inimigo do trader passivo, então a ação decisiva para cortar perdas e fixar lucros é a única maneira de sair à frente neste ambiente hostil para compradores.
+A estratégia para hoje deve focar em comprar seletivamente nos ativos com alta probabilidade de modelo, como Jurgen Ekkelenkamp e Rasmus Højlund, enquanto se evita totalmente a compra de ativos em queda livre como Khéphren Thuram e Juan Cuadrado que ainda não mostraram sinais de fundo. Traders devem considerar segurar ou comprar Donyell Malen e Kevin De Bruyne (88) devido à sua alta probabilidade de 93% e momentum positivo, mas devem ter cautela com Nuno Tavares e Lorenzo Pellegrini que têm baixa probabilidade de continuidade de alta. É recomendado vender qualquer posição em ativos que caíram acima de 30% sem suporte de probabilidade de alta, pois o clima vendedor tende a pressionar esses preços ainda mais para baixo. O timing ideal é entrar nos ativos previstos de alta no início do ciclo do dia, aproveitando a liquidez de venda, e sair rapidamente se o preço atingir alvos de curto prazo, dado o ambiente volátil. A disciplina para não tentar 'pegar facas caindo' em ativos como Idrissa Touré e Martin Baturina é crucial, pois mesmo com probabilidade moderada de alta, o risco de perda ainda é significativo neste dia de mercado negativo.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -114,16 +112,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Dušan Vlahović (86, Serie A TIM), com +30.8% em 24h, a 44k coins no Console (PS).
+Donyell Malen (89, Serie A TIM), com +25% em 24h, a 114k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Maicon (88), -49.1% em 24h, a 44k coins.
+Khéphren Thuram (87), -48.6% em 24h, a 57k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Mattia Zaccagni (87) — 95% de probabilidade de alta, a 21k coins.
+Pelo modelo FutQuant, Jurgen Ekkelenkamp (83) — 95% de probabilidade de alta, a 31k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 26 cartas em alta contra 60 em queda (média -6.52%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 17 cartas em alta contra 68 em queda (média -10.68%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
