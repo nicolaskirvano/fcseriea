@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:31:15.000Z
+pubDatetime: 2026-06-21T01:31:19.000Z
 title: "Melhores investimentos em Serie A no EA FC (20/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Martin Baturina (89, Serie A TIM) lidera, com +59% em 7 dias a 31k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "Martin Baturina (89, Serie A TIM) lidera, com +62.8% em 7 dias a 30k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Martin Baturina (89) acumula **+59% em 7 dias** a 31k coins.
+> 🔝 **Destaque:** Martin Baturina (89) acumula **+62.8% em 7 dias** a 30k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário do EA FC Ultimate Team, especificamente focado na liga italiana Serie A TIM, a data de 20 de junho de 2026 marca um momento crucial para os investidores atentos às flutuações de mercado. Ao analisar as tendências de valorização nos últimos sete dias, observa-se que a volatilidade das cartas varia significativamente, exigindo uma abordagem criteriosa para separar oportunidades reais de ruído de mercado. A análise concentra-se em identificar quais ativos apresentam maior probabilidade de continuidade na alta, priorizando a segurança do investimento frente ao potencial de retorno, um equilíbrio delicado que define o sucesso das estratégias de trading no console PlayStation.
+Ao analisar o mercado de cartas da Serie A TIM no EA FC Ultimate Team para a data de 20 de junho de 2026, observamos uma dinâmica interessante de valorização nos últimos sete dias. O foco principal deve ser direcionado aos jogadores que apresentam não apenas um aumento percentual significativo nas últimas 24 horas, mas também uma probabilidade estatística elevada de continuação dessa tendência de alta. Entre os destaques absolutos, Kenan Yıldız emerge como o ativo mais promissor, registrando um impressionante salto de 30,9% em apenas um dia. Com uma probabilidade de alta de 46% e cotado a 182 mil moedas, esta carta de rating 88 representa uma oportunidade de investimento de alto risco e alto retorno, ideal para traders que buscam lucros rápidos em ativos premium da liga italiana.
 
-Dentre as opções disponíveis, Kouadio Manu Koné destaca-se como a entrada mais segura e promissora no momento. Com uma valorização impressionante de 38,8% nas últimas 24 horas e cotada a 98 mil moedas, a carta de rating 88 possui uma probabilidade de alta de 95%. Este percentual de confiança é extremamente raro e indica forte demanda sustentada, sugerindo que o jogador está sendo amplamente requisitado para times competitivos ou desafios específicos, tornando-o um ativo de baixo risco e alto potencial de crescimento imediato.
+Outro nome que chama a atenção pela força da sua tendência é Marek Hamšík. A carta retroativa de rating 88, conhecida como Serie A TIM, apresentou um aumento de 29,1% nas últimas 24 horas, sendo atualmente avaliada em 49 mil moedas. O que torna Hamšík particularmente atraente é a sua probabilidade de alta, que alcança 50%, o maior índice entre todos os jogadores listados. Isso sugere uma demanda crescente e sustentada, possivelmente impulsionada por eventos específicos do jogo ou meta de squads que valorizam sua posição e habilidades, consolidando-o como uma das escolhas mais seguras para entrada neste momento.
 
-Outra carta que merece atenção imediata é Mattia Zaccagni. Apesar de ter um rating de 87, sua performance no mercado foi robusta, com alta de 22,2% em 24 horas e preço atual de 19 mil moedas. O fator decisivo aqui é a probabilidade de alta de 95%, o mesmo índice de confiança encontrado em Manu Koné. Para jogadores que buscam entradas de menor custo com segurança quase garantida, Zaccagni representa uma oportunidade de "low cap" eficiente, permitindo a multiplicação do capital sem expor grandes quantias a riscos desnecessários.
+Para investidores com capital mais reduzido, Giovane oferece uma entrada acessível e promissora. A carta de rating 89 subiu 17,2% em 24 horas e está disponível por apenas 20 mil moedas. Com uma probabilidade de alta de 40%, Giovane demonstra uma liquidez interessante e uma tendência de valorização consistente, permitindo que traders iniciantes ou aqueles diversificando portfólio entrem no mercado da Serie A TIM com baixo risco financeiro inicial, aproveitando o potencial de multiplicação do capital em um curto prazo.
 
-No segmento de defesa, Giovanni Di Lorenzo e Andrea Barzagli oferecem perfis distintos de investimento. Di Lorenzo, com rating 85, subiu 15,7% em 24 horas para 66 mil moedas, também com 95% de probabilidade de alta, consolidando-se como uma peça essencial para esquemas de meta. Já Barzagli, de rating 87, registrou alta de 7,8% e custa 22 mil moedas, compartilhando a mesma probabilidade de alta de 95%. Ambos indicam que defensores da Serie A TIM estão em tendência de valorização, provavelmente devido a eventos in-game ou mudanças nas melhores composições táticas do jogo.
+No segmento de meia-altura, Yoan Bonny e Juan Cuadrado apresentam perfis complementares de investimento. Bonny, com rating 86, teve o maior aumento percentual relativo ao seu preço, subindo 27,4% para atingir 82 mil moedas, com uma alta probabilidade de 33% de continuar subindo. Já Cuadrado, também de rating 86, registrou alta de 26,1% e custa 35 mil moedas, embora sua probabilidade de alta seja menor, de apenas 5%. A escolha entre eles depende da tolerância ao risco: Bonny oferece maior expectativa de crescimento futuro, enquanto Cuadrado pode ser visto como uma aposta de curto prazo baseada no momentum atual do mercado.
 
-Para investidores com capital mais elevado e apetite por risco moderado, Kenan Yıldız e Lúcio apresentam números expressivos. Yıldız, com 88 de rating, disparou 36% em 24 horas para 179 mil moedas, com 46% de probabilidade de alta. Lúcio, de 89 de rating, acompanhou essa tendência com alta de 38,6% para 115 mil moedas, porém com probabilidade de alta ligeiramente menor, de 39%. Embora os percentuais de valorização sejam os mais altos da lista, a probabilidade de continuidade é inferior, caracterizando esses ativos como especulações de curto prazo que exigem monitoramento constante para venda no ponto de máxima lucratividade.
+Charles De Ketelaere e Lúcio são opções sólidas para quem busca estabilidade em cartas de maior rating. De Ketelaere (88) subiu 5% para 52 mil moedas, com uma robusta probabilidade de alta de 43%, indicando uma valorização lenta mas constante. Lúcio (89), por outro lado, com alta de 15% e preço de 115 mil moedas, possui 39% de chance de alta. Ambos sugerem mercados maduros onde a volatilidade é menor, mas a confiança na manutenção de valor é maior, sendo ideais para estratégias de "hold" (manter) em vez de day trading agressivo.
 
-Por fim, cartas como Martin Baturina, Claudio Marchisio e Nicolae Stanciu apresentam probabilidades de alta mais baixas (5%, 16% e 50%, respectivamente), apesar de seus preços elevados ou aumentos recentes. Baturina, por exemplo, tem apenas 5% de chance de continuar subindo, o que a torna uma saída recomendada para quem já possui o ativo, e não uma entrada. Daniele De Rossi, com 33% de probabilidade de alta, segue linha semelhante. Portanto, a estratégia mais sólida para hoje foca em Manu Koné, Zaccagni, Di Lorenzo e Barzagli, onde a probabilidade de alta de 95% garante a maior segurança para a entrada de capital no mercado da Serie A TIM.
+Finalmente, Nico Paz, Junior Messias e Martin Baturina completam o cenário. Paz (90) tem alta de 2,6% a 60 mil moedas, mas surpreende com 42% de probabilidade de alta, sugerindo um fundo de mercado forte apesar do movimento recente modesto. Messias (87) subiu 10,1% a 26 mil moedas com 18% de probabilidade, enquanto Baturina (89) teve alta de 5,8% a 30 mil moedas, mas com baixa probabilidade de 5% de continuar subindo. Considerando os dados, as melhores entradas hoje são Kenan Yıldız e Marek Hamšík pela alta probabilidade e momentum, seguidos por Giovane e Yoan Bonny para quem busca equilíbrio entre preço e potencial de valorização.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,29 +45,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Martin Baturina | 89 | Serie A TIM | 31k coins | +6% | +59% | 5% |
-| Mattia Zaccagni | 87 | Serie A TIM | 19k coins | +22.2% | +54.4% | 95% |
-| Claudio Marchisio | 88 | Serie A TIM | 174k coins | +19.9% | +52.2% | 16% |
-| Nicolae Stanciu | 86 | Serie A TIM | 52k coins | +3.1% | +47.4% | 50% |
-| Kenan Yıldız | 88 | Serie A TIM | 179k coins | +36% | +31.2% | 46% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 98k coins | +38.8% | +27.8% | 95% |
-| Andrea Barzagli | 87 | Serie A TIM | 22k coins | +7.8% | +13.7% | 95% |
-| Lúcio | 89 | Serie A TIM | 115k coins | +38.6% | +8.5% | 39% |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 66k coins | +15.7% | +7.3% | 95% |
-| Daniele De Rossi | 91 | Serie A TIM | 175k coins | +21.1% | +6.9% | 33% |
+| Martin Baturina | 89 | Serie A TIM | 30k coins | +5.8% | +62.8% | 5% |
+| Junior Messias | 87 | Serie A TIM | 26k coins | +10.1% | +34.2% | 18% |
+| Yoan Bonny | 86 | Serie A TIM | 82k coins | +27.4% | +29.8% | 33% |
+| Kenan Yıldız | 88 | Serie A TIM | 182k coins | +30.9% | +24.7% | 46% |
+| Nico Paz | 90 | Serie A TIM | 60k coins | +2.6% | +20% | 42% |
+| Juan Cuadrado | 86 | Serie A TIM | 35k coins | +26.1% | +19.7% | 5% |
+| Charles De Ketelaere | 88 | Serie A TIM | 52k coins | +5% | +11.7% | 43% |
+| Giovane | 89 | Serie A TIM | 20k coins | +17.2% | +10.3% | 40% |
+| Marek Hamšík | 88 | Serie A TIM | 49k coins | +29.1% | +9.6% | 50% |
+| Lúcio | 89 | Serie A TIM | 115k coins | +15% | +6.5% | 39% |
+| Daniele De Rossi | 89 | Serie A TIM | 119k coins | +34.5% | +5.3% | 39% |
 
 
 ## 📈 Análise dos destaques
 
-- **Martin Baturina (89)** — 31k coins, **+59% em 7 dias** (+6% em 24h). Preço em linha com a média de 7 dias (+1%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Martin Baturina (89)** — 30k coins, **+62.8% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (-3%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Mattia Zaccagni (87)** — 19k coins, **+54.4% em 7 dias** (+22.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Junior Messias (87)** — 26k coins, **+34.2% em 7 dias** (+10.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Claudio Marchisio (88)** — 174k coins, **+52.2% em 7 dias** (+19.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Yoan Bonny (86)** — 82k coins, **+29.8% em 7 dias** (+27.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Nicolae Stanciu (86)** — 52k coins, **+47.4% em 7 dias** (+3.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kenan Yıldız (88)** — 182k coins, **+24.7% em 7 dias** (+30.9% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Kenan Yıldız (88)** — 179k coins, **+31.2% em 7 dias** (+36% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nico Paz (90)** — 60k coins, **+20% em 7 dias** (+2.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +86,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Martin Baturina (89, Serie A TIM) lidera, com +59% em 7 dias a 31k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+Martin Baturina (89, Serie A TIM) lidera, com +62.8% em 7 dias a 30k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

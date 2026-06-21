@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:30:51.000Z
+pubDatetime: 2026-06-21T01:30:54.000Z
 title: "Serie A no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Maicon (88, Serie A TIM), com +59.5% em 24h, a 62k coins no Console (PS)."
+    a: "Riccardo Orsolini (85, Serie A TIM), com +58.5% em 24h, a 26k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Kevin De Bruyne (88), -46.1% em 24h, a 90k coins."
+    a: "Idrissa Touré (83), -48.9% em 24h, a 36k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 66k coins."
+    a: "Pelo modelo FutQuant, Antonio Di Natale (89) — 95% de probabilidade de alta, a 154k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 51 cartas em alta contra 52 em queda (média 0.94%)."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 58 cartas em alta contra 42 em queda (média 4.0%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de Serie A TIM no console PlayStation apresenta um cenário de extrema volatilidade e indecisão para o dia 20 de junho de 2026, caracterizado por uma distribuição quase equânime entre altas e baixas que reflete a cautela dos traders institucionais diante da falta de um catalizador claro. Com 51 ativos registrando valorização frente a 52 em queda, a média de variação de apenas 0.94% nas últimas 24 horas indica um ambiente lateral onde o volume de negociação é absorvido rapidamente por bots de arbitragem e traders de alta frequência que exploram micro-ineficiências de preço. Essa condição de 'dia indefinido' exige que o trader abandone estratégias de tendência prolongada e foque em operações de curto prazo, aproveitando as dissonâncias entre a probabilidade de alta projetada pelos modelos algorítmicos e a ação de preço atual no livro de ofertas. A ausência de um narrador dominante, como um grande evento de SBC ou atualização de squad, faz com que a liquidez se concentre em ativos específicos com fundamental forte ou escassez momentânea, criando oportunidades isoladas mas perigosas para quem não monitora a profundidade do order book. Portanto, a análise de hoje deve ser conduzida com lupa, identificando não apenas quem subiu ou caiu, mas a razão estrutural por trás desses movimentos, diferenciando ruído de mercado de oportunidades reais de valorização sustentável no ecossistema do Ultimate Team.
+O mercado da Serie A TIM em console PS apresenta um aquecimento significativo no dia 20 de junho de 2026, com uma clara predominância de altas que compõem 58% do volume de movimentos, contrastando com apenas 42% de quedas e uma média geral de valorização de 4.0% nas últimas 24 horas. Esse cenário de otimismo generalizado sugere que os traders estão mais propensos a acumular ativos de qualidade, possivelmente em antecipação a eventos futuros ou simplesmente devido à escassez de oferta nos níveis mais altos de rating. A volatilidade está concentrada em cards com ratings entre 82 e 89, onde a liquidez é maior e as especulações ganham força rapidamente, criando oportunidades de arbitragem para quem monitora de perto as probabilidades de alta. É fundamental observar que, apesar do tom positivo, a dispersão dos percentuais indica que nem todos os jogadores estão subindo uniformemente, exigindo uma seleção criteriosa baseada na probabilidade de continuidade da tendência. O analista deve manter atenção redobrada nos ativos que combinam alta probabilidade de subida com preços ainda acessíveis, evitando cair na armadilha de comprar no topo de movimentos já consolidados.
 
-> 🟢 **Maior alta:** Maicon (88) **+59.5%** · 🔴 **Maior baixa:** Kevin De Bruyne (88) **-46.1%**
+> 🟢 **Maior alta:** Riccardo Orsolini (85) **+58.5%** · 🔴 **Maior baixa:** Idrissa Touré (83) **-48.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Maicon | 88 | Serie A TIM | 62k coins | +59.5% | +18.2% |
-| Weston McKennie | 84 | Serie A TIM | 52k coins | +47.5% | -0.8% |
-| Luka Modrić | 89 | Serie A TIM | 116k coins | +41.6% | +16.9% |
-| Yoan Bonny | 86 | Serie A TIM | 75k coins | +40.2% | +44.2% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 98k coins | +38.8% | +27.8% |
-| Víctor Ibarbo | 85 | Serie A TIM | 53k coins | +38.6% | -2.8% |
-| Lúcio | 89 | Serie A TIM | 115k coins | +38.6% | +8.5% |
-| Kenan Yıldız | 88 | Serie A TIM | 179k coins | +36% | +31.2% |
-| Martin Baturina | 84 | Serie A TIM | 46k coins | +32.6% | +3.6% |
-| Gervinho | 87 | Serie A TIM | 90k coins | +25% | 0% |
+| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +58.5% | +28.7% |
+| Charles De Ketelaere | 89 | Serie A TIM | 27k coins | +58.3% | +16.3% |
+| Morata | 87 | Serie A TIM | 42k coins | +41.7% | +28.8% |
+| Daniele De Rossi | 89 | Serie A TIM | 119k coins | +34.5% | +5.3% |
+| Kenan Yıldız | 82 | Serie A TIM | 80k coins | +31.8% | +14.9% |
+| Kenan Yıldız | 88 | Serie A TIM | 182k coins | +30.9% | +24.7% |
+| Marek Hamšík | 88 | Serie A TIM | 49k coins | +29.1% | +9.6% |
+| Martin Baturina | 84 | Serie A TIM | 42k coins | +28.8% | +0.6% |
+| Yoan Bonny | 86 | Serie A TIM | 82k coins | +27.4% | +29.8% |
+| Juan Cuadrado | 86 | Serie A TIM | 35k coins | +26.1% | +19.7% |
 
 
-O destaque absoluto das valorizações é Maicon (88, Serie A TIM), que acumulou uma impressionante alta de 59.5% em 24 horas, atingindo a marca de 62k coins, um movimento impulsionado pela alta probabilidade de alta de 95% que sugere forte demanda de squads competitivos buscando defensores laterais acessíveis e eficientes.紧随其后的是 Weston McKennie (84, Serie A TIM), com uma valorização de 47.5% para 52k coins, também com 93% de probabilidade de alta, indicando que a base de preço de médios campo versáteis está sendo sustentada por traders que antecipam uso em SBCs de baixo custo ou times de divisão inferior. Luka Modrić (89, Serie A TIM) subiu 41.6% para 116k coins, embora sua probabilidade de alta seja mais moderada em 74%, o que indica que sua valorização é mais sensível a flutuações de sentimento e menos a uma compra massiva estrutural, tornando-o um ativo de risco mais elevado para holding. Yoan Bonny (86, Serie A TIM) registrou alta de 40.2% para 75k coins, mas com apenas 33% de probabilidade de alta, sinalizando que o movimento pode ser uma correção técnica após queda ou compra especulativa de curto prazo, exigindo cautela na entrada. Kouadio Manu Koné (88, Serie A TIM) fechou com 38.8% de alta para 98k coins e 95% de probabilidade de alta, consolidando-se como um dos ativos mais saudáveis do mercado, com suporte forte e demanda consistente que valida a tese de compra para traders que buscam segurança relativa em meio à volatilidade.
+Entre os destaques positivos, Riccardo Orsolini lidera as altas com um impressionante aumento de 58.5% em 24 horas, atingindo a marca de 26k coins, embora sua probabilidade de alta futura seja baixa, de apenas 5%, o que sugere que o movimento pode ser um pico isolado.紧随其后的是 Charles De Ketelaere, com uma valorização de 58.3% para 27k coins, também apresentando uma probabilidade de alta de apenas 5%, indicando que esses dois ativos podem ter esgotado seu potencial de curto prazo. Morata apresenta um comportamento diferente, subindo 41.7% para 42k coins com a mesma probabilidade baixa de 5%, reforçando a ideia de que o mercado está testando a resistência de venda em patamares mais elevados para esses ratings. Daniele De Rossi se destaca como o ativo de maior valor absoluto, subindo 34.5% para 119k coins, mas com uma probabilidade de alta de 39%, o que oferece um cenário mais sustentável para traders de longo prazo que buscam segurança. Kenan Yıldız aparece em duas versões, com o card de rating 82 subindo 31.8% para 80k coins e probabilidade de 50%, e o card de rating 88 subindo 30.9% para 182k coins com probabilidade de 46%, mostrando uma demanda robusta e equilibrada em diferentes faixas de investimento.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kevin De Bruyne | 88 | Serie A TIM | 90k coins | -46.1% | -37% |
-| Maicon | 89 | Serie A TIM | 115k coins | -43.9% | -34.3% |
-| Antonio Di Natale | 92 | Serie A TIM | 351k coins | -32.3% | -45.8% |
-| Billy Gilmour | 87 | Serie A TIM | 26k coins | -31.1% | -55.6% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 25k coins | -29.8% | -57.3% |
-| Francisco Conceição | 89 | Serie A TIM | 50k coins | -26.1% | -15% |
-| Khéphren Thuram | 85 | Serie A TIM | 60k coins | -25% | +2.6% |
-| Scott McTominay | 87 | Serie A TIM | 66k coins | -24.6% | -25.7% |
-| Idrissa Touré | 83 | Serie A TIM | 45k coins | -24.6% | -18.3% |
-| Bremer | 88 | Serie A TIM | 115k coins | -23% | -7.9% |
+| Idrissa Touré | 83 | Serie A TIM | 36k coins | -48.9% | -33.8% |
+| Billy Gilmour | 87 | Serie A TIM | 20k coins | -43.2% | -64.1% |
+| Kevin De Bruyne | 88 | Serie A TIM | 106k coins | -37.6% | -29.3% |
+| Bremer | 88 | Serie A TIM | 108k coins | -31.9% | -15.5% |
+| Semih Kılıçsoy | 84 | Serie A TIM | 34k coins | -30.2% | -20.5% |
+| Nuno Tavares | 87 | Serie A TIM | 31k coins | -27.5% | -47.5% |
+| Oliver Sørensen | 84 | Serie A TIM | 36k coins | -25.7% | -22% |
+| Piotr Zieliński | 85 | Serie A TIM | 29k coins | -23.3% | -23.3% |
+| Marcus Pedersen | 89 | Serie A TIM | 30k coins | -20% | -17.8% |
+| Scott McTominay | 91 | Serie A TIM | 140k coins | -17.6% | -34% |
 
 
-Na contramão, Kevin De Bruyne (88, Serie A TIM) sofreu uma queda brutal de 46.1% para 90k coins, o que é paradoxal dado seu 93% de probabilidade de alta, sugerindo uma venda em pânico ou liquidação de grandes quantidades por traders que estavam posicionados em curto prazo e precisaram sair, criando uma oportunidade de compra agressiva para quem confia no modelo de longo prazo. Maicon (89, Serie A TIM) despencou 43.9% para 115k coins com apenas 23% de probabilidade de alta, confirmando a fragilidade do ativo de maior rating em comparação com sua versão inferior, indicando que o mercado está rejeitando o prêmio de preço pelo rating mais alto em favor da eficiência do Maicon 88. Antonio Di Natale (92, Serie A TIM) caiu 32.3% para 351k coins, um movimento esperado para ídolos com baixa utilidade competitiva atual, onde a probabilidade de alta de 32% reflete a falta de interesse real de squads competitivos, tornando-o um ativo de colecionador mais do que de trading ativo. Billy Gilmour (87, Serie A TIM) recuou 31.1% para 26k coins com 53% de probabilidade de alta, sugerindo que o preço pode estar encontrando um novo piso de equilíbrio, mas a queda acentuada indica desconfiança momentânea na liquidez do ativo. Hakan Çalhanoğlu (88, Serie A TIM) caiu 29.8% para 25k coins com apenas 28% de probabilidade de alta, reforçando a ideia de que médios defensivos de alto rating, mas com versatilidade limitada, estão sendo abandonados pelo mercado em favor de ativos mais versáteis e com melhor relação custo-benefício.
+No lado das quedas, Idrissa Touré sofre a maior desvalorização com uma queda de 48.9% para 36k coins, apesar de ter uma probabilidade de alta de 50%, o que pode indicar uma correção técnica ou falta de interesse imediato de compradores. Billy Gilmour também recua significativamente, caindo 43.2% para 20k coins, mas sua alta probabilidade de alta de 53% sugere que esta pode ser uma oportunidade de compra para traders agressivos que acreditam na reversão. Kevin De Bruyne apresenta uma queda de 37.6% para 106k coins, um movimento alarmante considerando seu alto valor, mas com uma probabilidade de alta de 93%, o que aponta fortemente para uma correção temporária antes de uma retomada forte. Bremer cai 31.9% para 108k coins com probabilidade de alta de 68%, indicando que a venda em massa pode estar chegando ao fim, tornando-o um alvo interessante para compra em fundos. Semih Kılıçsoy despencou 30.2% para 34k coins, mas sua probabilidade de alta de 93% é um sinal claro de que o mercado está ajustando excessivamente para baixo, criando uma oportunidade de risco calculado.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -74,17 +74,17 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Giovanni Di Lorenzo | 85 | 66k coins | 79k coins | 95% |
-| Rasmus Højlund | 87 | 29k coins | 35k coins | 95% |
-| Mattia Zaccagni | 87 | 19k coins | 24k coins | 95% |
-| Kouadio Manu Koné | 88 | 98k coins | 116k coins | 95% |
-| Weston McKennie | 84 | 52k coins | 59k coins | 93% |
-| Donyell Malen | 89 | 100k coins | 113k coins | 93% |
-| Kevin De Bruyne | 88 | 90k coins | 101k coins | 93% |
-| Giorgio Scalvini | 86 | 30k coins | 34k coins | 93% |
+| Antonio Di Natale | 89 | 154k coins | 192k coins | 95% |
+| Giovanni Di Lorenzo | 85 | 64k coins | 77k coins | 95% |
+| Kouadio Manu Koné | 88 | 92k coins | 110k coins | 95% |
+| Rasmus Højlund | 87 | 25k coins | 30k coins | 95% |
+| Jurgen Ekkelenkamp | 83 | 41k coins | 51k coins | 95% |
+| Christian Pulisic | 87 | 17k coins | 20k coins | 95% |
+| Semih Kılıçsoy | 84 | 34k coins | 39k coins | 93% |
+| Donyell Malen | 89 | 86k coins | 96k coins | 93% |
 
 
-O modelo de previsão identifica Giovanni Di Lorenzo (85, Serie A TIM) com 95% de probabilidade de alta a 66k coins, sugerindo que o lateral direito está subvalorizado em relação à sua utilidade em squads de orçamento médio. Rasmus Højlund (87, Serie A TIM) também apresenta 95% de probabilidade de alta a 29k coins, um preço extremamente atraente para um atacante de rating decente, indicando potencial de valorização rápida se a demanda por pontas aumentarem. Mattia Zaccagni (87, Serie A TIM) com 95% de probabilidade de alta a 19k coins representa a oportunidade de maior alavancagem relativa, pois o baixo preço de entrada minimiza o risco absoluto enquanto a alta probabilidade sugere forte suporte algorítmico. Kouadio Manu Koné (88, Serie A TIM) e Weston McKennie (84, Serie A TIM) aparecem novamente na previsão com 95% e 93% de probabilidade respectivamente, confirmando a sustentabilidade das altas observadas e sugerindo que há espaço para mais valorização se o suporte se mantiver. Donyell Malen (89, Serie A TIM) com 93% de probabilidade a 100k coins e Giorgio Scalvini (86, Serie A TIM) com 93% a 30k coins completam o grupo de ativos com alta confiança, indicando que defensores e atacantes de rating 86-89 são a faixa de segurança do mercado atual.
+O modelo de previsão identifica uma série de ativos com altíssima probabilidade de valorização, liderados por Antonio Di Natale com 95% de chance de alta a 154k coins, seguido de perto por Giovanni Di Lorenzo com 95% de probabilidade a 64k coins. Kouadio Manu Koné também entra no grupo de certeza relativa com 95% de probabilidade de alta a 92k coins, enquanto Rasmus Højlund apresenta o mesmo índice de 95% a um preço mais acessível de 25k coins. Jurgen Ekkelenkamp e Christian Pulisic completam o grupo de 95% de probabilidade, cotados a 41k coins e 17k coins respectivamente, oferecendo diferentes perfis de risco e retorno. Além desses, Semih Kılıçsoy e Donyell Malen aparecem com 93% de probabilidade de alta, a 34k coins e 86k coins respectivamente, consolidando-se como ativos de alta confiança para estratégias de acumulação.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -93,18 +93,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Gift Orban | 86 | 30k coins | -15.6% |
-| Pierre Kalulu | 91 | 78k coins | -17.4% |
-| Lorenzo Pellegrini | 83 | 54k coins | -15.6% |
-| Leonardo Spinazzola | 89 | 26k coins | -16.7% |
-| Francisco Conceição | 89 | 50k coins | -16.7% |
-| Morata | 87 | 34k coins | -15.5% |
-| Marcus Pedersen | 89 | 31k coins | -24% |
-| Bremer | 87 | 38k coins | -17.5% |
+| Morata | 87 | 42k coins | -15.5% |
+| Marcus Pedersen | 89 | 30k coins | -24% |
+| Weston McKennie | 92 | 84k coins | -16.7% |
+| Nuno Tavares | 87 | 31k coins | -24.1% |
+| Bremer | 87 | 36k coins | -17.5% |
+| Gustav Isaksen | 87 | 32k coins | -17.3% |
+| Charles De Ketelaere | 89 | 27k coins | -34.2% |
+| Denzel Dumfries | 89 | 59k coins | -17.3% |
 
 
 ## 🎯 O que fazer hoje
-A estratégia para hoje deve focar na compra agressiva de ativos com alta probabilidade de alta e preço baixo, como Mattia Zaccagni (19k) e Rasmus Højlund (29k), para maximizar o retorno percentual com risco controlado. Deve-se evitar segurar ativos em queda livre como Maicon (89) e Antonio Di Natale, pois a probabilidade de recuperação é baixa e o tempo de mercado é dinheiro perdido. Recomenda-se comprar Kevin De Bruyne (90k) a contramão da queda, apostando na correção de curto prazo dada sua alta probabilidade de alta de 93%, mas com stop-loss rigoroso. Kouadio Manu Koné e Weston McKennie devem ser segurados por traders que já possuem, pois a convergência entre alta recente e alta probabilidade de futuro indica tendência de continuação. O trader deve ficar atento à liquidez de Maicon (88), pois a alta de 59.5% pode atrair vendas de lucros se o suporte de 62k for testado, exigindo saída rápida caso o preço retroceda abaixo da média móvel de 4 horas.
+A estratégia ideal para hoje envolve comprar os ativos com alta probabilidade de alta que estão em queda, como Semih Kılıçsoy e Billy Gilmour, aproveitando a desconfiança do mercado para entrar em posições com margem de segurança. É recomendável evitar comprar Riccardo Orsolini e Charles De Ketelaere agora, pois suas altas recentes combinadas com baixa probabilidade de continuidade sugerem um topo de curto prazo. Traders conservadores devem focar em Daniele De Rossi e Kenan Yıldız (rating 88) para segurar posições, enquanto os agressivos podem alavancar em Rasmus Højlund e Christian Pulisic, que oferecem alta probabilidade de alta com entrada de capital menor. O timing é crucial para vender os ativos de alta probabilidade de queda, como Nuno Tavares e Oliver Sørensen, antes que as perdas se aprofundem, utilizando os lucros para reinvestir nos ativos previstos para alta. Mantenha uma carteira diversificada entre os ativos de 95% de probabilidade, como Antonio Di Natale e Giovanni Di Lorenzo, para garantir retornos consistentes independentemente da volatilidade diária do mercado da Serie A TIM.
 
 
 ## 🔍 Como apuramos os preços
@@ -114,16 +114,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Maicon (88, Serie A TIM), com +59.5% em 24h, a 62k coins no Console (PS).
+Riccardo Orsolini (85, Serie A TIM), com +58.5% em 24h, a 26k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Kevin De Bruyne (88), -46.1% em 24h, a 90k coins.
+Idrissa Touré (83), -48.9% em 24h, a 36k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 66k coins.
+Pelo modelo FutQuant, Antonio Di Natale (89) — 95% de probabilidade de alta, a 154k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 51 cartas em alta contra 52 em queda (média 0.94%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 58 cartas em alta contra 42 em queda (média 4.0%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
