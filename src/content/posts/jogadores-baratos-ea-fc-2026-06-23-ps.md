@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T19:30:05.000Z
+pubDatetime: 2026-06-23T22:30:05.000Z
 title: "Jogadores baratos de Serie A no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,29 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -6.1% |
-| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 15k coins | -47.9% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -5.9% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -19% |
-| Hidetoshi Nakata | 88 | CAM | Serie A TIM | 13k coins | -61.8% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -8.3% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | -37.5% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | -6.4% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 15k coins | -15.5% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | -2.2% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -4.2% |
+| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 12k coins | -45.7% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -8.3% |
+| Hidetoshi Nakata | 88 | CAM | Serie A TIM | 14k coins | -63.8% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 14k coins | -13.3% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | -43.9% |
+| Rasmus Højlund | 87 | ST | Serie A TIM | 15k coins | -53.8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +2.2% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | +10.2% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Hidetoshi Nakata (89, CAM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Hidetoshi Nakata (89, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Hidetoshi Nakata (88, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Hidetoshi Nakata (88, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
