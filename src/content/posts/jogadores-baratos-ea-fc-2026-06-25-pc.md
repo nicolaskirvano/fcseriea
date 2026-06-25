@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T16:30:10.000Z
+pubDatetime: 2026-06-25T19:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +8.3% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -2.1% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -21.4% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -2.2% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +6.2% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | 0% |
+| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -22.8% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -4.3% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -6.5% |
 
 
