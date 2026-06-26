@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T22:30:09.000Z
+pubDatetime: 2026-06-26T01:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,8 +32,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -6.2% |
 | Diego Milito | 88 | ST | Serie A TIM | 12k coins | +2.2% |
 | Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -24.1% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -4.3% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -6.5% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -8.3% |
+| Santiago Castro | 87 | ST | Serie A TIM | 11k coins | -41.3% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -31% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -4.4% |
 
 
 ## 📈 Destaques
@@ -44,9 +46,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **11k coins**
+- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **11k coins**
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
