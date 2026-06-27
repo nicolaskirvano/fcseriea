@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:30:09.000Z
+pubDatetime: 2026-06-27T13:30:10.000Z
 title: "Jogadores baratos de Serie A no EA FC (27/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | +17.8% |
-| Diego Milito | 88 | ST | Serie A TIM | 11k coins | 0% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | -47.6% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | -7.8% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 12k coins | -17.2% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +10.9% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -40.4% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +4.5% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -6% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -4.3% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11k coins | 0% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **11k coins**
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **12k coins**
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?
