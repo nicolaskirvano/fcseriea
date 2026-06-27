@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:30:09.000Z
+pubDatetime: 2026-06-27T01:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,10 +30,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -2.2% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | -34.3% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -2.1% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +2.2% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | -31.2% |
+| Santiago Castro | 87 | ST | Serie A TIM | 11k coins | -23.8% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +2.2% |
 | Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | -3.8% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | -16.7% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | -36.2% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.3% |
 
 
@@ -45,9 +48,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **12k coins**
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
 
 ## Por que estas cartas?
