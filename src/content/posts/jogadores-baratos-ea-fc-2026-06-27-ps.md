@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T19:30:05.000Z
+pubDatetime: 2026-06-27T22:30:05.000Z
 title: "Jogadores baratos de Serie A no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 11k coins no Console (PS)."
+    a: "Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gianluca Vialli (89) por apenas 11k coins.
+> 💰 **Melhor pechincha:** Gianluca Vialli (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,31 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -6.2% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | 0% |
-| Hidetoshi Nakata | 88 | CAM | Serie A TIM | 14k coins | +7.4% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 15k coins | +20.4% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -2.1% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | -4.1% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | -2.1% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 12k coins | -16.1% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 12k coins | -20.6% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -3.8% |
-| Francisco Conceição | 85 | RM | Serie A TIM | 15k coins | -23.1% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -6.2% |
+| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 13k coins | +8% |
+| Giovane | 89 | CAM | Serie A TIM | 15k coins | -4.4% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | +16.3% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -2.1% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 12k coins | -15.8% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +4.3% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 12k coins | -27% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 13k coins | +2% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -29.5% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | +14.3% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+- **Hidetoshi Nakata (89, CAM)** da Serie A TIM, a apenas **13k coins**
 
-- **Hidetoshi Nakata (88, CAM)** da Serie A TIM, a apenas **14k coins**
+- **Giovane (89, CAM)** da Serie A TIM, a apenas **15k coins**
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -70,7 +70,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 11k coins no Console (PS).
+Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T19:30:09.000Z
+pubDatetime: 2026-06-27T22:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (27/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,26 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +9.1% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -4.3% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -21.1% |
+| Diego Milito | 88 | ST | Serie A TIM | 13k coins | +31.8% |
+| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -2.2% |
 | Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | -32.3% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -8.3% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | -45% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -2.2% |
+| Daniele De Rossi | 87 | CDM | Serie A TIM | 13k coins | -37.6% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +4.7% |
-| Cher Ndour | 86 | CM | Serie A TIM | 15k coins | -21% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
 - **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
