@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T22:30:09.000Z
+pubDatetime: 2026-06-28T01:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (27/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 11k coins no PC."
+    a: "Diego Milito (88, Serie A TIM) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gianluca Vialli (89) por apenas 11k coins.
+> 💰 **Melhor pechincha:** Diego Milito (88) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.2% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 13k coins | -21.1% |
-| Diego Milito | 88 | ST | Serie A TIM | 13k coins | +31.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +2.2% |
 | Rui Costa | 87 | CAM | Serie A TIM | 11k coins | -2.2% |
 | Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | -32.3% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | -45% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -2.2% |
-| Daniele De Rossi | 87 | CDM | Serie A TIM | 13k coins | -37.6% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +4.7% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | -38% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 12k coins | -35.1% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 13k coins | -38.5% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -11.9% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
-
-- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
 - **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -67,7 +66,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 11k coins no PC.
+Diego Milito (88, Serie A TIM) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
