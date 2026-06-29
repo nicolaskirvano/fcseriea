@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T22:30:05.000Z
+pubDatetime: 2026-06-29T01:30:05.000Z
 title: "Jogadores baratos de Serie A no EA FC (28/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -4.2% |
-| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 13k coins | +3.9% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +8.7% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 13k coins | -3.6% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +3.4% |
-| Filip Kostić | 88 | LM | Serie A TIM | 15k coins | -13.8% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -65.4% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +8.5% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +4.4% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | -14.3% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 13k coins | -3.6% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | -12.9% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | +5% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +6.8% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | -19% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -4.1% |
+| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 12k coins | -2% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 12k coins | -13.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 13k coins | +6.4% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | 0% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | -14.5% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +2.2% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 14k coins | +5.7% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +2.3% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | -9.4% |
+| Marten de Roon | 85 | CM | Serie A TIM | 13k coins | -31.1% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Hidetoshi Nakata (89, CAM)** da Serie A TIM, a apenas **13k coins**
+- **Hidetoshi Nakata (89, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13k coins**
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13k coins**
 
-- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **15k coins**
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
 
 ## Por que estas cartas?

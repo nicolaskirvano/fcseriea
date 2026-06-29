@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T22:30:10.000Z
+pubDatetime: 2026-06-29T01:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,12 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +4.4% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +18.2% |
-| Rui Costa | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +8.2% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +8.9% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +2.2% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | +9.1% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -13.3% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 13k coins | +6.1% |
 | Mattia Zaccagni | 87 | LM | Serie A TIM | 15k coins | -40% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11k coins | 0% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
@@ -42,13 +42,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **11k coins**
+- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **12k coins**
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mattia Zaccagni (87, LM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **13k coins**
 
 
 ## Por que estas cartas?
