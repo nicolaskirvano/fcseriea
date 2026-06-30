@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T19:30:05.000Z
+pubDatetime: 2026-06-30T22:30:05.000Z
 title: "Jogadores baratos de Serie A no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,15 +31,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.2% |
 | Giovane | 89 | CAM | Serie A TIM | 15k coins | -14.3% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -16.7% |
-| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +26.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -18% |
+| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +23.4% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | +2.1% |
 | Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +2.1% |
 | Marek Hamšík | 87 | CAM | Serie A TIM | 14k coins | -3.6% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +26.7% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +23.9% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +10.2% |
-| Cher Ndour | 86 | CM | Serie A TIM | 15k coins | -34.1% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +8% |
+| Matías Soulé | 86 | CAM | Serie A TIM | 15k coins | -27.2% |
+| Cher Ndour | 86 | CM | Serie A TIM | 15k coins | -34.8% |
 
 
 ## 📈 Destaques
