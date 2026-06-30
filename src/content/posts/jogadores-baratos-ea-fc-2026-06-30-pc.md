@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T13:30:09.000Z
+pubDatetime: 2026-06-30T16:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,7 +32,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +15.6% |
 | Diego Milito | 88 | ST | Serie A TIM | 12k coins | +8.7% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | -34.3% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | 0% |
 | Rui Costa | 87 | CAM | Serie A TIM | 13k coins | +18.2% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -4.4% |
 
@@ -45,9 +44,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **11k coins**
-
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?
