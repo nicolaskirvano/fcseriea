@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:30:05.000Z
+pubDatetime: 2026-06-30T13:30:05.000Z
 title: "Jogadores baratos de Serie A no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,23 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Giovane | 89 | CAM | Serie A TIM | 15k coins | -7.7% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -12.3% |
-| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +23.4% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.2% |
+| Giovane | 89 | CAM | Serie A TIM | 15k coins | -9.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -16.7% |
+| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +26.1% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | +2.1% |
 | Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +9.1% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 14k coins | -6.9% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -4.3% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +12.5% |
-| Matías Soulé | 86 | CAM | Serie A TIM | 15k coins | -29.8% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 14k coins | -8.5% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +10.2% |
+| Matías Soulé | 86 | CAM | Serie A TIM | 15k coins | -30.6% |
+| Cher Ndour | 86 | CM | Serie A TIM | 15k coins | -27.7% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Giovane (89, CAM)** da Serie A TIM, a apenas **15k coins**
+- **Giovane (89, CAM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
