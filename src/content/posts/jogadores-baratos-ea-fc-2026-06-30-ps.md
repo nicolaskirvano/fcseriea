@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:30:05.000Z
+pubDatetime: 2026-07-01T01:30:05.000Z
 title: "Jogadores baratos de Serie A no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,16 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.2% |
 | Giovane | 89 | CAM | Serie A TIM | 15k coins | -14.3% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -18% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 12k coins | -12.5% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -16.7% |
 | Diego Milito | 88 | ST | Serie A TIM | 14k coins | +23.4% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | +2.1% |
 | Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +2.1% |
 | Marek Hamšík | 87 | CAM | Serie A TIM | 14k coins | -3.6% |
+| Mattia Zaccagni | 87 | LM | Serie A TIM | 14k coins | -12.7% |
 | Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +23.9% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.2% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 | Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +8% |
-| Matías Soulé | 86 | CAM | Serie A TIM | 15k coins | -27.2% |
-| Cher Ndour | 86 | CM | Serie A TIM | 15k coins | -34.8% |
+| Matías Soulé | 86 | CAM | Serie A TIM | 15k coins | -26.2% |
+| Cher Ndour | 86 | CM | Serie A TIM | 15k coins | -34.1% |
+| Seydou Doumbia | 85 | ST | Serie A TIM | 12k coins | -40% |
 
 
 ## 📈 Destaques
@@ -49,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Giovane (89, CAM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
 
 ## Por que estas cartas?
