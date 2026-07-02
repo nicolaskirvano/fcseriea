@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-02T16:30:09.000Z
+pubDatetime: 2026-07-02T19:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (02/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,23 +30,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -59.8% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 11k coins | -58.1% |
+| Diego Milito | 88 | ST | Serie A TIM | 15k coins | +32.6% |
 | Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | -17% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | +2.3% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | 0% |
 | Rui Costa | 87 | CAM | Serie A TIM | 12k coins | +11.4% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +2.3% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -42.2% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
 - **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **11k coins**
 
