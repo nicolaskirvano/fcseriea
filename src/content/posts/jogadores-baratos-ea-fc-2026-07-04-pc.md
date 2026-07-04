@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T16:30:09.000Z
+pubDatetime: 2026-07-04T19:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,28 +30,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Giovane | 89 | CAM | Serie A TIM | 12k coins | -26.7% |
-| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +21.3% |
+| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +17% |
 | Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | +4.5% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | +11.4% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 11k coins | -21.4% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | +4.3% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +11.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +11.4% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | +18.2% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.3% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Giovane (89, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
-- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins**
+- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **12k coins**
+
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
