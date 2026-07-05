@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T22:30:10.000Z
+pubDatetime: 2026-07-05T01:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,26 +30,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | -4.6% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -5.5% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 13k coins | +20.5% |
-| Rui Costa | 87 | CAM | Serie A TIM | 15k coins | +30.4% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11k coins | -24.6% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 12k coins | 0% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +11.4% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -18% |
+| Rui Costa | 87 | CAM | Serie A TIM | 15k coins | +19.6% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11k coins | -33.8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | -2.3% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **14k coins**
+- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **11k coins**
+- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **13k coins**
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
