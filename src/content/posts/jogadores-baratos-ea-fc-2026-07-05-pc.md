@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T13:30:09.000Z
+pubDatetime: 2026-07-05T16:30:09.000Z
 title: "Jogadores baratos de Serie A no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,12 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -4.3% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -5.7% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -6.2% |
+| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 11k coins | -13.5% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | 0% |
 | Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | 0% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -36.5% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +26.1% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +16% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -35.1% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | +17.4% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
@@ -42,13 +42,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+- **Hidetoshi Nakata (89, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
 - **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
