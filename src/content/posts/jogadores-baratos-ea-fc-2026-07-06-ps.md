@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T22:30:05.000Z
+pubDatetime: 2026-07-07T01:30:05.000Z
 title: "Jogadores baratos de Serie A no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +6.7% |
-| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 14k coins | -3.3% |
-| Giovane | 89 | CAM | Serie A TIM | 15k coins | +6.7% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -10.3% |
-| Hidetoshi Nakata | 88 | CAM | Serie A TIM | 12k coins | -18.5% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +8% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | +10.2% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -27.9% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +4.4% |
+| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 13k coins | -15% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -19% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13k coins | +6% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 11k coins | -5.6% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +6.2% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | +4.2% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 14k coins | +3.7% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 14k coins | +14.6% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +1.8% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | +15.4% |
+| Mattia Zaccagni | 87 | LM | Serie A TIM | 14k coins | -1.8% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +11.5% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | 0% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | -14.7% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 15k coins | -22.5% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +9.1% |
-| Cher Ndour | 86 | CM | Serie A TIM | 13k coins | -11.7% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | 0% |
+| Cher Ndour | 86 | CM | Serie A TIM | 14k coins | -6.7% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Hidetoshi Nakata (89, CAM)** da Serie A TIM, a apenas **14k coins**
-
-- **Giovane (89, CAM)** da Serie A TIM, a apenas **15k coins**
+- **Hidetoshi Nakata (89, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Hidetoshi Nakata (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13k coins**
+
+- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?
