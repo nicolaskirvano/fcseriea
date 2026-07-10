@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T16:30:10.000Z
+pubDatetime: 2026-07-10T19:30:10.000Z
 title: "Jogadores baratos de Serie A no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,12 +31,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +8.9% |
 | Diego Milito | 88 | ST | Serie A TIM | 11k coins | -17% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 15k coins | 0% |
 | Tomas Brolin | 87 | ST | Serie A TIM | 11k coins | -2.2% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 12k coins | +18.2% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | +30.4% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | -3.3% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | -14.1% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 13k coins | +15.9% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 13k coins | +15.9% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -8.3% |
 
 
 ## 📈 Destaques
@@ -45,11 +44,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **15k coins**
+
 - **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
