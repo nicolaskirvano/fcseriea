@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:30:11.000Z
+pubDatetime: 2026-07-11T13:30:10.000Z
 title: "Jogadores baratos de Serie A no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Andrea Barzagli (87, Serie A TIM) aparece como melhor custo-benefício, a 11k coins no PC."
+    a: "Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Andrea Barzagli (87) por apenas 11k coins.
+> 💰 **Melhor pechincha:** Gianluca Vialli (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,22 +29,22 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 11k coins | -15.4% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 14k coins | +22.2% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 13k coins | +13.3% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 13k coins | +31.8% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 13k coins | +10.4% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +7.4% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
 - **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **13k coins**
 
-- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
 - **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **11k coins**
 
@@ -63,7 +63,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Andrea Barzagli (87, Serie A TIM) aparece como melhor custo-benefício, a 11k coins no PC.
+Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
