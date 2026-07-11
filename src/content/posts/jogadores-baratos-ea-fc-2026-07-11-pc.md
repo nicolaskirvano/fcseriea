@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T13:30:10.000Z
+pubDatetime: 2026-07-11T16:30:10.000Z
 title: "Jogadores baratos de Serie A no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,8 +31,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 14k coins | +22.2% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | 0% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 13k coins | +10.4% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +7.4% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 13k coins | +40.9% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +3.7% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | 0% |
 
 
@@ -42,7 +42,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins**
 
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **13k coins**
+- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
