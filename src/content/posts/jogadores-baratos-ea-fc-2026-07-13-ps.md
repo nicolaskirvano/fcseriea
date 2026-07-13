@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T10:30:05.000Z
+pubDatetime: 2026-07-13T13:30:06.000Z
 title: "Jogadores baratos de Serie A no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | 0% |
-| Giovane | 89 | CAM | Serie A TIM | 13k coins | -13.6% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -2.1% |
 | Diego Milito | 88 | ST | Serie A TIM | 12k coins | 0% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -9.6% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | -4% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 13k coins | 0% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 13k coins | -9.3% |
-| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -7.9% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 15k coins | +21.6% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11k coins | -11.3% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -7.3% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | -6% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -11.1% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | 0% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -8.2% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | +13.2% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +5.6% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | +24% |
+| Marek Hamšík | 87 | CAM | Serie A TIM | 15k coins | +17.6% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -11.3% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +6.8% |
-| Seydou Doumbia | 85 | ST | Serie A TIM | 14k coins | -26.6% |
-| Juan David Cabal | 85 | CB | Serie A TIM | 15k coins | -30.6% |
+| Seydou Doumbia | 85 | ST | Serie A TIM | 14k coins | -27.5% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Giovane (89, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins**
 
 - **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **12k coins**
+
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
