@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcseriea.pages.dev/",
     title: "Serie A Coins",
     description:
-      "Precos, mercado e investimentos da Serie A no EA FC Ultimate Team, atualizados todos os dias.",
+      "preços, mercado e investimentos da Serie A no EA FC Ultimate Team, atualizados todos os dias.",
     author: "Serie A Coins",
-    profile: "https://fcseriea.pages.dev/",
+    profile: "https://fcseriea.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Serie A Coins",
