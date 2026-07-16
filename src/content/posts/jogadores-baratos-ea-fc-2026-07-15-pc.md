@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T16:30:09.000Z
+pubDatetime: 2026-07-16T01:30:10.000Z
 title: "Jogadores baratos de Serie A no EA FC (15/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -2.1% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +9.1% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +11.6% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | -28.4% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +10.9% |
+| Diego Milito | 88 | ST | Serie A TIM | 13k coins | +31.8% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14k coins | +12.5% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11k coins | +9.3% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **12k coins**
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Oliver Bierhoff (86, ST)** da Serie A TIM, a apenas **11k coins**
 
 
 ## Por que estas cartas?

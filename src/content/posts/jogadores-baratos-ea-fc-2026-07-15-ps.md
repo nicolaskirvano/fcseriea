@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T22:30:05.000Z
+pubDatetime: 2026-07-16T01:30:05.000Z
 title: "Jogadores baratos de Serie A no EA FC (15/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,28 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -3.8% |
-| Diego Milito | 88 | ST | Serie A TIM | 11k coins | -2% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | -7.8% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12k coins | 0% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 12k coins | -6.9% |
-| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | -3.7% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | +1.7% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -2% |
+| Giovane | 89 | CAM | Serie A TIM | 15k coins | +6.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -6% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11k coins | -13.7% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | -3.9% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13k coins | -5.6% |
+| Iván Córdoba | 87 | CB | Serie A TIM | 15k coins | -13% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | +12.1% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | +1.8% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 13k coins | +13% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | -1.8% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **11k coins**
+- **Giovane (89, CAM)** da Serie A TIM, a apenas **15k coins**
+
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+
+- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **12k coins**
-
-- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **12k coins**
-
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
 
 ## Por que estas cartas?
