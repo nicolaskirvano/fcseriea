@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T19:30:05.000Z
+pubDatetime: 2026-07-16T22:30:15.000Z
 title: "Jogadores baratos de Serie A no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,26 +30,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +4.4% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -9.4% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -7.7% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 12k coins | -8.8% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | +2.1% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | +3.3% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 14k coins | +17.4% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +6.7% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +5.7% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12k coins | -2% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12k coins | -3.8% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 13k coins | +17.4% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -8.3% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -3.4% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12k coins | +8.9% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **14k coins**
+
+- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **12k coins**
 
 - **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Marek Hamšík (87, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Tomas Brolin (87, ST)** da Serie A TIM, a apenas **12k coins**
+- **Hidetoshi Nakata (87, CAM)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
