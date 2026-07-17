@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:30:18.000Z
+pubDatetime: 2026-07-17T13:30:19.000Z
 title: "Investimentos EA FC: Serie A em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Yoan Bonny (86, Serie A TIM) lidera, com +76.7% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Marek Hamšík (88, Serie A TIM) lidera, com +87.6% em 7 dias a 98k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Yoan Bonny (86) acumula **+76.7% em 7 dias** a 80k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Marek Hamšík (88) acumula **+87.6% em 7 dias** a 98k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.0% em 24h** e **+25.7% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.6% em 24h** e **+30.1% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,32 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Yoan Bonny | 86 | Serie A TIM | 80k coins | +19.5% | +76.7% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 80k coins | +18.6% | +69.7% | Esticada |
+| Marek Hamšík | 88 | Serie A TIM | 98k coins | +32.2% | +87.6% | Esticada |
+| Yoan Bonny | 86 | Serie A TIM | 80k coins | +17.8% | +76.7% | Esticada |
 | Christian Pulisic | 86 | Serie A TIM | 54k coins | +37.1% | +56.8% | Esticada |
-| Víctor Ibarbo | 85 | Serie A TIM | 57k coins | +33.3% | +37.1% | Esticada |
+| Éderson | 87 | Serie A TIM | 54k coins | +9% | +45.3% | Momentum moderado |
 | Maicon | 90 | Serie A TIM | 140k coins | +7.7% | +34.6% | Momentum moderado |
-| Rui Costa | 88 | Serie A TIM | 42k coins | +23.7% | +29.5% | Esticada |
-| Weston McKennie | 92 | Serie A TIM | 52k coins | +10% | +27.2% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 45k coins | +11.7% | +25.7% | Momentum moderado |
-| Pervis Estupiñán | 87 | Serie A TIM | 48k coins | +30.1% | +22.6% | Esticada |
-| Francisco Conceição | 89 | Serie A TIM | 85k coins | +6.9% | +21.4% | Momentum moderado |
-| Lúcio | 89 | Serie A TIM | 96k coins | +26.5% | +20.2% | Esticada |
-| Romelu Lukaku | 86 | Serie A TIM | 55k coins | +29.4% | +17.6% | Esticada |
-| Nicolae Stanciu | 86 | Serie A TIM | 120k coins | +20% | +14.3% | Esticada |
+| Seydou Doumbia | 85 | Serie A TIM | 25k coins | +16.3% | +31.6% | Momentum moderado |
+| Francisco Conceição | 89 | Serie A TIM | 85k coins | +3.7% | +30.8% | Momentum moderado |
+| Rui Costa | 88 | Serie A TIM | 30k coins | +18.5% | +30.1% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 45k coins | +11.1% | +25% | Momentum moderado |
+| Pervis Estupiñán | 87 | Serie A TIM | 48k coins | +8.6% | +21.8% | Momentum moderado |
+| Víctor Ibarbo | 85 | Serie A TIM | 50k coins | +15.6% | +18.9% | Momentum moderado |
+| Romelu Lukaku | 86 | Serie A TIM | 55k coins | +28.7% | +17.6% | Esticada |
+| Rui Costa | 87 | Serie A TIM | 17.500 coins | +7.1% | +17.2% | Momentum moderado |
+| Nicolae Stanciu | 86 | Serie A TIM | 119k coins | +29.7% | +14.3% | Esticada |
 | Nico Paz | 90 | Serie A TIM | 95k coins | +13.1% | +12.4% | Momentum moderado |
-| Khéphren Thuram | 87 | Serie A TIM | 72k coins | +20.8% | +12.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Yoan Bonny (86)** — 80k coins, **+76.7% em 7 dias** (+19.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marek Hamšík (88)** — 98k coins, **+87.6% em 7 dias** (+32.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pierre Kalulu (91)** — 80k coins, **+69.7% em 7 dias** (+18.6% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yoan Bonny (86)** — 80k coins, **+76.7% em 7 dias** (+17.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Pulisic (86)** — 54k coins, **+56.8% em 7 dias** (+37.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Pulisic (86)** — 54k coins, **+56.8% em 7 dias** (+37.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Víctor Ibarbo (85)** — 57k coins, **+37.1% em 7 dias** (+33.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Éderson (87)** — 54k coins, **+45.3% em 7 dias** (+9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Maicon (90)** — 140k coins, **+34.6% em 7 dias** (+7.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Yoan Bonny (86, Serie A TIM) lidera, com +76.7% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Marek Hamšík (88, Serie A TIM) lidera, com +87.6% em 7 dias a 98k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
