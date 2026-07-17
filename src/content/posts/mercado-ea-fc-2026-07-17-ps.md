@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:30:08.000Z
+pubDatetime: 2026-07-17T17:23:11.000Z
 title: "Mercado EA FC em 17/07: Serie A — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Armand Laurienté (86, Serie A TIM), com +43.4% em 24h, a 20k coins no Console (PS)."
+    a: "Pierre Kalulu (91, Serie A TIM), com +57.3% em 24h, a 88k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Nuno Tavares (91), -34.7% em 24h, a 43k coins."
+    a: "Nicolae Stanciu (86), -41.4% em 24h, a 38k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 59 cartas em alta contra 53 em queda (média 4.53%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 60 cartas em alta contra 56 em queda (média 2.52%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **59 subiram** e **53 caíram**, com variação média de **4.53%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **60 subiram** e **56 caíram**, com variação média de **2.52%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Armand Laurienté (86) **+43.4%** · 🔴 **Maior baixa:** Nuno Tavares (91) **-34.7%**
+> 🟢 **Maior alta:** Pierre Kalulu (91) **+57.3%** · 🔴 **Maior baixa:** Nicolae Stanciu (86) **-41.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Serie A — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,69 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 78.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.7% entre as cartas que se moveram; o universo observado reúne 135 cartas.
+- **Amplitude do dia:** 98.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.7% entre as cartas que se moveram; o universo observado reúne 147 cartas.
 - **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Armand Laurienté | 86 | Serie A TIM | 20k coins | +43.4% | +19% |
-| Rafael Leão | 87 | Serie A TIM | 424k coins | +27.6% | +52.7% |
-| Piotr Zieliński | 85 | Serie A TIM | 38k coins | +26.1% | +25% |
-| Francisco Conceição | 89 | Serie A TIM | 65k coins | +25.9% | +39.5% |
-| Denzel Dumfries | 89 | Serie A TIM | 66k coins | +25.5% | +97.1% |
-| Luka Modrić | 89 | Serie A TIM | 179k coins | +25.4% | +66.4% |
-| Jamie Vardy | 89 | Serie A TIM | 500k coins | +25% | +25.3% |
-| Maicon | 90 | Serie A TIM | 140k coins | +25% | +47.4% |
+| Pierre Kalulu | 91 | Serie A TIM | 88k coins | +57.3% | +75.2% |
+| Gianluca Mancini | 85 | Serie A TIM | 34k coins | +56.7% | +110.4% |
+| Junior Messias | 87 | Serie A TIM | 38k coins | +42.9% | +130.8% |
+| Giovane | 89 | Serie A TIM | 28k coins | +42.5% | +90% |
+| Víctor Ibarbo | 85 | Serie A TIM | 29k coins | +30.2% | +48.8% |
+| Piotr Zieliński | 85 | Serie A TIM | 36k coins | +26.1% | +25% |
+| Antonio Di Natale | 92 | Serie A TIM | 695k coins | +25.5% | +12.6% |
+| Matías Soulé | 86 | Serie A TIM | 21k coins | +25.3% | +6.8% |
+| Jamie Vardy | 89 | Serie A TIM | 498k coins | +25% | +25.3% |
 | David Neres | 86 | Serie A TIM | 75k coins | +25% | +8.7% |
-| Kenan Yıldız | 87 | Serie A TIM | 60k coins | +24.7% | +17.5% |
 
 
 ### Análise das altas
 
-- **Armand Laurienté (86)** subiu **+43.4%** em 24h, a **20k coins** (faixa do dia: 19.250–30k). Está -16% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Rafael Leão (87)** subiu **+27.6%** em 24h, a **424k coins** (faixa do dia: 314k–476k). Está +25% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+<!-- projection-note:v1 -->
+> **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Piotr Zieliński (85)** subiu **+26.1%** em 24h, a **38k coins** (faixa do dia: 30k–38k). Está +10% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Pierre Kalulu (91)** subiu **+57.3%** em 24h, a **88k coins** (faixa do dia: 64k–102k). Está +44% acima da média de 7 dias (aquecida).
+
+- **Gianluca Mancini (85)** subiu **+56.7%** em 24h, a **34k coins** (faixa do dia: 18.250–35k). Está +57% acima da média de 7 dias (aquecida).
+
+- **Junior Messias (87)** subiu **+42.9%** em 24h, a **38k coins** (faixa do dia: 32k–42k). Está +85% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nuno Tavares | 91 | Serie A TIM | 43k coins | -34.7% | +27.9% |
-| Marco Carnesecchi | 87 | Serie A TIM | 39k coins | -31.9% | +1.8% |
-| Yoan Bonny | 86 | Serie A TIM | 50k coins | -27.9% | +19.5% |
-| Lautaro Martínez | 89 | Serie A TIM | 62k coins | -27.7% | -8.8% |
-| Weston McKennie | 84 | Serie A TIM | 34k coins | -25.9% | -28.2% |
-| Juan Cuadrado | 86 | Serie A TIM | 34k coins | -24% | -26.1% |
-| Daniele De Rossi | 89 | Serie A TIM | 178k coins | -23.9% | +50.8% |
+| Nicolae Stanciu | 86 | Serie A TIM | 38k coins | -41.4% | -34.2% |
+| Nuno Tavares | 91 | Serie A TIM | 60k coins | -37.2% | +22.9% |
+| Weston McKennie | 84 | Serie A TIM | 31k coins | -28% | -30.3% |
+| Lautaro Martínez | 89 | Serie A TIM | 60k coins | -27.7% | -8.8% |
+| Francisco Conceição | 85 | Serie A TIM | 21k coins | -25.2% | +2.4% |
+| Daniele De Rossi | 89 | Serie A TIM | 177k coins | -25.2% | +48.3% |
 | Maicon | 89 | Serie A TIM | 217k coins | -23.6% | +4.8% |
-| Wesley Sneijder | 89 | Serie A TIM | 56k coins | -23.6% | +16.9% |
-| Francisco Conceição | 85 | Serie A TIM | 22k coins | -23.5% | +3.5% |
+| Juan Cuadrado | 86 | Serie A TIM | 34k coins | -22.9% | -25% |
+| Wesley Sneijder | 89 | Serie A TIM | 52k coins | -20.9% | +20.2% |
+| Luca Mazzitelli | 84 | Serie A TIM | 31k coins | -20.6% | -6.6% |
 
 
 ### Análise das baixas
 
-- **Nuno Tavares (91)** caiu **-34.7%** em 24h, a **43k coins** (faixa do dia: 43k–70k). Está em linha com a média de 7 dias (-5%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Nicolae Stanciu (86)** caiu **-41.4%** em 24h, a **38k coins** (faixa do dia: 38k–64k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Marco Carnesecchi (87)** caiu **-31.9%** em 24h, a **39k coins** (faixa do dia: 38k–62k). Está -9% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Nuno Tavares (91)** caiu **-37.2%** em 24h, a **60k coins** (faixa do dia: 43k–70k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Yoan Bonny (86)** caiu **-27.9%** em 24h, a **50k coins** (faixa do dia: 50k–105k). Está em linha com a média de 7 dias (+4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Weston McKennie (84)** caiu **-28%** em 24h, a **31k coins** (faixa do dia: 31k–45k). Está -26% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Armand Laurienté já avançou 43.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Pierre Kalulu já avançou 57.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nuno Tavares recuou -34.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nicolae Stanciu recuou -41.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,20 +108,20 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Armand Laurienté (86, Serie A TIM), com +43.4% em 24h, a 20k coins no Console (PS).
+**Qual foi a maior alta do EA FC hoje (17/07/2026)?**
+Pierre Kalulu (91, Serie A TIM), com +57.3% em 24h, a 88k coins no Console (PS).
 
-**E a maior queda do dia?**  
-Nuno Tavares (91), -34.7% em 24h, a 43k coins.
+**E a maior queda do dia?**
+Nicolae Stanciu (86), -41.4% em 24h, a 38k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 59 cartas em alta contra 53 em queda (média 4.53%).
+**O mercado do EA FC está em alta ou baixa hoje?**
+Hoje o mercado está aquecido — as altas dominam o dia, com 60 cartas em alta contra 56 em queda (média 2.52%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
+> **Link patrocinado:** 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

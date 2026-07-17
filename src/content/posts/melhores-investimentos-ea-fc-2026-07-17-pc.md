@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:30:18.000Z
+pubDatetime: 2026-07-17T17:23:21.000Z
 title: "Investimentos EA FC: Serie A em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Marek Hamšík (88, Serie A TIM) lidera, com +87.6% em 7 dias a 89k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Alessandro Bastoni (91, Serie A TIM) lidera, com +77.2% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marek Hamšík (88) acumula **+87.6% em 7 dias** a 89k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Alessandro Bastoni (91) acumula **+77.2% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.5% em 24h** e **+48.7% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+17.6% em 24h** e **+46.7% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marek Hamšík | 88 | Serie A TIM | 89k coins | +30.5% | +87.6% | Esticada |
-| Yoan Bonny | 86 | Serie A TIM | 80k coins | +19.5% | +76.7% | Esticada |
-| Alessandro Bastoni | 91 | Serie A TIM | 70k coins | +16.7% | +70.7% | Esticada |
-| Iván Córdoba | 88 | Serie A TIM | 96k coins | +21.7% | +69% | Esticada |
-| Esteban Cambiasso | 86 | Serie A TIM | 22k coins | +37.3% | +67.3% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 70k coins | +17.6% | +77.2% | Esticada |
+| Yoan Bonny | 86 | Serie A TIM | 80k coins | +17.8% | +76.7% | Esticada |
+| Marek Hamšík | 88 | Serie A TIM | 89k coins | +17.9% | +69.5% | Esticada |
 | Christian Pulisic | 86 | Serie A TIM | 54k coins | +37.1% | +56.8% | Esticada |
-| Denzel Dumfries | 89 | Serie A TIM | 52k coins | +19.5% | +52.9% | Momentum moderado |
-| Cher Ndour | 86 | Serie A TIM | 30k coins | +9.4% | +48.7% | Momentum moderado |
-| Éderson | 87 | Serie A TIM | 55k coins | +11.8% | +45.3% | Momentum moderado |
-| Pierre Kalulu | 91 | Serie A TIM | 63k coins | +26% | +41.6% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 52k coins | +30% | +52.9% | Esticada |
+| Cher Ndour | 86 | Serie A TIM | 27k coins | +12.4% | +51.3% | Momentum moderado |
+| Juan David Cabal | 85 | Serie A TIM | 21k coins | +39.1% | +50.8% | Esticada |
+| Éderson | 87 | Serie A TIM | 55k coins | +12.8% | +46.7% | Momentum moderado |
+| Pierre Kalulu | 91 | Serie A TIM | 63k coins | +28.6% | +41.6% | Esticada |
 | Rui Costa | 88 | Serie A TIM | 42k coins | +5.7% | +36.6% | Momentum moderado |
-| Paulo Dybala | 88 | Serie A TIM | 177k coins | +5.6% | +35% | Momentum moderado |
-| Manuel Akanji | 86 | Serie A TIM | 50k coins | +20.9% | +31.6% | Esticada |
-| Luca Mazzitelli | 84 | Serie A TIM | 45k coins | +11.1% | +25% | Momentum moderado |
-| Pervis Estupiñán | 87 | Serie A TIM | 48k coins | +25.8% | +21.8% | Esticada |
+| Ché Adams | 89 | Serie A TIM | 69k coins | +13.8% | +34.5% | Momentum moderado |
+| Francisco Conceição | 89 | Serie A TIM | 95k coins | +2.5% | +26.2% | Momentum moderado |
+| Marek Hamšík | 89 | Serie A TIM | 40k coins | +33.3% | +26% | Esticada |
+| Manuel Akanji | 86 | Serie A TIM | 48k coins | +15.7% | +25.9% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 44k coins | +10.5% | +24.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Marek Hamšík (88)** — 89k coins, **+87.6% em 7 dias** (+30.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 70k coins, **+77.2% em 7 dias** (+17.6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yoan Bonny (86)** — 80k coins, **+76.7% em 7 dias** (+19.5% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yoan Bonny (86)** — 80k coins, **+76.7% em 7 dias** (+17.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alessandro Bastoni (91)** — 70k coins, **+70.7% em 7 dias** (+16.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marek Hamšík (88)** — 89k coins, **+69.5% em 7 dias** (+17.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iván Córdoba (88)** — 96k coins, **+69% em 7 dias** (+21.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Pulisic (86)** — 54k coins, **+56.8% em 7 dias** (+37.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Esteban Cambiasso (86)** — 22k coins, **+67.3% em 7 dias** (+37.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 52k coins, **+52.9% em 7 dias** (+30% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Marek Hamšík (88, Serie A TIM) lidera, com +87.6% em 7 dias a 89k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Alessandro Bastoni (91, Serie A TIM) lidera, com +77.2% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +97,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
+> **Link patrocinado:** 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
