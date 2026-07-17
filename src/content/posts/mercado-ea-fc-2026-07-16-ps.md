@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:30:12.000Z
-title: "Serie A no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — Console (PS)"
+pubDatetime: 2026-07-17T00:00:44.000Z
+title: "Mercado EA FC em 16/07: Serie A — Console (PS)"
 draft: false
 featured: true
 tags:
@@ -10,93 +10,92 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Rui Costa (88, Serie A TIM), com +41.7% em 24h, a 30k coins no Console (PS)."
+    a: "Juan David Cabal (85, Serie A TIM), com +35.2% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Arthur Atta (85), -38.5% em 24h, a 31k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Francisco Conceição (84) — 54% de probabilidade de alta, a 35k coins."
+    a: "Marcus Pedersen (89), -27.5% em 24h, a 35k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 57 cartas em alta contra 64 em queda (média 3.26%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 61 em queda (média 1.79%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **57 subiram**, **64 caíram** (80+ e 5k+ coins), média de **3.26%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **51 subiram**, **61 caíram** (80+ e 5k+ coins), média de **1.79%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rui Costa (88) **+41.7%** · 🔴 **Maior baixa:** Arthur Atta (85) **-38.5%**
+> 🟢 **Maior alta:** Juan David Cabal (85) **+35.2%** · 🔴 **Maior baixa:** Marcus Pedersen (89) **-27.5%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Serie A — Console (PS)](/charts/mercado-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 62.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.5% entre as cartas que se moveram; o universo observado reúne 133 cartas.
+- **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rui Costa | 88 | Serie A TIM | 30k coins | +41.7% | +19% |
-| Juan David Cabal | 85 | Serie A TIM | 24k coins | +37.1% | +37.1% |
-| Iván Córdoba | 87 | Serie A TIM | 22k coins | +36.7% | +51.9% |
-| Daniele De Rossi | 87 | Serie A TIM | 35k coins | +32.1% | +112.1% |
-| Antonio Di Natale | 92 | Serie A TIM | 770k coins | +31.1% | +23.4% |
-| Zion Suzuki | 84 | Serie A TIM | 46k coins | +28.7% | -48.9% |
-| Stephan El Shaarawy | 88 | Serie A TIM | 690k coins | +28% | +67.5% |
+| Juan David Cabal | 85 | Serie A TIM | 24k coins | +35.2% | +37.1% |
+| Daniele De Rossi | 87 | Serie A TIM | 30k coins | +33.3% | +112.1% |
+| Martin Baturina | 89 | Serie A TIM | 32k coins | +31.2% | +31.2% |
+| Riccardo Orsolini | 85 | Serie A TIM | 25k coins | +31.2% | +7.4% |
+| Zion Suzuki | 84 | Serie A TIM | 46k coins | +30.5% | -48.9% |
+| Rui Costa | 88 | Serie A TIM | 30k coins | +29.3% | +15.5% |
+| Stephan El Shaarawy | 88 | Serie A TIM | 690k coins | +28% | +54% |
+| Antonio Di Natale | 92 | Serie A TIM | 800k coins | +26.6% | +19.8% |
+| Denzel Dumfries | 89 | Serie A TIM | 60k coins | +25% | +62.2% |
 | Tarik Muharemović | 86 | Serie A TIM | 60k coins | +25% | 0% |
-| Charles De Ketelaere | 88 | Serie A TIM | 94k coins | +24.3% | +1.6% |
-| Claudio Marchisio | 88 | Serie A TIM | 303k coins | +23.9% | +117.6% |
 
 
 ### Análise das altas
 
-- **Rui Costa (88)** subiu **+41.7%** em 24h, a **30k coins** (faixa do dia: 19k–30k). Está em linha com a média de 7 dias (+7%). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Juan David Cabal (85)** subiu **+35.2%** em 24h, a **24k coins** (faixa do dia: 14k–24k). Está +36% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Juan David Cabal (85)** subiu **+37.1%** em 24h, a **24k coins** (faixa do dia: 14k–24k). Está +37% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Daniele De Rossi (87)** subiu **+33.3%** em 24h, a **30k coins** (faixa do dia: 25k–35k). Está em linha com a média de 7 dias (+7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Iván Córdoba (87)** subiu **+36.7%** em 24h, a **22k coins** (faixa do dia: 12k–21k). Está +41% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Martin Baturina (89)** subiu **+31.2%** em 24h, a **32k coins** (faixa do dia: 16k–32k). Está em linha com a média de 7 dias (+4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arthur Atta | 85 | Serie A TIM | 31k coins | -38.5% | -35.9% |
-| Morata | 87 | Serie A TIM | 38k coins | -29.9% | -12.7% |
-| Billy Gilmour | 87 | Serie A TIM | 20k coins | -28.6% | -54.8% |
-| Lautaro Martínez | 89 | Serie A TIM | 75k coins | -28.2% | -1.2% |
-| Marcus Pedersen | 89 | Serie A TIM | 35k coins | -26.3% | -22.2% |
-| Gervinho | 87 | Serie A TIM | 94k coins | -24.2% | +39.3% |
-| Luka Modrić | 89 | Serie A TIM | 153k coins | -22.3% | +60% |
-| Dušan Vlahović | 86 | Serie A TIM | 33k coins | -20.8% | -30% |
-| Rafael Leão | 93 | Serie A TIM | 976k coins | -20.6% | -16.6% |
-| Davide Zappacosta | 88 | Serie A TIM | 26k coins | -20% | -7.7% |
+| Marcus Pedersen | 89 | Serie A TIM | 35k coins | -27.5% | -22.2% |
+| Luka Modrić | 89 | Serie A TIM | 142k coins | -24.6% | +47% |
+| Gervinho | 87 | Serie A TIM | 90k coins | -24.6% | +38.5% |
+| Santiago Castro | 87 | Serie A TIM | 20k coins | -22.7% | +23.6% |
+| Davide Zappacosta | 88 | Serie A TIM | 27k coins | -21.8% | -11.1% |
+| Dušan Vlahović | 86 | Serie A TIM | 40k coins | -21.4% | -30.5% |
+| Lautaro Martínez | 90 | Serie A TIM | 80k coins | -20% | -16.7% |
+| Gianluca Mancini | 85 | Serie A TIM | 23k coins | -19.8% | +10.6% |
+| Marek Hamšík | 88 | Serie A TIM | 34k coins | -19% | -8.6% |
+| Scott McTominay | 87 | Serie A TIM | 153k coins | -18% | +38.4% |
 
 
 ### Análise das baixas
 
-- **Arthur Atta (85)** caiu **-38.5%** em 24h, a **31k coins** (faixa do dia: 23k–52k). Está -11% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Marcus Pedersen (89)** caiu **-27.5%** em 24h, a **35k coins** (faixa do dia: 33k–69k). Está -21% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Morata (87)** caiu **-29.9%** em 24h, a **38k coins** (faixa do dia: 30k–55k). Está -9% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Luka Modrić (89)** caiu **-24.6%** em 24h, a **142k coins** (faixa do dia: 140k–206k). Está em linha com a média de 7 dias (-3%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Billy Gilmour (87)** caiu **-28.6%** em 24h, a **20k coins** (faixa do dia: 22k–40k). Está -50% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Francisco Conceição | 84 | 35k coins | 37k coins | 54% |
-| Dušan Vlahović | 86 | 33k coins | 34k coins | 54% |
+- **Gervinho (87)** caiu **-24.6%** em 24h, a **90k coins** (faixa do dia: 66k–155k). Está +12% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
-## ⚠️ Cartas em risco nas próximas 24h
+## Decisão prática para hoje
 
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
+- **Evite perseguir topo:** Juan David Cabal já avançou 35.2% em 24h; espere nova cotação antes de entrar.
 
-| Jogador | OVR | Preço atual | Variação prevista |
-| --- | --- | --- | --- |
-| Nicolae Stanciu | 86 | 61k coins | -2% |
+- **Queda não é compra automática:** Marcus Pedersen recuou -27.5%; confirme estabilização e liquidez.
+
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
 ## ⚙️ A engine por tras deste post
@@ -106,16 +105,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Rui Costa (88, Serie A TIM), com +41.7% em 24h, a 30k coins no Console (PS).
+Juan David Cabal (85, Serie A TIM), com +35.2% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Arthur Atta (85), -38.5% em 24h, a 31k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Francisco Conceição (84) — 54% de probabilidade de alta, a 35k coins.
+Marcus Pedersen (89), -27.5% em 24h, a 35k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 57 cartas em alta contra 64 em queda (média 3.26%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 61 em queda (média 1.79%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -126,3 +122,11 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Serie A em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Investimentos EA FC: Serie A em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

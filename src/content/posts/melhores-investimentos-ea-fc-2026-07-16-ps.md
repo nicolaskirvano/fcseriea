@@ -1,72 +1,84 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:30:14.000Z
-title: "Melhores investimentos em Serie A no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-17T00:00:45.000Z
+title: "Investimentos EA FC: Serie A em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Alessandro Bastoni (91, Serie A TIM) lidera, com +55.8% em 7 dias a 60k coins no Console (PS), e o modelo dá 21% de chance de seguir subindo."
+    a: "Denzel Dumfries (89, Serie A TIM) lidera, com +62.2% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alessandro Bastoni (91) acumula **+55.8% em 7 dias** a 60k coins.
+> 🔝 **Destaque:** Denzel Dumfries (89) acumula **+62.2% em 7 dias** a 60k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+12.3% em 24h** e **+36.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alessandro Bastoni | 91 | Serie A TIM | 60k coins | +5.3% | +55.8% | 21% |
-| Iván Córdoba | 87 | Serie A TIM | 22k coins | +36.7% | +51.9% | 34% |
-| Rasmus Højlund | 87 | Serie A TIM | 40k coins | +2.6% | +40.4% | 52% |
-| Francisco Conceição | 85 | Serie A TIM | 26k coins | +11% | +38.8% | 0% |
-| Juan David Cabal | 85 | Serie A TIM | 24k coins | +37.1% | +37.1% | 37% |
-| Nico Paz | 90 | Serie A TIM | 68k coins | +11.6% | +33.3% | 19% |
-| Maicon | 90 | Serie A TIM | 133k coins | +9.6% | +31.9% | 20% |
-| Marek Hamšík | 89 | Serie A TIM | 46k coins | +13.7% | +31.8% | 24% |
-| Hakan Çalhanoğlu | 88 | Serie A TIM | 45k coins | +11.7% | +29.7% | 14% |
-| Luka Modrić | 90 | Serie A TIM | 128k coins | +3% | +26.6% | 27% |
-| Adrien Rabiot | 86 | Serie A TIM | 42k coins | +10.4% | +24.1% | 35% |
-| Kristian Thorstvedt | 86 | Serie A TIM | 40k coins | +1.8% | +23.6% | 13% |
-| Cher Ndour | 86 | Serie A TIM | 16k coins | +4.6% | +21.4% | 9% |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 42k coins | +15.9% | +20.9% | 13% |
-| Nicolae Stanciu | 86 | Serie A TIM | 61k coins | +11.5% | +20% | 21% |
+| Denzel Dumfries | 89 | Serie A TIM | 60k coins | +25% | +62.2% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 60k coins | +1.7% | +53.8% | Momentum moderado |
+| Matías Soulé | 86 | Serie A TIM | 30k coins | +8.6% | +49.2% | Momentum moderado |
+| Rasmus Højlund | 87 | Serie A TIM | 40k coins | +2.6% | +40.4% | Momentum moderado |
+| Marek Hamšík | 89 | Serie A TIM | 46k coins | +20.3% | +38.3% | Esticada |
+| Juan David Cabal | 85 | Serie A TIM | 24k coins | +35.2% | +37.1% | Esticada |
+| Maicon | 90 | Serie A TIM | 129k coins | +10.3% | +36.5% | Momentum moderado |
+| Francisco Conceição | 85 | Serie A TIM | 20k coins | +9% | +36.2% | Momentum moderado |
+| Marek Hamšík | 87 | Serie A TIM | 20k coins | +25% | +31.6% | Esticada |
+| Martin Baturina | 89 | Serie A TIM | 32k coins | +31.2% | +31.2% | Esticada |
+| Yoan Bonny | 86 | Serie A TIM | 74k coins | +18.5% | +27.8% | Momentum moderado |
+| Jesús Rodríguez | 84 | Serie A TIM | 42k coins | +6.9% | +19.7% | Momentum moderado |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 40k coins | +12.3% | +18% | Momentum moderado |
+| Mariano Troilo | 86 | Serie A TIM | 40k coins | +6% | +15.9% | Momentum moderado |
+| Rui Costa | 88 | Serie A TIM | 30k coins | +29.3% | +15.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Alessandro Bastoni (91)** — 60k coins, **+55.8% em 7 dias** (+5.3% em 24h). Preço +62% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Denzel Dumfries (89)** — 60k coins, **+62.2% em 7 dias** (+25% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iván Córdoba (87)** — 22k coins, **+51.9% em 7 dias** (+36.7% em 24h). Preço +41% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Alessandro Bastoni (91)** — 60k coins, **+53.8% em 7 dias** (+1.7% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rasmus Højlund (87)** — 40k coins, **+40.4% em 7 dias** (+2.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **52% de chance de seguir subindo**.
+- **Matías Soulé (86)** — 30k coins, **+49.2% em 7 dias** (+8.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Francisco Conceição (85)** — 26k coins, **+38.8% em 7 dias** (+11% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Rasmus Højlund (87)** — 40k coins, **+40.4% em 7 dias** (+2.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan David Cabal (85)** — 24k coins, **+37.1% em 7 dias** (+37.1% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marek Hamšík (89)** — 46k coins, **+38.3% em 7 dias** (+20.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## ⚙️ A engine por tras deste post
@@ -76,7 +88,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Alessandro Bastoni (91, Serie A TIM) lidera, com +55.8% em 7 dias a 60k coins no Console (PS), e o modelo dá 21% de chance de seguir subindo.
+Denzel Dumfries (89, Serie A TIM) lidera, com +62.2% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -90,3 +102,11 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Serie A em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Serie A — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
