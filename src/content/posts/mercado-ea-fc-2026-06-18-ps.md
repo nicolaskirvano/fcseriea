@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Serie A Coins"
 pubDatetime: 2026-06-19T01:30:57.000Z
-title: "Serie A no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Serie A no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Claudio Marchisio (88, Serie A TIM), com +29.5% em 24h, a 157k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Zion Suzuki (84), -33.1% em 24h, a 82k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Iván Córdoba (88) — 95% de probabilidade de alta, a 94k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 52 cartas em alta contra 60 em queda (média -1.52%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Claudio Marchisio liderou as altas e Zion Suzuki as baixas em Serie A. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Claudio Marchisio** registrou o maior movimento de 24h (+29,5%), enquanto **Zion Suzuki** marcou o menor (-33,1%). A distância entre os extremos foi de **62,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-2,2%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Serie A no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Serie A no console PlayStation apresenta um cenário de extrema volatilidade e predomínio de vendas, caracterizando uma fase de desvalorização generalizada que exige cautela redobrada dos traders experientes. Com um balanço negativo expressivo, onde 60 jogadores sofreram quedas contra apenas 52 altas, a média de variação em 24 horas repousa em um negativo de 1.52%, indicando que a liquidez está sendo drenada dos ativos mais comuns. Este ambiente de 'bear market' sugere que a maioria dos investidores está realizando lucros ou cortando perdas, criando oportunidades de compra seletiva em ativos fundamentais que estão sendo vendidos em pânico ou por falta de informação. A dinâmica atual favorece aqueles que conseguem identificar discrepâncias entre o sentimento de curto prazo e as probabilidades de alta projetadas pelo modelo, permitindo operações de arbitragem temporal com margens de segurança calculadas. É fundamental observar que, mesmo em dias de alta queda, existem ativos específicos que se destacam pela força relativa, o que nos leva a analisar os movimentos pontuais que definiram o dia.
 
@@ -68,7 +71,7 @@ Entre os poucos ativos que conseguiram se valorizar, Claudio Marchisio se destac
 O lado negativo do mercado foi dominado por quedas severas, com Zion Suzuki liderando a lista com uma despencada de 33.1% para 82k coins, o que é particularmente perigoso dado que ele possui uma probabilidade de alta de 60%, indicando que a venda pode ser excessiva e criar uma oportunidade de compra de 'pânico'. Charles De Ketelaere caiu 29.4% para 27k coins com apenas 5% de probabilidade de alta, confirmando que a baixa é fundamental e estrutural, ou seja, o mercado está reprecificando o ativo para baixo e não há indícios de recuperação imediata, devendo ser evitado. Pierre Kalulu também sofreu forte desvalorização de 25% para 72k coins com baixa probabilidade de alta de 5%, reforçando a tese de que zagueiros de nível inferior estão sendo liquidados em massa para cobrir perdas em outras carteiras. Luka Modrić, ativo de elite, caiu 23.6% para 92k coins, mas sua probabilidade de alta de 50% sugere que esta pode ser uma oportunidade de compra de longo prazo, pois a queda parece ser temporária em relação ao seu valor intrínseco no meta. Antonio Di Natale, em sua versão de rating 89, despencou 18.7% para 214k coins, mas com uma probabilidade de alta colossal de 95%, o que representa um dos maiores sinais de compra do dia, indicando que a queda foi um erro de precificação que o mercado está corrigindo agressivamente para cima.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Claudio Marchisio (88, Serie A TIM), com +29.5% em 24h, a 157k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Zion Suzuki (84), -33.1% em 24h, a 82k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Iván Córdoba (88) — 95% de probabilidade de alta, a 94k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Iván Córdoba (88) — 95% de probabilidade de alta, a 94k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 52 cartas em alta contra 60 em queda (média -1.52%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 52 cartas em alta contra 60 em queda (média -1.52%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Serie A baratos no EA FC em 18/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-18-ps/)
+- [Momentum de Serie A no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

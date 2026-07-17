@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Serie A Coins"
 pubDatetime: 2026-06-01T01:30:02.000Z
-title: "Serie A no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
+title: "Serie A no EA FC em 31/05: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Scott McTominay (87, Serie A TIM), com +56% em 24h, a 156k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Hidetoshi Nakata (88), -45.6% em 24h, a 22k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 49 cartas em alta contra 55 em queda (média 2.0%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PC: Scott McTominay liderou as altas e Hidetoshi Nakata as baixas em Serie A. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **49 subiram** e **55 caíram**, com variação média de **2.0%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Scott McTominay** registrou o maior movimento de 24h (+56,0%), enquanto **Hidetoshi Nakata** marcou o menor (-45,6%). A distância entre os extremos foi de **101,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+3,5%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Serie A no EA FC em 31/05: altas e baixas — PC](/charts/mercado-ea-fc-2026-05-31-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** teve um recorte **misto** — as quedas foram mais numerosas, embora as altas tenham sido mais intensas: das cartas relevantes (80+ acima de 5k coins), **49 subiram** e **55 caíram**, com variação média de **2.0%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Scott McTominay (87) **+56%** · 🔴 **Maior baixa:** Hidetoshi Nakata (88) **-45.6%**
 
@@ -46,11 +51,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Scott McTominay (87)** subiu **+56%** em 24h, a **156k coins** (faixa do dia: 100k–200k). Está +20% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Scott McTominay (87)** subiu **+56%** em 24h, a **156k coins** (faixa do dia: 100k–200k). Está +20% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Daniele De Rossi (87)** subiu **+54.2%** em 24h, a **32k coins** (faixa do dia: 21k–32k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Daniele De Rossi (87)** subiu **+54.2%** em 24h, a **32k coins** (faixa do dia: 21k–32k). Está +11% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Junior Messias (87)** subiu **+54.1%** em 24h, a **24k coins** (faixa do dia: 15k–35k). Está +18% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Junior Messias (87)** subiu **+54.1%** em 24h, a **24k coins** (faixa do dia: 15k–35k). Está +18% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -71,11 +76,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Hidetoshi Nakata (88)** caiu **-45.6%** em 24h, a **22k coins** (faixa do dia: 20k–39k). Está -36% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Hidetoshi Nakata (88)** caiu **-45.6%** em 24h, a **22k coins** (faixa do dia: 20k–39k). Está -36% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Mattia Zaccagni (87)** caiu **-23.3%** em 24h, a **23k coins** (faixa do dia: 11k–30k). Está -8% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Mattia Zaccagni (87)** caiu **-23.3%** em 24h, a **23k coins** (faixa do dia: 11k–30k). Está -8% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Weston McKennie (91)** caiu **-20%** em 24h, a **56k coins** (faixa do dia: 48k–70k). Está +28% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Weston McKennie (91)** caiu **-20%** em 24h, a **56k coins** (faixa do dia: 48k–70k). Está +28% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -85,16 +90,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Scott McTominay (87, Serie A TIM), com +56% em 24h, a 156k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Hidetoshi Nakata (88), -45.6% em 24h, a 22k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 49 cartas em alta contra 55 em queda (média 2.0%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 49 cartas em alta contra 55 em queda (média 2.0%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -103,3 +108,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Serie A baratos no EA FC em 31/05 — PC](/posts/jogadores-baratos-ea-fc-2026-05-31-pc/)
+- [Momentum de Serie A no EA FC em 31/05 — PC](/posts/melhores-investimentos-ea-fc-2026-05-31-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

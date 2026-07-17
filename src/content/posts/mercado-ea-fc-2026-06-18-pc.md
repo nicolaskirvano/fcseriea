@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Serie A Coins"
 pubDatetime: 2026-06-19T01:32:17.000Z
-title: "Serie A no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Serie A no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Kenan Yıldız (87, Serie A TIM), com +57.9% em 24h, a 180k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Nuno Tavares (87), -42.7% em 24h, a 47k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 56 cartas em alta contra 56 em queda (média 2.09%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PC: Kenan Yıldız liderou as altas e Nuno Tavares as baixas em Serie A. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Kenan Yıldız** registrou o maior movimento de 24h (+57,9%), enquanto **Nuno Tavares** marcou o menor (-42,7%). A distância entre os extremos foi de **100,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+5,0%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Serie A no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário do mercado da Serie A para o dia 18/06/2026 em PC apresenta um viés claramente otimista, com um sentimento de alta dominando as negociações e refletindo uma liquidez robusta entre os traders que buscam ativos de valorização rápida. Com um balanço equilibrado mas tendencioso para o positivo, registramos 56 valorizações significativas contra 56 quedas, resultando em uma média de alta de 2.09% nas últimas 24 horas, o que indica que a pressão de compra está superando a oferta em muitos segmentos-chave da liga italiana. Este contexto de mercado em alta sugere que os traders estão dispostos a pagar prêmios por jogadores com alta probabilidade de apreciação futura, especialmente aqueles com raridades ou utilidades específicas em meta squads, criando oportunidades tangíveis para quem sabe ler os sinais de escassez. A volatilidade controlada permite que estratégias de swing trading sejam executadas com maior confiança, desde que se evite alavancagem excessiva em ativos com fundamentos frágeis ou probabilidade de alta baixa, focando-se naqueles que demonstram força relativa consistente. O tom do dia é de cautela otimista, onde a seleção criteriosa dos ativos é mais importante do que o volume de operações, pois o mercado recompensa a precisão na identificação dos pontos de inflexão de preço.
 
@@ -76,16 +81,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Kenan Yıldız (87, Serie A TIM), com +57.9% em 24h, a 180k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Nuno Tavares (87), -42.7% em 24h, a 47k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 56 cartas em alta contra 56 em queda (média 2.09%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 56 cartas em alta contra 56 em queda (média 2.09%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Serie A baratos no EA FC em 18/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-18-pc/)
+- [Momentum de Serie A no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Serie A Coins"
 pubDatetime: 2026-06-20T01:32:17.000Z
-title: "Melhores investimentos em Serie A no EA FC (19/06/2026): análise e previsões — PC"
+title: "Momentum de Serie A no EA FC em 19/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Andrea Barzagli (87, Serie A TIM) lidera, com +88.5% em 7 dias a 24k coins no PC, e o modelo dá 50% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 19/06/2026 no PC: Andrea Barzagli liderou 7d com +88,5%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Andrea Barzagli** liderou o recorte com **+88,5% em 7d** e +11,4% em 24h. Entre 11 cartas, 11 tinham as duas janelas positivas; a mediana semanal foi **+40,2%**.
+
+Os preços destacados iam de **21k coins** a **70k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Serie A no EA FC em 19/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **19/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Andrea Barzagli (87) acumula **+88.5% em 7 dias** a 24k coins.
 
@@ -39,9 +46,9 @@ Por fim, os ativos de maior valor nominal, como Khéphren Thuram e Álvaro Morat
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Andrea Barzagli | 87 | Serie A TIM | 24k coins | +11.4% | +88.5% | 50% |
 | Morata | 87 | Serie A TIM | 66k coins | +8.3% | +88.4% | 11% |
@@ -58,23 +65,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Andrea Barzagli (87)** — 24k coins, **+88.5% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andrea Barzagli (87)** — 24k coins, **+88.5% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+8%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Morata (87)** — 66k coins, **+88.4% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Morata (87)** — 66k coins, **+88.4% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-6%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Marek Hamšík (89)** — 56k coins, **+68.7% em 7 dias** (+3.7% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marek Hamšík (89)** — 56k coins, **+68.7% em 7 dias** (+3.7% em 24h). Preço +35% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Gervinho (85)** — 30k coins, **+48.1% em 7 dias** (+5.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Gervinho (85)** — 30k coins, **+48.1% em 7 dias** (+5.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Charles De Ketelaere (89)** — 36k coins, **+40.4% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (-5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Charles De Ketelaere (89)** — 36k coins, **+40.4% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (-5%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -83,13 +90,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Andrea Barzagli (87, Serie A TIM) lidera, com +88.5% em 7 dias a 24k coins no PC, e o modelo dá 50% de chance de seguir subindo.
+**Qual carta liderava o momentum em 19/06/2026 no EA FC?**
+Andrea Barzagli (87, Serie A TIM) lidera, com +88.5% em 7 dias a 24k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -98,3 +105,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Serie A baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Serie A no EA FC em 19/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-19-pc/)
+- [Momentum de Serie A no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
