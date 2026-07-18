@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:30:18.000Z
+pubDatetime: 2026-07-18T01:30:19.000Z
 title: "Investimentos EA FC: Serie A em 17/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.1% em 24h** e **+20.3% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.4% em 24h** e **+13.8% em 7 dias**.
+- **4 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 13 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Iván Córdoba | 88 | Serie A TIM | 96k coins | +27.3% | +69% | Esticada |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +14.9% | +61.3% | Esticada |
-| Rui Costa | 88 | Serie A TIM | 38k coins | +5.7% | +36.6% | Momentum moderado |
-| Bremer | 87 | Serie A TIM | 48k coins | +7.9% | +32.5% | Momentum moderado |
-| Nico Paz | 86 | Serie A TIM | 46k coins | +22% | +30.7% | Esticada |
-| Filip Kostić | 88 | Serie A TIM | 30k coins | +15.4% | +27.7% | Momentum moderado |
-| Christian Pulisic | 86 | Serie A TIM | 47k coins | +22.9% | +25.3% | Esticada |
-| Nico Paz | 90 | Serie A TIM | 95k coins | +13.1% | +20.3% | Momentum moderado |
-| Juan Cuadrado | 86 | Serie A TIM | 44k coins | +17.2% | +13.5% | Momentum moderado |
-| Nuno Tavares | 91 | Serie A TIM | 66k coins | +4% | +12.9% | Entrada a observar |
-| Hidetoshi Nakata | 88 | Serie A TIM | 25k coins | +6.1% | +9.4% | Momentum moderado |
-| Romelu Lukaku | 86 | Serie A TIM | 52k coins | +21.1% | +9% | Esticada |
-| Daniele De Rossi | 89 | Serie A TIM | 189k coins | +1% | +8.9% | Entrada a observar |
-| Iván Córdoba | 87 | Serie A TIM | 19.250 coins | +14.1% | +6.6% | Momentum moderado |
-| Santiago Castro | 87 | Serie A TIM | 24k coins | +6.5% | +6.5% | Momentum moderado |
+| Kenan Yıldız | 88 | Serie A TIM | 200k coins | +13% | +48.1% | Momentum moderado |
+| Arthur Atta | 85 | Serie A TIM | 80k coins | +16.8% | +45.5% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 45k coins | +20.7% | +29.3% | Esticada |
+| Nicolae Stanciu | 86 | Serie A TIM | 119k coins | +14.4% | +20.2% | Momentum moderado |
+| Hidetoshi Nakata | 89 | Serie A TIM | 20k coins | +14.3% | +17.6% | Momentum moderado |
+| Martin Baturina | 84 | Serie A TIM | 44k coins | +2.3% | +13.8% | Entrada a observar |
+| Leonardo Spinazzola | 89 | Serie A TIM | 44k coins | +29.5% | +13.2% | Esticada |
+| Romelu Lukaku | 86 | Serie A TIM | 55k coins | +22.2% | +10% | Esticada |
+| Juan Cuadrado | 86 | Serie A TIM | 42k coins | +10.9% | +9.5% | Momentum moderado |
+| Piotr Zieliński | 85 | Serie A TIM | 55k coins | +14.6% | +7.8% | Momentum moderado |
+| Tarik Muharemović | 86 | Serie A TIM | 50k coins | +5.8% | +7.5% | Momentum moderado |
+| Claudio Marchisio | 87 | Serie A TIM | 18.000 coins | +14.3% | +7.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Iván Córdoba (88)** — 96k coins, **+69% em 7 dias** (+27.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Córdoba (88)** — 96k coins, **+69% em 7 dias** (+27.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Soulé (84)** — 50k coins, **+61.3% em 7 dias** (+14.9% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kenan Yıldız (88)** — 200k coins, **+48.1% em 7 dias** (+13% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rui Costa (88)** — 38k coins, **+36.6% em 7 dias** (+5.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Arthur Atta (85)** — 80k coins, **+45.5% em 7 dias** (+16.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bremer (87)** — 48k coins, **+32.5% em 7 dias** (+7.9% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Paz (86)** — 45k coins, **+29.3% em 7 dias** (+20.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Paz (86)** — 46k coins, **+30.7% em 7 dias** (+22% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolae Stanciu (86)** — 119k coins, **+20.2% em 7 dias** (+14.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
