@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Juan David Cabal</text>
-<rect x="285" y="153" width="429" height="28" rx="7" fill="#22c55e"/>
-<text x="724" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolò Zaniolo</text>
-<rect x="285" y="211" width="250" height="28" rx="7" fill="#22c55e"/>
-<text x="545" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Manuel Locatelli</text>
-<rect x="285" y="269" width="241" height="28" rx="7" fill="#22c55e"/>
-<text x="536" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paulo Dybala</text>
-<rect x="285" y="327" width="202" height="28" rx="7" fill="#22c55e"/>
-<text x="497" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kristian Thorstvedt</text>
-<rect x="285" y="385" width="165" height="28" rx="7" fill="#22c55e"/>
-<text x="460" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charles De Ketelaere</text>
+<rect x="285" y="153" width="430" height="28" rx="7" fill="#22c55e"/>
+<text x="725" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Manuel Locatelli</text>
+<rect x="285" y="211" width="263" height="28" rx="7" fill="#22c55e"/>
+<text x="558" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Víctor Ibarbo</text>
+<rect x="285" y="269" width="258" height="28" rx="7" fill="#22c55e"/>
+<text x="553" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Davide Zappacosta</text>
+<rect x="285" y="327" width="248" height="28" rx="7" fill="#22c55e"/>
+<text x="543" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rasmus Højlund</text>
+<rect x="285" y="385" width="240" height="28" rx="7" fill="#22c55e"/>
+<text x="535" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.3%</text>
 </svg>

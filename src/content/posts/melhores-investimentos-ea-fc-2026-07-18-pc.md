@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:30:19.000Z
+pubDatetime: 2026-07-18T16:30:18.000Z
 title: "Investimentos EA FC: Serie A em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Antonio Di Natale (88, Serie A TIM) lidera, com +75.7% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Paulo Dybala (88, Serie A TIM) lidera, com +80.9% em 7 dias a 199k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Antonio Di Natale (88) acumula **+75.7% em 7 dias** a 64k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Paulo Dybala (88) acumula **+80.9% em 7 dias** a 199k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.8% em 24h** e **+34.1% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.1% em 24h** e **+34.1% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Antonio Di Natale | 88 | Serie A TIM | 64k coins | +32.7% | +75.7% | Esticada |
-| Alessandro Bastoni | 91 | Serie A TIM | 60k coins | +4.2% | +71.2% | Esticada |
-| Denzel Dumfries | 89 | Serie A TIM | 46k coins | +5.8% | +56.2% | Momentum moderado |
-| Nuno Tavares | 91 | Serie A TIM | 80k coins | +28% | +52.4% | Esticada |
-| Maicon | 88 | Serie A TIM | 110k coins | +21.5% | +45.6% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 76k coins | +20.6% | +39.4% | Esticada |
+| Paulo Dybala | 88 | Serie A TIM | 199k coins | +5.3% | +80.9% | Esticada |
+| Iván Córdoba | 88 | Serie A TIM | 96k coins | +2.1% | +72.6% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 24k coins | +28.7% | +60.9% | Esticada |
+| Lautaro Martínez | 90 | Serie A TIM | 169k coins | +2.4% | +55% | Momentum moderado |
+| Claudio Marchisio | 87 | Serie A TIM | 21k coins | +17.7% | +38.8% | Momentum moderado |
 | Kenan Yıldız | 88 | Serie A TIM | 185k coins | +26.7% | +37% | Esticada |
-| Kouadio Manu Koné | 88 | Serie A TIM | 120k coins | +10.1% | +34.1% | Momentum moderado |
-| Marek Hamšík | 89 | Serie A TIM | 40k coins | +33.3% | +29% | Esticada |
-| Khéphren Thuram | 87 | Serie A TIM | 75k coins | +25% | +27.1% | Esticada |
-| Nico Paz | 86 | Serie A TIM | 48k coins | +2.2% | +22.6% | Entrada a observar |
-| Hidetoshi Nakata | 88 | Serie A TIM | 20k coins | +18.8% | +18.8% | Momentum moderado |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 54k coins | +5.6% | +15.2% | Momentum moderado |
-| Leonardo Spinazzola | 89 | Serie A TIM | 44k coins | +12.8% | +12.8% | Momentum moderado |
-| Andrea Barzagli | 88 | Serie A TIM | 27k coins | +3.8% | +11.2% | Entrada a observar |
+| Maicon | 88 | Serie A TIM | 89k coins | +21.1% | +36.4% | Esticada |
+| Kouadio Manu Koné | 88 | Serie A TIM | 120k coins | +9.1% | +34.1% | Momentum moderado |
+| Nuno Tavares | 91 | Serie A TIM | 68k coins | +3.8% | +28.6% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 40k coins | +6.7% | +22.6% | Momentum moderado |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 48k coins | +18.8% | +20.3% | Momentum moderado |
+| Pierre Kalulu | 91 | Serie A TIM | 72k coins | +15.1% | +19.8% | Momentum moderado |
+| Gustav Isaksen | 87 | Serie A TIM | 65k coins | +17.1% | +19.3% | Momentum moderado |
+| Nuno Tavares | 87 | Serie A TIM | 46k coins | +29.5% | +16.7% | Esticada |
+| Marten de Roon | 85 | Serie A TIM | 35k coins | +12.9% | +6.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Antonio Di Natale (88)** — 64k coins, **+75.7% em 7 dias** (+32.7% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Dybala (88)** — 199k coins, **+80.9% em 7 dias** (+5.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alessandro Bastoni (91)** — 60k coins, **+71.2% em 7 dias** (+4.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Córdoba (88)** — 96k coins, **+72.6% em 7 dias** (+2.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denzel Dumfries (89)** — 46k coins, **+56.2% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (87)** — 24k coins, **+60.9% em 7 dias** (+28.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nuno Tavares (91)** — 80k coins, **+52.4% em 7 dias** (+28% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lautaro Martínez (90)** — 169k coins, **+55% em 7 dias** (+2.4% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maicon (88)** — 110k coins, **+45.6% em 7 dias** (+21.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claudio Marchisio (87)** — 21k coins, **+38.8% em 7 dias** (+17.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Antonio Di Natale (88, Serie A TIM) lidera, com +75.7% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Paulo Dybala (88, Serie A TIM) lidera, com +80.9% em 7 dias a 199k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Serie A em 18/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-18-pc/)
 - [Mercado EA FC em 18/07: Serie A — PC](/posts/mercado-ea-fc-2026-07-18-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
