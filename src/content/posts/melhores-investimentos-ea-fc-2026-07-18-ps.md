@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:30:09.000Z
+pubDatetime: 2026-07-18T19:30:09.000Z
 title: "Investimentos EA FC: Serie A em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Daniele De Rossi (87, Serie A TIM) lidera, com +76.6% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gianluca Mancini (85, Serie A TIM) lidera, com +60.5% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Daniele De Rossi (87) acumula **+76.6% em 7 dias** a 28k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gianluca Mancini (85) acumula **+60.5% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+33.3% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.9% em 24h** e **+30.4% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Daniele De Rossi | 87 | Serie A TIM | 28k coins | +34.5% | +76.6% | Esticada |
-| Charles De Ketelaere | 88 | Serie A TIM | 161k coins | +3.9% | +68.6% | Esticada |
-| Manuel Locatelli | 86 | Serie A TIM | 53k coins | +20.2% | +41.9% | Esticada |
-| Víctor Ibarbo | 85 | Serie A TIM | 28k coins | +6.6% | +41.2% | Momentum moderado |
-| Davide Zappacosta | 88 | Serie A TIM | 34k coins | +13.6% | +39.6% | Momentum moderado |
-| Rasmus Højlund | 87 | Serie A TIM | 36k coins | +12.1% | +38.3% | Momentum moderado |
-| Kevin De Bruyne | 89 | Serie A TIM | 115k coins | +4.3% | +36.4% | Momentum moderado |
-| Marek Hamšík | 87 | Serie A TIM | 22k coins | +33.3% | +33.3% | Esticada |
-| Riccardo Orsolini | 85 | Serie A TIM | 23k coins | +8.1% | +32.9% | Momentum moderado |
-| Nuno Tavares | 91 | Serie A TIM | 60k coins | +11.7% | +29.9% | Momentum moderado |
-| Filip Kostić | 88 | Serie A TIM | 22k coins | +14.3% | +29.4% | Momentum moderado |
-| Wesley Sneijder | 89 | Serie A TIM | 50k coins | +1.9% | +29.3% | Momentum moderado |
-| Morata | 87 | Serie A TIM | 51k coins | +29.1% | +27.5% | Esticada |
-| Hidetoshi Nakata | 88 | Serie A TIM | 20k coins | +38.3% | +25.8% | Esticada |
-| Nico Paz | 86 | Serie A TIM | 45k coins | +31.3% | +21.4% | Esticada |
+| Gianluca Mancini | 85 | Serie A TIM | 32k coins | +3.2% | +60.5% | Esticada |
+| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +20.9% | +46.5% | Esticada |
+| Antonio Di Natale | 88 | Serie A TIM | 65k coins | +2.3% | +40.4% | Momentum moderado |
+| Manuel Locatelli | 86 | Serie A TIM | 52k coins | +18% | +37.3% | Momentum moderado |
+| Davide Zappacosta | 88 | Serie A TIM | 30k coins | +14.3% | +33.3% | Momentum moderado |
+| Diego Milito | 88 | Serie A TIM | 15.250 coins | +3.3% | +31.2% | Momentum moderado |
+| Rasmus Højlund | 87 | Serie A TIM | 32k coins | +7.6% | +30.6% | Momentum moderado |
+| Kevin De Bruyne | 88 | Serie A TIM | 104k coins | +21.8% | +30.4% | Esticada |
+| Paulo Dybala | 88 | Serie A TIM | 140k coins | +4.4% | +29.4% | Momentum moderado |
+| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +21.3% | +28.6% | Esticada |
+| Morata | 87 | Serie A TIM | 51k coins | +10.9% | +28.3% | Momentum moderado |
+| Seydou Doumbia | 85 | Serie A TIM | 19.000 coins | +39.3% | +27.9% | Esticada |
+| Wesley | 88 | Serie A TIM | 84k coins | +27.2% | +25.4% | Esticada |
+| Khéphren Thuram | 85 | Serie A TIM | 80k coins | +1.3% | +24% | Entrada a observar |
+| Donyell Malen | 89 | Serie A TIM | 52k coins | +2.8% | +22.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Daniele De Rossi (87)** — 28k coins, **+76.6% em 7 dias** (+34.5% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Mancini (85)** — 32k coins, **+60.5% em 7 dias** (+3.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Charles De Ketelaere (88)** — 161k coins, **+68.6% em 7 dias** (+3.9% em 24h). Preço +77% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riccardo Orsolini (85)** — 26k coins, **+46.5% em 7 dias** (+20.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Locatelli (86)** — 53k coins, **+41.9% em 7 dias** (+20.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antonio Di Natale (88)** — 65k coins, **+40.4% em 7 dias** (+2.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Víctor Ibarbo (85)** — 28k coins, **+41.2% em 7 dias** (+6.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Manuel Locatelli (86)** — 52k coins, **+37.3% em 7 dias** (+18% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Davide Zappacosta (88)** — 34k coins, **+39.6% em 7 dias** (+13.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Davide Zappacosta (88)** — 30k coins, **+33.3% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Daniele De Rossi (87, Serie A TIM) lidera, com +76.6% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gianluca Mancini (85, Serie A TIM) lidera, com +60.5% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
