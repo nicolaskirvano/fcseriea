@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:30:19.000Z
+pubDatetime: 2026-07-19T22:30:17.000Z
 title: "Mercado EA FC em 19/07: Serie A — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Denzel Dumfries (89, Serie A TIM), com +59.1% em 24h, a 70k coins no PC."
+    a: "Andrea Barzagli (87, Serie A TIM), com +59.7% em 24h, a 24k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Rafael Leão (93), -49.3% em 24h, a 1.01M coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 47 cartas em alta contra 60 em queda (média 4.6%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 58 em queda (média 4.41%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **47 cartas subiram** e **60 caíram** (80+ acima de 5k coins), variação média de **4.6%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **51 cartas subiram** e **58 caíram** (80+ acima de 5k coins), variação média de **4.41%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Denzel Dumfries (89) **+59.1%** · 🔴 **Maior baixa:** Rafael Leão (93) **-49.3%**
+> 🟢 **Maior alta:** Andrea Barzagli (87) **+59.7%** · 🔴 **Maior baixa:** Rafael Leão (93) **-49.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Serie A — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.9% entre as cartas que se moveram; o universo observado reúne 136 cartas.
+- **Amplitude do dia:** 109.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.8% entre as cartas que se moveram; o universo observado reúne 140 cartas.
 - **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Denzel Dumfries | 89 | Serie A TIM | 70k coins | +59.1% | +102.9% |
-| Hidetoshi Nakata | 89 | Serie A TIM | 28k coins | +56.9% | +18.9% |
-| Lúcio | 89 | Serie A TIM | 109k coins | +54.6% | +26% |
-| Martin Baturina | 84 | Serie A TIM | 32k coins | +48.7% | -1.7% |
-| De Gea | 89 | Serie A TIM | 190k coins | +46.2% | +35.7% |
-| Claudio Marchisio | 87 | Serie A TIM | 25k coins | +45.6% | +41.4% |
-| Seydou Doumbia | 85 | Serie A TIM | 23k coins | +42.9% | 0% |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 50k coins | +40.8% | +15.6% |
-| Federico Dimarco | 87 | Serie A TIM | 55k coins | +39.2% | -9.8% |
-| Juan David Cabal | 85 | Serie A TIM | 20k coins | +32.8% | +19.7% |
+| Andrea Barzagli | 87 | Serie A TIM | 24k coins | +59.7% | +67.8% |
+| Juan Cuadrado | 86 | Serie A TIM | 40k coins | +43.2% | -6.5% |
+| Federico Dimarco | 87 | Serie A TIM | 54k coins | +39.4% | -11.5% |
+| Éderson | 87 | Serie A TIM | 55k coins | +38.4% | +22.2% |
+| Hidetoshi Nakata | 89 | Serie A TIM | 28k coins | +34.5% | +21.5% |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 39k coins | +30.8% | -14.7% |
+| Alessandro Bastoni | 91 | Serie A TIM | 78k coins | +29.2% | +47.6% |
+| Denzel Dumfries | 89 | Serie A TIM | 52k coins | +28.2% | +71.9% |
+| Giorgio Scalvini | 86 | Serie A TIM | 48k coins | +25.2% | -0.5% |
+| Nicolae Stanciu | 86 | Serie A TIM | 94k coins | +24.3% | +0.5% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Denzel Dumfries (89)** subiu **+59.1%** em 24h, a **70k coins** (faixa do dia: 40k–70k). Está +43% acima da média de 7 dias (aquecida).
+- **Andrea Barzagli (87)** subiu **+59.7%** em 24h, a **24k coins** (faixa do dia: 15.250–28k). Está +55% acima da média de 7 dias (aquecida).
 
-- **Hidetoshi Nakata (89)** subiu **+56.9%** em 24h, a **28k coins** (faixa do dia: 13.500–31k). Está +37% acima da média de 7 dias (aquecida).
+- **Juan Cuadrado (86)** subiu **+43.2%** em 24h, a **40k coins** (faixa do dia: 25k–60k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Lúcio (89)** subiu **+54.6%** em 24h, a **109k coins** (faixa do dia: 64k–109k). Está +18% acima da média de 7 dias (aquecida).
+- **Federico Dimarco (87)** subiu **+39.4%** em 24h, a **54k coins** (faixa do dia: 37k–70k). Está em linha com a média de 7 dias (-3%).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,29 +73,29 @@ O mercado do **EA FC** abre **19/07/2026** no PC com clima **comprador** — a m
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.3% | -32.4% |
-| Rasmus Højlund | 87 | Serie A TIM | 39k coins | -44.6% | -33.8% |
-| Zion Suzuki | 84 | Serie A TIM | 115k coins | -42.2% | -27.7% |
-| Maicon | 88 | Serie A TIM | 54k coins | -40.2% | -20.4% |
-| Weston McKennie | 92 | Serie A TIM | 34k coins | -32.4% | -30.7% |
-| Nuno Tavares | 87 | Serie A TIM | 29k coins | -31.5% | -39.2% |
-| Andrea Barzagli | 88 | Serie A TIM | 25k coins | -29.8% | -42.6% |
-| Ché Adams | 89 | Serie A TIM | 30k coins | -27.3% | -42.3% |
-| Charles De Ketelaere | 89 | Serie A TIM | 30k coins | -22.3% | -13.9% |
-| Bremer | 88 | Serie A TIM | 234k coins | -21.2% | -21.2% |
+| Rasmus Højlund | 87 | Serie A TIM | 39k coins | -44.6% | -29.5% |
+| Gustav Isaksen | 87 | Serie A TIM | 36k coins | -36.8% | -29.4% |
+| Davide Zappacosta | 88 | Serie A TIM | 22k coins | -33.6% | -34.6% |
+| Iván Córdoba | 88 | Serie A TIM | 62k coins | -31.5% | -38% |
+| Charles De Ketelaere | 89 | Serie A TIM | 30k coins | -28.3% | -25.2% |
+| Gervinho | 85 | Serie A TIM | 21k coins | -25.4% | -4.5% |
+| Francisco Conceição | 89 | Serie A TIM | 60k coins | -25% | -9.1% |
+| Adrien Rabiot | 86 | Serie A TIM | 34k coins | -24.1% | -7.5% |
+| Yoan Bonny | 86 | Serie A TIM | 54k coins | -21.2% | +36.7% |
 
 
 ### Análise das baixas
 
 - **Rafael Leão (93)** caiu **-49.3%** em 24h, a **1.01M coins** (faixa do dia: 1M–2M). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Rasmus Højlund (87)** caiu **-44.6%** em 24h, a **39k coins** (faixa do dia: 34k–70k). Está -23% abaixo da média de 7 dias (descontada).
+- **Rasmus Højlund (87)** caiu **-44.6%** em 24h, a **39k coins** (faixa do dia: 34k–70k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Zion Suzuki (84)** caiu **-42.2%** em 24h, a **115k coins** (faixa do dia: 100k–199k). Está -41% abaixo da média de 7 dias (descontada).
+- **Gustav Isaksen (87)** caiu **-36.8%** em 24h, a **36k coins** (faixa do dia: 36k–62k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Denzel Dumfries já avançou 59.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Andrea Barzagli já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Rafael Leão recuou -49.3%; confirme estabilização e liquidez.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Denzel Dumfries (89, Serie A TIM), com +59.1% em 24h, a 70k coins no PC.
+Andrea Barzagli (87, Serie A TIM), com +59.7% em 24h, a 24k coins no PC.
 
 **E a maior queda do dia?**
 Rafael Leão (93), -49.3% em 24h, a 1.01M coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 47 cartas em alta contra 60 em queda (média 4.6%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 58 em queda (média 4.41%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
