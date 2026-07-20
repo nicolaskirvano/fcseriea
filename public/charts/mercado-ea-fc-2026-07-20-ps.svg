@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charles De Ketelaere</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcus Pedersen</text>
-<rect x="285" y="153" width="330" height="28" rx="7" fill="#22c55e"/>
-<text x="625" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Donyell Malen</text>
-<rect x="285" y="211" width="322" height="28" rx="7" fill="#22c55e"/>
-<text x="617" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rasmus Højlund</text>
-<rect x="285" y="269" width="313" height="28" rx="7" fill="#22c55e"/>
-<text x="608" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenan Yıldız</text>
-<rect x="285" y="327" width="308" height="28" rx="7" fill="#22c55e"/>
-<text x="603" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mariano Troilo</text>
-<rect x="285" y="385" width="226" height="28" rx="7" fill="#22c55e"/>
-<text x="521" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
+<rect x="285" y="153" width="419" height="28" rx="7" fill="#22c55e"/>
+<text x="714" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rasmus Højlund</text>
+<rect x="285" y="211" width="411" height="28" rx="7" fill="#22c55e"/>
+<text x="706" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin De Bruyne</text>
+<rect x="285" y="269" width="392" height="28" rx="7" fill="#22c55e"/>
+<text x="687" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Junior Messias</text>
+<rect x="285" y="327" width="336" height="28" rx="7" fill="#22c55e"/>
+<text x="631" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre Kalulu</text>
+<rect x="285" y="385" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.4%</text>
 </svg>

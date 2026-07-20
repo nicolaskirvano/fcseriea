@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paulo Dybala</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lautaro Martínez</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lautaro Martínez</text>
-<rect x="285" y="153" width="436" height="28" rx="7" fill="#22c55e"/>
-<text x="731" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan David</text>
-<rect x="285" y="211" width="397" height="28" rx="7" fill="#22c55e"/>
-<text x="692" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovane</text>
-<rect x="285" y="269" width="360" height="28" rx="7" fill="#22c55e"/>
-<text x="655" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riccardo Orsolini</text>
-<rect x="285" y="327" width="354" height="28" rx="7" fill="#22c55e"/>
-<text x="649" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessandro Bastoni</text>
-<rect x="285" y="385" width="340" height="28" rx="7" fill="#22c55e"/>
-<text x="635" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nuno Tavares</text>
+<rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
+<text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluca Mancini</text>
+<rect x="285" y="211" width="321" height="28" rx="7" fill="#22c55e"/>
+<text x="616" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tarik Muharemović</text>
+<rect x="285" y="269" width="284" height="28" rx="7" fill="#22c55e"/>
+<text x="579" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hakan Çalhanoğlu</text>
+<rect x="285" y="327" width="283" height="28" rx="7" fill="#22c55e"/>
+<text x="578" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Denzel Dumfries</text>
+<rect x="285" y="385" width="256" height="28" rx="7" fill="#22c55e"/>
+<text x="551" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.8%</text>
 </svg>
