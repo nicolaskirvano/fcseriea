@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:30:17.000Z
+pubDatetime: 2026-07-20T22:30:17.000Z
 title: "Mercado EA FC em 20/07: Serie A — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Rasmus Højlund (87, Serie A TIM), com +54.8% em 24h, a 60k coins no PC."
+    a: "Nicolò Zaniolo (86, Serie A TIM), com +60% em 24h, a 25k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Gift Orban (86), -34.8% em 24h, a 30k coins."
+    a: "Giovanni Di Lorenzo (86), -36.9% em 24h, a 41k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 47 cartas em alta contra 57 em queda (média 1.46%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 46 cartas em alta contra 65 em queda (média 1.66%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **20/07/2026** no PC: dia **indefinido** — sem tendência dominante. **47 valorizações** contra **57 quedas** entre as cartas relevantes, com média de **1.46%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **46 valorizações** contra **65 quedas** entre as cartas relevantes, com média de **1.66%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rasmus Højlund (87) **+54.8%** · 🔴 **Maior baixa:** Gift Orban (86) **-34.8%**
+> 🟢 **Maior alta:** Nicolò Zaniolo (86) **+60%** · 🔴 **Maior baixa:** Giovanni Di Lorenzo (86) **-36.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Serie A — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **20/07/2026** no PC: dia **indefinido** — sem tendência dominante.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 89.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.2% entre as cartas que se moveram; o universo observado reúne 141 cartas.
+- **Amplitude do dia:** 96.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.4% entre as cartas que se moveram; o universo observado reúne 145 cartas.
 - **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rasmus Højlund | 87 | Serie A TIM | 60k coins | +54.8% | +28.3% |
-| Marek Hamšík | 88 | Serie A TIM | 122k coins | +54.4% | +68.3% |
-| Davide Zappacosta | 88 | Serie A TIM | 34k coins | +54% | +20.7% |
-| Santiago Castro | 87 | Serie A TIM | 20k coins | +53.6% | +16.2% |
-| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +43.2% | +14% |
-| Martin Baturina | 84 | Serie A TIM | 45k coins | +41.7% | +16.1% |
-| Mariano Troilo | 86 | Serie A TIM | 48k coins | +38.7% | +18.8% |
-| Antonio Di Natale | 89 | Serie A TIM | 297k coins | +38.1% | +12.1% |
-| Antonio Di Natale | 88 | Serie A TIM | 88k coins | +30.4% | +23.1% |
-| Andrea Barzagli | 88 | Serie A TIM | 42k coins | +29.8% | +70% |
+| Nicolò Zaniolo | 86 | Serie A TIM | 25k coins | +60% | -5.5% |
+| Marek Hamšík | 88 | Serie A TIM | 118k coins | +49.4% | +68.6% |
+| Antonio Di Natale | 88 | Serie A TIM | 100k coins | +48.5% | +40.1% |
+| Mariano Troilo | 86 | Serie A TIM | 48k coins | +47.3% | +18.8% |
+| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +43.8% | -3.6% |
+| Martin Baturina | 84 | Serie A TIM | 46k coins | +43.3% | +15.2% |
+| Charles De Ketelaere | 89 | Serie A TIM | 38k coins | +30.2% | -11.7% |
+| Gervinho | 87 | Serie A TIM | 129k coins | +29% | +11.2% |
+| Iván Córdoba | 88 | Serie A TIM | 75k coins | +28.2% | -25% |
+| Antonio Di Natale | 89 | Serie A TIM | 246k coins | +27.4% | +3.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **20/07/2026** no PC: dia **indefinido** — sem tendência dominante.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rasmus Højlund (87)** subiu **+54.8%** em 24h, a **60k coins** (faixa do dia: 38k–70k). Está +18% acima da média de 7 dias (aquecida).
+- **Nicolò Zaniolo (86)** subiu **+60%** em 24h, a **25k coins** (faixa do dia: 12.250–29k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Marek Hamšík (88)** subiu **+54.4%** em 24h, a **122k coins** (faixa do dia: 50k–126k). Está +47% acima da média de 7 dias (aquecida).
+- **Marek Hamšík (88)** subiu **+49.4%** em 24h, a **118k coins** (faixa do dia: 50k–126k). Está +42% acima da média de 7 dias (aquecida).
 
-- **Davide Zappacosta (88)** subiu **+54%** em 24h, a **34k coins** (faixa do dia: 22k–36k). Está +9% acima da média de 7 dias (aquecida).
+- **Antonio Di Natale (88)** subiu **+48.5%** em 24h, a **100k coins** (faixa do dia: 67k–100k). Está +31% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gift Orban | 86 | Serie A TIM | 30k coins | -34.8% | -34.8% |
-| Lúcio | 89 | Serie A TIM | 80k coins | -33.9% | -20% |
-| Marcus Pedersen | 89 | Serie A TIM | 36k coins | -33.6% | -3.9% |
-| Giovane | 89 | Serie A TIM | 35k coins | -32.4% | +19% |
-| Nicolae Stanciu | 86 | Serie A TIM | 70k coins | -31.6% | -22.9% |
-| Kristian Thorstvedt | 86 | Serie A TIM | 34k coins | -30.5% | -30.2% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 41k coins | -36.9% | -10.9% |
+| Nuno Tavares | 87 | Serie A TIM | 44k coins | -34.6% | -36.4% |
+| Yoan Bonny | 86 | Serie A TIM | 35k coins | -31.6% | -46.7% |
 | Maicon | 89 | Serie A TIM | 261k coins | -29.5% | -22.3% |
-| Víctor Ibarbo | 85 | Serie A TIM | 44k coins | -27.5% | +31.8% |
-| Khéphren Thuram | 87 | Serie A TIM | 57k coins | -21.6% | +7.4% |
-| Moise Kean | 86 | Serie A TIM | 38k coins | -17.7% | -23.5% |
+| Claudio Marchisio | 87 | Serie A TIM | 21k coins | -28.3% | +14.1% |
+| Arthur Atta | 85 | Serie A TIM | 54k coins | -28% | -8.5% |
+| Víctor Ibarbo | 85 | Serie A TIM | 44k coins | -27.5% | +65.7% |
+| Junior Messias | 87 | Serie A TIM | 26k coins | -26.9% | +3.9% |
+| Pierre Kalulu | 91 | Serie A TIM | 62k coins | -25.9% | +37.7% |
+| Charles De Ketelaere | 88 | Serie A TIM | 110k coins | -22.4% | +1.3% |
 
 
 ### Análise das baixas
 
-- **Gift Orban (86)** caiu **-34.8%** em 24h, a **30k coins** (faixa do dia: 30k–46k). Está -34% abaixo da média de 7 dias (descontada).
+- **Giovanni Di Lorenzo (86)** caiu **-36.9%** em 24h, a **41k coins** (faixa do dia: 41k–65k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Lúcio (89)** caiu **-33.9%** em 24h, a **80k coins** (faixa do dia: 72k–110k). Está -15% abaixo da média de 7 dias (descontada).
+- **Nuno Tavares (87)** caiu **-34.6%** em 24h, a **44k coins** (faixa do dia: 26k–70k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Marcus Pedersen (89)** caiu **-33.6%** em 24h, a **36k coins** (faixa do dia: 32k–60k). Está -28% abaixo da média de 7 dias (descontada).
+- **Yoan Bonny (86)** caiu **-31.6%** em 24h, a **35k coins** (faixa do dia: 35k–54k). Está -47% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rasmus Højlund já avançou 54.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nicolò Zaniolo já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Gift Orban recuou -34.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Giovanni Di Lorenzo recuou -36.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Rasmus Højlund (87, Serie A TIM), com +54.8% em 24h, a 60k coins no PC.
+Nicolò Zaniolo (86, Serie A TIM), com +60% em 24h, a 25k coins no PC.
 
 **E a maior queda do dia?**
-Gift Orban (86), -34.8% em 24h, a 30k coins.
+Giovanni Di Lorenzo (86), -36.9% em 24h, a 41k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 47 cartas em alta contra 57 em queda (média 1.46%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 46 cartas em alta contra 65 em queda (média 1.66%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

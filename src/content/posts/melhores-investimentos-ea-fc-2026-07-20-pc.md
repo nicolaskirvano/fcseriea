@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:30:18.000Z
+pubDatetime: 2026-07-20T22:30:18.000Z
 title: "Investimentos EA FC: Serie A em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Andrea Barzagli (88, Serie A TIM) lidera, com +70% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Oliver Bierhoff (86, Serie A TIM) lidera, com +81.4% em 7 dias a 17.500 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Andrea Barzagli (88) acumula **+70% em 7 dias** a 42k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Oliver Bierhoff (86) acumula **+81.4% em 7 dias** a 17.500 coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.5% em 24h** e **+25.2% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+18.4% em 24h** e **+18.6% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andrea Barzagli | 88 | Serie A TIM | 42k coins | +29.8% | +70% | Esticada |
-| Hidetoshi Nakata | 87 | Serie A TIM | 15.750 coins | +27.3% | +59.1% | Esticada |
-| Nuno Tavares | 91 | Serie A TIM | 59k coins | +9.3% | +56.4% | Momentum moderado |
-| Juan David Cabal | 85 | Serie A TIM | 22k coins | +20.5% | +49.3% | Esticada |
-| Diego Milito | 88 | Serie A TIM | 17.000 coins | +9.1% | +44% | Momentum moderado |
-| Gianluca Mancini | 85 | Serie A TIM | 25k coins | +15.9% | +36% | Momentum moderado |
-| Christian Pulisic | 86 | Serie A TIM | 51k coins | +12.8% | +32.5% | Momentum moderado |
-| Denzel Dumfries | 86 | Serie A TIM | 35k coins | +17.5% | +25.2% | Momentum moderado |
-| Antonio Di Natale | 88 | Serie A TIM | 88k coins | +30.4% | +23.1% | Esticada |
-| Dušan Vlahović | 86 | Serie A TIM | 40k coins | +2.5% | +21.3% | Entrada a observar |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 49k coins | +21.7% | +19.5% | Esticada |
-| Mariano Troilo | 86 | Serie A TIM | 48k coins | +38.7% | +18.8% | Esticada |
-| Esteban Cambiasso | 86 | Serie A TIM | 18.250 coins | +21.7% | +14.1% | Esticada |
-| Juan Cuadrado | 86 | Serie A TIM | 47k coins | +11.9% | +11.9% | Momentum moderado |
-| Daniele De Rossi | 89 | Serie A TIM | 194k coins | +10.8% | +8.3% | Momentum moderado |
+| Oliver Bierhoff | 86 | Serie A TIM | 17.500 coins | +20% | +81.4% | Esticada |
+| Andrea Barzagli | 88 | Serie A TIM | 42k coins | +26.7% | +66% | Esticada |
+| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +21.4% | +36% | Esticada |
+| Romelu Lukaku | 86 | Serie A TIM | 51k coins | +19% | +30.6% | Momentum moderado |
+| Kouadio Manu Koné | 88 | Serie A TIM | 137k coins | +15.7% | +27.3% | Momentum moderado |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 46k coins | +19.7% | +20.5% | Momentum moderado |
+| Iván Córdoba | 87 | Serie A TIM | 30k coins | +8.1% | +20% | Momentum moderado |
+| Manuel Akanji | 86 | Serie A TIM | 54k coins | +1.1% | +18.6% | Entrada a observar |
+| Juan Cuadrado | 86 | Serie A TIM | 47k coins | +11.9% | +18.2% | Momentum moderado |
+| Esteban Cambiasso | 86 | Serie A TIM | 18.250 coins | +30.4% | +12.3% | Esticada |
+| Iván Córdoba | 88 | Serie A TIM | 175k coins | +3.6% | +12.2% | Entrada a observar |
+| Gervinho | 87 | Serie A TIM | 129k coins | +29% | +11.2% | Esticada |
+| Riccardo Orsolini | 85 | Serie A TIM | 28k coins | +8.6% | +9.6% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 46k coins | +18.4% | +6.9% | Momentum moderado |
+| Daniele De Rossi | 89 | Serie A TIM | 191k coins | +9.1% | +6.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Andrea Barzagli (88)** — 42k coins, **+70% em 7 dias** (+29.8% em 24h). Preço +58% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Bierhoff (86)** — 17.500 coins, **+81.4% em 7 dias** (+20% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hidetoshi Nakata (87)** — 15.750 coins, **+59.1% em 7 dias** (+27.3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrea Barzagli (88)** — 42k coins, **+66% em 7 dias** (+26.7% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nuno Tavares (91)** — 59k coins, **+56.4% em 7 dias** (+9.3% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Mancini (85)** — 26k coins, **+36% em 7 dias** (+21.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan David Cabal (85)** — 22k coins, **+49.3% em 7 dias** (+20.5% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Romelu Lukaku (86)** — 51k coins, **+30.6% em 7 dias** (+19% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Milito (88)** — 17.000 coins, **+44% em 7 dias** (+9.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kouadio Manu Koné (88)** — 137k coins, **+27.3% em 7 dias** (+15.7% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Andrea Barzagli (88, Serie A TIM) lidera, com +70% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Oliver Bierhoff (86, Serie A TIM) lidera, com +81.4% em 7 dias a 17.500 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
