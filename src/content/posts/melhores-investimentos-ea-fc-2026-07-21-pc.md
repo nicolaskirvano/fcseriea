@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:30:19.000Z
+pubDatetime: 2026-07-21T13:30:19.000Z
 title: "Investimentos EA FC: Serie A em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Denzel Dumfries (89, Serie A TIM) lidera, com +82.6% em 7 dias a 63k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Scott McTominay (87, Serie A TIM) lidera, com +80.3% em 7 dias a 119k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Denzel Dumfries (89) acumula **+82.6% em 7 dias** a 63k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Scott McTominay (87) acumula **+80.3% em 7 dias** a 119k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.2% em 24h** e **+29.0% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.3% em 24h** e **+37.0% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Denzel Dumfries | 89 | Serie A TIM | 63k coins | +1.6% | +82.6% | Esticada |
-| Scott McTominay | 87 | Serie A TIM | 119k coins | +40% | +80.3% | Esticada |
-| Charles De Ketelaere | 88 | Serie A TIM | 110k coins | +25.7% | +46.7% | Esticada |
-| Maicon | 90 | Serie A TIM | 166k coins | +20% | +46.1% | Esticada |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 50k coins | +4.7% | +39.2% | Momentum moderado |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 52k coins | +8.2% | +32.1% | Momentum moderado |
+| Scott McTominay | 87 | Serie A TIM | 119k coins | +19% | +80.3% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 60k coins | +9.7% | +79.7% | Esticada |
+| Juan Cuadrado | 86 | Serie A TIM | 50k coins | +25.9% | +71.6% | Esticada |
+| Nuno Tavares | 91 | Serie A TIM | 94k coins | +38.5% | +71.4% | Esticada |
+| Gustav Isaksen | 87 | Serie A TIM | 61k coins | +16% | +57.7% | Momentum moderado |
+| Charles De Ketelaere | 88 | Serie A TIM | 110k coins | +39.2% | +46.7% | Esticada |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 50k coins | +7.6% | +39.2% | Momentum moderado |
+| Claudio Marchisio | 87 | Serie A TIM | 25k coins | +1% | +37% | Momentum moderado |
 | Antonio Di Natale | 88 | Serie A TIM | 110k coins | +22.2% | +31.7% | Esticada |
-| Francisco Conceição | 84 | Serie A TIM | 50k coins | +32.5% | +29% | Esticada |
-| Nico Paz | 90 | Serie A TIM | 96k coins | +29.9% | +28.2% | Esticada |
-| Hidetoshi Nakata | 89 | Serie A TIM | 30k coins | +1.7% | +27.4% | Momentum moderado |
-| Nicolae Stanciu | 86 | Serie A TIM | 99k coins | +37.1% | +21.2% | Esticada |
-| André-Franck Zambo Anguissa | 84 | Serie A TIM | 47k coins | +11.2% | +20.4% | Momentum moderado |
-| Christian Pulisic | 86 | Serie A TIM | 55k coins | +33.3% | +20.2% | Esticada |
-| Manuel Akanji | 86 | Serie A TIM | 47k coins | +6.1% | +18.6% | Momentum moderado |
-| Moise Kean | 86 | Serie A TIM | 50k coins | +28.6% | +17.2% | Esticada |
+| Maicon | 90 | Serie A TIM | 162k coins | +17.1% | +31.2% | Momentum moderado |
+| Hidetoshi Nakata | 89 | Serie A TIM | 30k coins | +8.8% | +30.5% | Momentum moderado |
+| Francisco Conceição | 84 | Serie A TIM | 49k coins | +4.7% | +28.4% | Momentum moderado |
+| Donyell Malen | 89 | Serie A TIM | 49k coins | +14.3% | +26.6% | Momentum moderado |
+| André-Franck Zambo Anguissa | 84 | Serie A TIM | 48k coins | +13.8% | +23.4% | Momentum moderado |
+| Pierre Kalulu | 91 | Serie A TIM | 68k coins | +1.5% | +22.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Denzel Dumfries (89)** — 63k coins, **+82.6% em 7 dias** (+1.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Scott McTominay (87)** — 119k coins, **+80.3% em 7 dias** (+19% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Scott McTominay (87)** — 119k coins, **+80.3% em 7 dias** (+40% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 60k coins, **+79.7% em 7 dias** (+9.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Charles De Ketelaere (88)** — 110k coins, **+46.7% em 7 dias** (+25.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan Cuadrado (86)** — 50k coins, **+71.6% em 7 dias** (+25.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maicon (90)** — 166k coins, **+46.1% em 7 dias** (+20% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (91)** — 94k coins, **+71.4% em 7 dias** (+38.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (86)** — 50k coins, **+39.2% em 7 dias** (+4.7% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gustav Isaksen (87)** — 61k coins, **+57.7% em 7 dias** (+16% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Denzel Dumfries (89, Serie A TIM) lidera, com +82.6% em 7 dias a 63k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Scott McTominay (87, Serie A TIM) lidera, com +80.3% em 7 dias a 119k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
