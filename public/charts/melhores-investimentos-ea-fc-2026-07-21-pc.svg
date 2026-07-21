@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marek Hamšík</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rasmus Højlund</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rasmus Højlund</text>
-<rect x="285" y="153" width="460" height="28" rx="7" fill="#22c55e"/>
-<text x="755" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Scott McTominay</text>
-<rect x="285" y="211" width="448" height="28" rx="7" fill="#22c55e"/>
-<text x="743" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Juan Cuadrado</text>
+<rect x="285" y="153" width="423" height="28" rx="7" fill="#22c55e"/>
+<text x="718" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovane</text>
+<rect x="285" y="211" width="370" height="28" rx="7" fill="#22c55e"/>
+<text x="665" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Milito</text>
-<rect x="285" y="269" width="431" height="28" rx="7" fill="#22c55e"/>
-<text x="726" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gustav Isaksen</text>
-<rect x="285" y="327" width="251" height="28" rx="7" fill="#22c55e"/>
-<text x="546" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovanni Di Lorenzo</text>
-<rect x="285" y="385" width="219" height="28" rx="7" fill="#22c55e"/>
-<text x="514" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.2%</text>
+<rect x="285" y="269" width="343" height="28" rx="7" fill="#22c55e"/>
+<text x="638" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antonio Di Natale</text>
+<rect x="285" y="327" width="215" height="28" rx="7" fill="#22c55e"/>
+<text x="510" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hidetoshi Nakata</text>
+<rect x="285" y="385" width="188" height="28" rx="7" fill="#22c55e"/>
+<text x="483" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.9%</text>
 </svg>
