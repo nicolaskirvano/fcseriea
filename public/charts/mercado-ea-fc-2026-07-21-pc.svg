@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ché Adams</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mike Maignan</text>
-<rect x="285" y="153" width="473" height="28" rx="7" fill="#22c55e"/>
-<text x="768" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Federico Dimarco</text>
-<rect x="285" y="211" width="442" height="28" rx="7" fill="#22c55e"/>
-<text x="737" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
-<rect x="285" y="269" width="394" height="28" rx="7" fill="#22c55e"/>
-<text x="689" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maicon</text>
-<rect x="285" y="327" width="334" height="28" rx="7" fill="#22c55e"/>
-<text x="629" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lorenzo Pellegrini</text>
-<rect x="285" y="385" width="321" height="28" rx="7" fill="#22c55e"/>
-<text x="616" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gervinho</text>
+<rect x="285" y="153" width="437" height="28" rx="7" fill="#22c55e"/>
+<text x="732" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matías Soulé</text>
+<rect x="285" y="211" width="354" height="28" rx="7" fill="#22c55e"/>
+<text x="649" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maicon</text>
+<rect x="285" y="269" width="345" height="28" rx="7" fill="#22c55e"/>
+<text x="640" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khéphren Thuram</text>
+<rect x="285" y="327" width="309" height="28" rx="7" fill="#22c55e"/>
+<text x="604" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Claudio Marchisio</text>
+<rect x="285" y="385" width="279" height="28" rx="7" fill="#22c55e"/>
+<text x="574" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.8%</text>
 </svg>
