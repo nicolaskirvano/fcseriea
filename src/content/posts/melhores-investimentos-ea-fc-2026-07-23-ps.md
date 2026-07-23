@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:30:10.000Z
+pubDatetime: 2026-07-23T13:30:09.000Z
 title: "Investimentos EA FC: Serie A em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Junior Messias (87, Serie A TIM) lidera, com +57.7% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gervinho (87, Serie A TIM) lidera, com +50.8% em 7 dias a 140k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Junior Messias (87) acumula **+57.7% em 7 dias** a 28k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Gervinho (87) acumula **+50.8% em 7 dias** a 140k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+25.7% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.8% em 24h** e **+17.6% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Junior Messias | 87 | Serie A TIM | 28k coins | +16.7% | +57.7% | Momentum moderado |
-| Weston McKennie | 92 | Serie A TIM | 55k coins | +10% | +53.8% | Momentum moderado |
-| Charles De Ketelaere | 88 | Serie A TIM | 111k coins | +1.8% | +43.4% | Momentum moderado |
-| Weston McKennie | 84 | Serie A TIM | 59k coins | +35.6% | +38.8% | Esticada |
-| Moise Kean | 86 | Serie A TIM | 45k coins | +25% | +35.1% | Esticada |
-| Marek Hamšík | 89 | Serie A TIM | 50k coins | +26.6% | +30.7% | Esticada |
-| Esteban Cambiasso | 86 | Serie A TIM | 16.750 coins | +25% | +27.3% | Esticada |
-| Santiago Castro | 87 | Serie A TIM | 21k coins | +37.5% | +25.7% | Esticada |
-| Semih Kılıçsoy | 84 | Serie A TIM | 56k coins | +7.5% | +25.1% | Momentum moderado |
-| Gustav Isaksen | 87 | Serie A TIM | 43k coins | +16.2% | +24% | Momentum moderado |
-| Daniele De Rossi | 89 | Serie A TIM | 245k coins | +17.8% | +22.5% | Momentum moderado |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 80k coins | +28% | +20.3% | Esticada |
-| Christian Pulisic | 87 | Serie A TIM | 15.000 coins | +15.4% | +15.4% | Momentum moderado |
-| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +1.7% | +13.5% | Entrada a observar |
-| Gift Orban | 86 | Serie A TIM | 45k coins | +10.6% | +11.2% | Momentum moderado |
+| Gervinho | 87 | Serie A TIM | 140k coins | +17.2% | +50.8% | Momentum moderado |
+| Weston McKennie | 84 | Serie A TIM | 57k coins | +31% | +34.1% | Esticada |
+| Éderson | 87 | Serie A TIM | 43k coins | +28.6% | +23.8% | Esticada |
+| Rui Costa | 87 | Serie A TIM | 15.000 coins | +11.1% | +22.4% | Momentum moderado |
+| Alessandro Bastoni | 91 | Serie A TIM | 75k coins | +22.3% | +21.2% | Esticada |
+| Semih Kılıçsoy | 84 | Serie A TIM | 38k coins | +3% | +21.2% | Entrada a observar |
+| Bremer | 87 | Serie A TIM | 44k coins | +21.1% | +21.1% | Esticada |
+| Paulo Dybala | 91 | Serie A TIM | 237k coins | +11.1% | +17.6% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 40k coins | +15.8% | +15.8% | Momentum moderado |
+| Pervis Estupiñán | 87 | Serie A TIM | 34k coins | +19.3% | +15.2% | Momentum moderado |
+| Daniele De Rossi | 89 | Serie A TIM | 220k coins | +16.9% | +14.6% | Momentum moderado |
+| André-Franck Zambo Anguissa | 84 | Serie A TIM | 38k coins | +3% | +13.4% | Entrada a observar |
+| Esteban Cambiasso | 86 | Serie A TIM | 15.250 coins | +10.7% | +12.7% | Momentum moderado |
+| Andrea Barzagli | 88 | Serie A TIM | 23k coins | +3.4% | +12.3% | Entrada a observar |
+| Filip Kostić | 88 | Serie A TIM | 23k coins | +4.5% | +9.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Junior Messias (87)** — 28k coins, **+57.7% em 7 dias** (+16.7% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gervinho (87)** — 140k coins, **+50.8% em 7 dias** (+17.2% em 24h). Preço +58% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Weston McKennie (92)** — 55k coins, **+53.8% em 7 dias** (+10% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (84)** — 57k coins, **+34.1% em 7 dias** (+31% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Charles De Ketelaere (88)** — 111k coins, **+43.4% em 7 dias** (+1.8% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Éderson (87)** — 43k coins, **+23.8% em 7 dias** (+28.6% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Weston McKennie (84)** — 59k coins, **+38.8% em 7 dias** (+35.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rui Costa (87)** — 15.000 coins, **+22.4% em 7 dias** (+11.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moise Kean (86)** — 45k coins, **+35.1% em 7 dias** (+25% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 75k coins, **+21.2% em 7 dias** (+22.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Junior Messias (87, Serie A TIM) lidera, com +57.7% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gervinho (87, Serie A TIM) lidera, com +50.8% em 7 dias a 140k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
