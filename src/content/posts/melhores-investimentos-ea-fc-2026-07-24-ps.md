@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:30:10.000Z
+pubDatetime: 2026-07-24T16:30:09.000Z
 title: "Investimentos EA FC: Serie A em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Lautaro Martínez (90, Serie A TIM) lidera, com +55.6% em 7 dias a 115k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Matías Soulé (86, Serie A TIM) lidera, com +59.3% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lautaro Martínez (90) acumula **+55.6% em 7 dias** a 115k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Matías Soulé (86) acumula **+59.3% em 7 dias** a 34k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.1% em 24h** e **+8.1% em 7 dias**.
-- **6 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 13 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.1% em 24h** e **+14.0% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,32 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lautaro Martínez | 90 | Serie A TIM | 115k coins | +40% | +55.6% | Esticada |
-| Matías Soulé | 86 | Serie A TIM | 34k coins | +12.4% | +28.3% | Momentum moderado |
-| Filip Kostić | 88 | Serie A TIM | 22k coins | +14.4% | +19.8% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 35k coins | +30% | +17.4% | Esticada |
-| Juan David Cabal | 85 | Serie A TIM | 25k coins | +27.5% | +15.9% | Esticada |
-| Hakan Çalhanoğlu | 87 | Serie A TIM | 41k coins | +17.1% | +11.6% | Momentum moderado |
-| Moise Kean | 86 | Serie A TIM | 46k coins | +6.9% | +8.1% | Momentum moderado |
-| Juan Cuadrado | 86 | Serie A TIM | 37k coins | +24.2% | +8% | Esticada |
-| Marek Hamšík | 88 | Serie A TIM | 42k coins | +8.9% | +7.5% | Momentum moderado |
-| Mariano Troilo | 86 | Serie A TIM | 48k coins | +32.7% | +7% | Esticada |
-| Tarik Muharemović | 86 | Serie A TIM | 53k coins | +6% | +6% | Momentum moderado |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 44k coins | +4.7% | +5.4% | Entrada a observar |
-| Mattia Zaccagni | 87 | Serie A TIM | 22k coins | +33.9% | +5.1% | Esticada |
+| Matías Soulé | 86 | Serie A TIM | 34k coins | +26.9% | +59.3% | Esticada |
+| Weston McKennie | 84 | Serie A TIM | 48k coins | +27.8% | +41.9% | Esticada |
+| Filip Kostić | 88 | Serie A TIM | 32k coins | +40% | +38.5% | Esticada |
+| Nicolae Stanciu | 86 | Serie A TIM | 58k coins | +3.5% | +34.5% | Momentum moderado |
+| Wesley | 88 | Serie A TIM | 103k coins | +22.8% | +29.6% | Esticada |
+| Ché Adams | 89 | Serie A TIM | 36k coins | +8.1% | +23.1% | Momentum moderado |
+| Bremer | 87 | Serie A TIM | 50k coins | +33.3% | +19.5% | Esticada |
+| Juan David Cabal | 85 | Serie A TIM | 24k coins | +25.6% | +14% | Esticada |
+| Dušan Vlahović | 86 | Serie A TIM | 46k coins | +22.9% | +13.5% | Esticada |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 40k coins | +10.8% | +11.6% | Momentum moderado |
+| Manuel Locatelli | 86 | Serie A TIM | 48k coins | +1.1% | +9.2% | Entrada a observar |
+| Martin Baturina | 84 | Serie A TIM | 42k coins | +18.3% | +8.4% | Momentum moderado |
+| Juan Cuadrado | 86 | Serie A TIM | 37k coins | +21.1% | +8% | Esticada |
+| Wesley Sneijder | 93 | Serie A TIM | 250k coins | +3.9% | +7.6% | Entrada a observar |
+| Nicolò Zaniolo | 86 | Serie A TIM | 18.500 coins | +8.8% | +5.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lautaro Martínez (90)** — 115k coins, **+55.6% em 7 dias** (+40% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (86)** — 34k coins, **+59.3% em 7 dias** (+26.9% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Soulé (86)** — 34k coins, **+28.3% em 7 dias** (+12.4% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (84)** — 48k coins, **+41.9% em 7 dias** (+27.8% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Filip Kostić (88)** — 22k coins, **+19.8% em 7 dias** (+14.4% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Filip Kostić (88)** — 32k coins, **+38.5% em 7 dias** (+40% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adrien Rabiot (86)** — 35k coins, **+17.4% em 7 dias** (+30% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolae Stanciu (86)** — 58k coins, **+34.5% em 7 dias** (+3.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan David Cabal (85)** — 25k coins, **+15.9% em 7 dias** (+27.5% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wesley (88)** — 103k coins, **+29.6% em 7 dias** (+22.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -96,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Lautaro Martínez (90, Serie A TIM) lidera, com +55.6% em 7 dias a 115k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Matías Soulé (86, Serie A TIM) lidera, com +59.3% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

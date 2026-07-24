@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:30:12.000Z
+pubDatetime: 2026-07-24T16:30:10.000Z
 title: "Jogadores baratos EA FC: Serie A em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 11.473 coins.
+- **Preço médio das 12 opções:** 13.062 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 2.200 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12.750 coins | +6% |
-| Diego Milito | 88 | ST | Serie A TIM | 12.250 coins | -5.9% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12.750 coins | -3.8% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 11.500 coins | -9.6% |
-| Rui Costa | 87 | CAM | Serie A TIM | 12.000 coins | -15% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12.500 coins | +4.3% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 12.500 coins | -13.8% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 13.000 coins | +10.4% |
-| Iván Córdoba | 87 | CB | Serie A TIM | 13.750 coins | -7.8% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.000 coins | -4.2% |
-| Loïs Openda | 83 | ST | Serie A TIM | 2.200 coins | +23.1% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12.750 coins | +2% |
+| Diego Milito | 88 | ST | Serie A TIM | 12.000 coins | +2.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13.500 coins | +9.8% |
+| Rui Costa | 87 | CAM | Serie A TIM | 12.250 coins | -9.1% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 12.250 coins | -9.3% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 13.000 coins | -9.4% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 13.250 coins | +8.3% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 13.750 coins | +12.8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.500 coins | -6.1% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14.750 coins | -3.2% |
+| Seydou Doumbia | 85 | ST | Serie A TIM | 13.250 coins | -12.5% |
+| Gervinho | 85 | LW | Serie A TIM | 14.500 coins | +11.5% |
 
 
 ## 📈 Destaques
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12.750 coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13.500 coins**
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12.250 coins**
 
-- **Rui Costa (87, CAM)** da Serie A TIM, a apenas **12.000 coins**
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Andrea Barzagli (87, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Andrea Barzagli (87, CB) por 12.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Wesley Sneijder (88, CAM) por 12.750 coins é a referência de rating deste recorte.
+- **Meio:** Wesley Sneijder (88, CAM) por 13.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Gianluca Vialli (89, ST) por 12.750 coins é a referência de rating deste recorte.
 
