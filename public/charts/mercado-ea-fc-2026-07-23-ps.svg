@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jhon Lucumí</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dušan Vlahović</text>
-<rect x="285" y="153" width="458" height="28" rx="7" fill="#22c55e"/>
-<text x="753" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolae Stanciu</text>
-<rect x="285" y="211" width="404" height="28" rx="7" fill="#22c55e"/>
-<text x="699" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arthur Atta</text>
-<rect x="285" y="269" width="325" height="28" rx="7" fill="#22c55e"/>
-<text x="620" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gift Orban</text>
-<rect x="285" y="327" width="296" height="28" rx="7" fill="#22c55e"/>
-<text x="591" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marek Hamšík</text>
-<rect x="285" y="385" width="281" height="28" rx="7" fill="#22c55e"/>
-<text x="576" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marek Hamšík</text>
+<rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
+<text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lautaro Martínez</text>
+<rect x="285" y="211" width="363" height="28" rx="7" fill="#22c55e"/>
+<text x="658" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rui Costa</text>
+<rect x="285" y="269" width="295" height="28" rx="7" fill="#22c55e"/>
+<text x="590" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Denzel Dumfries</text>
+<rect x="285" y="327" width="269" height="28" rx="7" fill="#22c55e"/>
+<text x="564" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jamie Vardy</text>
+<rect x="285" y="385" width="200" height="28" rx="7" fill="#22c55e"/>
+<text x="495" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.5%</text>
 </svg>
