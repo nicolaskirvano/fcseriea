@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:30:18.000Z
+pubDatetime: 2026-07-25T22:30:17.000Z
 title: "Mercado EA FC em 25/07: Serie A — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Kenan Yıldız (87, Serie A TIM), com +52.5% em 24h, a 58k coins no PC."
+    a: "Hidetoshi Nakata (88, Serie A TIM), com +57.3% em 24h, a 35k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Lautaro Martínez (90), -47.5% em 24h, a 72k coins."
+    a: "Gustav Isaksen (87), -48.4% em 24h, a 40k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 36 cartas em alta contra 64 em queda (média -6.28%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 41 cartas em alta contra 53 em queda (média -2.39%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **36 valorizações** contra **64 quedas** entre as cartas relevantes, com média de **-6.28%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **41 valorizações** contra **53 quedas** entre as cartas relevantes, com média de **-2.39%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Kenan Yıldız (87) **+52.5%** · 🔴 **Maior baixa:** Lautaro Martínez (90) **-47.5%**
+> 🟢 **Maior alta:** Hidetoshi Nakata (88) **+57.3%** · 🔴 **Maior baixa:** Gustav Isaksen (87) **-48.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Serie A — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.0% entre as cartas que se moveram; o universo observado reúne 135 cartas.
+- **Amplitude do dia:** 105.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.6% entre as cartas que se moveram; o universo observado reúne 130 cartas.
 - **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kenan Yıldız | 87 | Serie A TIM | 58k coins | +52.5% | -10.9% |
-| Antonio Di Natale | 88 | Serie A TIM | 74k coins | +50.5% | +6.4% |
-| Juan Cuadrado | 86 | Serie A TIM | 60k coins | +50% | +75.2% |
-| Jonathan David | 90 | Serie A TIM | 70k coins | +49.7% | +10.2% |
-| Kenan Yıldız | 88 | Serie A TIM | 280k coins | +48.9% | +9.8% |
-| Arthur Atta | 85 | Serie A TIM | 42k coins | +48.7% | -44% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 53k coins | +48.6% | -6% |
-| Kristian Thorstvedt | 86 | Serie A TIM | 50k coins | +32.5% | +22% |
-| Iván Córdoba | 87 | Serie A TIM | 22k coins | +32.4% | +16.9% |
-| Romelu Lukaku | 86 | Serie A TIM | 55k coins | +31% | +15.8% |
+| Hidetoshi Nakata | 88 | Serie A TIM | 35k coins | +57.3% | +37.3% |
+| Francisco Conceição | 89 | Serie A TIM | 62k coins | +56.9% | -22.6% |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 62k coins | +51.2% | +36.8% |
+| Jonathan David | 90 | Serie A TIM | 55k coins | +49.7% | +16.7% |
+| Rafael Leão | 93 | Serie A TIM | 1.50M coins | +47.9% | -25% |
+| Federico Dimarco | 87 | Serie A TIM | 94k coins | +47.7% | +142.3% |
+| Iván Córdoba | 87 | Serie A TIM | 20k coins | +46.4% | +3.8% |
+| Kenan Yıldız | 87 | Serie A TIM | 54k coins | +44% | -21.2% |
+| Antonio Di Natale | 88 | Serie A TIM | 73k coins | +36% | -2.9% |
+| Denzel Dumfries | 89 | Serie A TIM | 38k coins | +33.9% | -21.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **25/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kenan Yıldız (87)** subiu **+52.5%** em 24h, a **58k coins** (faixa do dia: 38k–100k). Está -17% abaixo da média de 7 dias (descontada).
+- **Hidetoshi Nakata (88)** subiu **+57.3%** em 24h, a **35k coins** (faixa do dia: 19.500–35k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Antonio Di Natale (88)** subiu **+50.5%** em 24h, a **74k coins** (faixa do dia: 49k–110k). Está -8% abaixo da média de 7 dias (descontada).
+- **Francisco Conceição (89)** subiu **+56.9%** em 24h, a **62k coins** (faixa do dia: 30k–95k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Juan Cuadrado (86)** subiu **+50%** em 24h, a **60k coins** (faixa do dia: 38k–60k). Está +29% acima da média de 7 dias (aquecida).
+- **Hakan Çalhanoğlu (87)** subiu **+51.2%** em 24h, a **62k coins** (faixa do dia: 35k–65k). Está +36% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lautaro Martínez | 90 | Serie A TIM | 72k coins | -47.5% | -51.9% |
-| Rafael Leão | 87 | Serie A TIM | 490k coins | -45.5% | -71.4% |
-| Armand Laurienté | 86 | Serie A TIM | 28k coins | -44.7% | +13.4% |
-| Gervinho | 87 | Serie A TIM | 44k coins | -44.7% | -39% |
-| Marco Carnesecchi | 87 | Serie A TIM | 44k coins | -41% | +27.3% |
-| Kevin De Bruyne | 89 | Serie A TIM | 130k coins | -35.1% | -50.4% |
-| Paulo Dybala | 91 | Serie A TIM | 153k coins | -31.8% | -22% |
-| Antonio Di Natale | 89 | Serie A TIM | 132k coins | -30.5% | -60% |
-| Moise Kean | 86 | Serie A TIM | 35k coins | -30.5% | -25.3% |
-| Scott McTominay | 87 | Serie A TIM | 95k coins | -29.6% | -4% |
+| Gustav Isaksen | 87 | Serie A TIM | 40k coins | -48.4% | -25% |
+| Daniele De Rossi | 89 | Serie A TIM | 98k coins | -48.2% | -46.5% |
+| Gervinho | 87 | Serie A TIM | 31k coins | -45.7% | -66.6% |
+| Armand Laurienté | 86 | Serie A TIM | 28k coins | -44.2% | +14.4% |
+| Kevin De Bruyne | 88 | Serie A TIM | 301k coins | -28.7% | -26.6% |
+| Nuno Tavares | 91 | Serie A TIM | 75k coins | -28.3% | +5.2% |
+| Maicon | 90 | Serie A TIM | 113k coins | -26.9% | -9.3% |
+| Moise Kean | 86 | Serie A TIM | 35k coins | -26.8% | -22.3% |
+| Lautaro Martínez | 89 | Serie A TIM | 70k coins | -22.2% | +55.6% |
+| Bremer | 88 | Serie A TIM | 230k coins | -20.7% | -1.7% |
 
 
 ### Análise das baixas
 
-- **Lautaro Martínez (90)** caiu **-47.5%** em 24h, a **72k coins** (faixa do dia: 60k–141k). Está -48% abaixo da média de 7 dias (descontada).
+- **Gustav Isaksen (87)** caiu **-48.4%** em 24h, a **40k coins** (faixa do dia: 40k–78k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Rafael Leão (87)** caiu **-45.5%** em 24h, a **490k coins** (faixa do dia: 107k–550k). Está -35% abaixo da média de 7 dias (descontada).
+- **Daniele De Rossi (89)** caiu **-48.2%** em 24h, a **98k coins** (faixa do dia: 98k–210k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Armand Laurienté (86)** caiu **-44.7%** em 24h, a **28k coins** (faixa do dia: 22k–50k). Está -9% abaixo da média de 7 dias (descontada).
+- **Gervinho (87)** caiu **-45.7%** em 24h, a **31k coins** (faixa do dia: 24k–58k). Está -68% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kenan Yıldız já avançou 52.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Hidetoshi Nakata já avançou 57.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lautaro Martínez recuou -47.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gustav Isaksen recuou -48.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Kenan Yıldız (87, Serie A TIM), com +52.5% em 24h, a 58k coins no PC.
+Hidetoshi Nakata (88, Serie A TIM), com +57.3% em 24h, a 35k coins no PC.
 
 **E a maior queda do dia?**
-Lautaro Martínez (90), -47.5% em 24h, a 72k coins.
+Gustav Isaksen (87), -48.4% em 24h, a 40k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 36 cartas em alta contra 64 em queda (média -6.28%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 41 cartas em alta contra 53 em queda (média -2.39%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

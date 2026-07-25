@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:30:19.000Z
+pubDatetime: 2026-07-25T22:30:18.000Z
 title: "Investimentos EA FC: Serie A em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Nicolò Zaniolo (86, Serie A TIM) lidera, com +73.9% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nicolò Zaniolo (86, Serie A TIM) lidera, com +44.9% em 7 dias a 23k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nicolò Zaniolo (86) acumula **+73.9% em 7 dias** a 29k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nicolò Zaniolo (86) acumula **+44.9% em 7 dias** a 23k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+21.8% em 7 dias**.
-- **6 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+4.8% em 24h** e **+8.9% em 7 dias**.
+- **0 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nicolò Zaniolo | 86 | Serie A TIM | 29k coins | +15.4% | +73.9% | Esticada |
-| Matías Soulé | 86 | Serie A TIM | 35k coins | +23.9% | +66.7% | Esticada |
-| Martin Baturina | 84 | Serie A TIM | 47k coins | +21.2% | +58.8% | Esticada |
-| Semih Kılıçsoy | 84 | Serie A TIM | 60k coins | +1.7% | +41% | Momentum moderado |
-| Nico Paz | 86 | Serie A TIM | 45k coins | +5.6% | +28% | Momentum moderado |
-| Kristian Thorstvedt | 86 | Serie A TIM | 50k coins | +32.5% | +22% | Esticada |
-| Yann Aurel Bisseck | 84 | Serie A TIM | 45k coins | +13.2% | +21.6% | Momentum moderado |
-| Iván Córdoba | 87 | Serie A TIM | 22k coins | +32.4% | +16.9% | Esticada |
-| Luca Mazzitelli | 84 | Serie A TIM | 45k coins | +10.7% | +16.1% | Momentum moderado |
-| Romelu Lukaku | 86 | Serie A TIM | 55k coins | +31% | +15.8% | Esticada |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +4.2% | +9.3% | Entrada a observar |
+| Nicolò Zaniolo | 86 | Serie A TIM | 23k coins | +4.2% | +44.9% | Momentum moderado |
+| Matías Soulé | 84 | Serie A TIM | 50k coins | +4.2% | +10.5% | Entrada a observar |
+| Weston McKennie | 92 | Serie A TIM | 50k coins | +1% | +9.9% | Entrada a observar |
+| André-Franck Zambo Anguissa | 84 | Serie A TIM | 48k coins | +12.4% | +8% | Momentum moderado |
+| Riccardo Orsolini | 85 | Serie A TIM | 24k coins | +11.6% | +6% | Momentum moderado |
 | Tarik Muharemović | 86 | Serie A TIM | 50k coins | +5.3% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nicolò Zaniolo (86)** — 29k coins, **+73.9% em 7 dias** (+15.4% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolò Zaniolo (86)** — 23k coins, **+44.9% em 7 dias** (+4.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Soulé (86)** — 35k coins, **+66.7% em 7 dias** (+23.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (84)** — 50k coins, **+10.5% em 7 dias** (+4.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Martin Baturina (84)** — 47k coins, **+58.8% em 7 dias** (+21.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (92)** — 50k coins, **+9.9% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Semih Kılıçsoy (84)** — 60k coins, **+41% em 7 dias** (+1.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **André-Franck Zambo Anguissa (84)** — 48k coins, **+8% em 7 dias** (+12.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Paz (86)** — 45k coins, **+28% em 7 dias** (+5.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riccardo Orsolini (85)** — 24k coins, **+6% em 7 dias** (+11.6% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Nicolò Zaniolo (86, Serie A TIM) lidera, com +73.9% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nicolò Zaniolo (86, Serie A TIM) lidera, com +44.9% em 7 dias a 23k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
