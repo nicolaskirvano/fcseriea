@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:30:09.000Z
+pubDatetime: 2026-07-25T19:30:09.000Z
 title: "Mercado EA FC em 25/07: Serie A — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Esteban Cambiasso (86, Serie A TIM), com +43.3% em 24h, a 20k coins no Console (PS)."
+    a: "Gustav Isaksen (87, Serie A TIM), com +47.5% em 24h, a 58k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Lúcio (89), -49.6% em 24h, a 28k coins."
+    a: "Lautaro Martínez (90), -48.5% em 24h, a 97k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 45 cartas em alta contra 51 em queda (média -3.77%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 38 cartas em alta contra 51 em queda (média -2.16%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **25/07/2026** no Console (PS): clima **vendedor** — a maioria das cartas recuou. **45 valorizações** contra **51 quedas** entre as cartas relevantes, com média de **-3.77%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no Console (PS): clima **vendedor** — a maioria das cartas recuou. **38 valorizações** contra **51 quedas** entre as cartas relevantes, com média de **-2.16%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Esteban Cambiasso (86) **+43.3%** · 🔴 **Maior baixa:** Lúcio (89) **-49.6%**
+> 🟢 **Maior alta:** Gustav Isaksen (87) **+47.5%** · 🔴 **Maior baixa:** Lautaro Martínez (90) **-48.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Serie A — Console (PS)](/charts/mercado-ea-fc-2026-07-25-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **25/07/2026** no Console (PS): clima **vendedor** — a maioria das c
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.9% entre as cartas que se moveram; o universo observado reúne 115 cartas.
+- **Amplitude do dia:** 96.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.7% entre as cartas que se moveram; o universo observado reúne 121 cartas.
 - **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Esteban Cambiasso | 86 | Serie A TIM | 20k coins | +43.3% | +43.3% |
-| Federico Dimarco | 87 | Serie A TIM | 53k coins | +41.6% | +31.3% |
-| Gift Orban | 86 | Serie A TIM | 55k coins | +34.1% | +15.2% |
-| Manuel Akanji | 86 | Serie A TIM | 42k coins | +32.5% | +25% |
-| Matías Soulé | 84 | Serie A TIM | 49k coins | +25.8% | +2.6% |
-| Romelu Lukaku | 86 | Serie A TIM | 42k coins | +21.7% | +12% |
-| Pervis Estupiñán | 87 | Serie A TIM | 39k coins | +20.7% | +15% |
-| Tarik Muharemović | 86 | Serie A TIM | 60k coins | +20.6% | 0% |
-| Scott McTominay | 91 | Serie A TIM | 290k coins | +20.4% | +38.5% |
-| De Gea | 89 | Serie A TIM | 113k coins | +20.2% | +34.5% |
+| Gustav Isaksen | 87 | Serie A TIM | 58k coins | +47.5% | +45.7% |
+| Víctor Ibarbo | 85 | Serie A TIM | 21k coins | +45.9% | -9.2% |
+| Kevin De Bruyne | 89 | Serie A TIM | 90k coins | +36.5% | +1.8% |
+| Antonio Di Natale | 88 | Serie A TIM | 40k coins | +33.9% | -37.6% |
+| Matías Soulé | 86 | Serie A TIM | 23k coins | +30.1% | +17.3% |
+| Charles De Ketelaere | 88 | Serie A TIM | 112k coins | +18.9% | -11% |
+| Manuel Locatelli | 86 | Serie A TIM | 55k coins | +18.3% | +29.4% |
+| Matías Soulé | 84 | Serie A TIM | 48k coins | +15.9% | +5.6% |
+| Scott McTominay | 91 | Serie A TIM | 215k coins | +15.8% | -14.7% |
+| Maicon | 89 | Serie A TIM | 215k coins | +14.4% | -8.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **25/07/2026** no Console (PS): clima **vendedor** — a maioria das c
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Esteban Cambiasso (86)** subiu **+43.3%** em 24h, a **20k coins** (faixa do dia: 12.500–32k). Está +28% acima da média de 7 dias (aquecida).
+- **Gustav Isaksen (87)** subiu **+47.5%** em 24h, a **58k coins** (faixa do dia: 40k–64k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Federico Dimarco (87)** subiu **+41.6%** em 24h, a **53k coins** (faixa do dia: 38k–76k). Está em linha com a média de 7 dias (+0%).
+- **Víctor Ibarbo (85)** subiu **+45.9%** em 24h, a **21k coins** (faixa do dia: 11.250–28k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Gift Orban (86)** subiu **+34.1%** em 24h, a **55k coins** (faixa do dia: 38k–55k). Está +26% acima da média de 7 dias (aquecida).
+- **Kevin De Bruyne (89)** subiu **+36.5%** em 24h, a **90k coins** (faixa do dia: 87k–116k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lúcio | 89 | Serie A TIM | 28k coins | -49.6% | -62% |
-| Antonio Di Natale | 92 | Serie A TIM | 251k coins | -48.8% | -53.5% |
-| Daniele De Rossi | 91 | Serie A TIM | 145k coins | -41.8% | -31.3% |
-| Dušan Vlahović | 86 | Serie A TIM | 32k coins | -39% | -22.9% |
-| Luka Modrić | 90 | Serie A TIM | 60k coins | -33% | -40.4% |
-| Rafael Leão | 93 | Serie A TIM | 844k coins | -31.2% | -7.4% |
-| Maicon | 88 | Serie A TIM | 30k coins | -29.7% | -59.3% |
-| Kenan Yıldız | 91 | Serie A TIM | 34k coins | -27.1% | -42.8% |
-| Marek Hamšík | 88 | Serie A TIM | 20k coins | -25% | -28.8% |
-| Stephan El Shaarawy | 88 | Serie A TIM | 640k coins | -24.7% | -2.9% |
+| Lautaro Martínez | 90 | Serie A TIM | 97k coins | -48.5% | -49% |
+| Wesley Sneijder | 89 | Serie A TIM | 27k coins | -38.7% | -20.7% |
+| Rafael Leão | 87 | Serie A TIM | 149k coins | -38.3% | -55.8% |
+| Kenan Yıldız | 87 | Serie A TIM | 28k coins | -37.7% | -28.3% |
+| Esteban Cambiasso | 86 | Serie A TIM | 21k coins | -32.5% | +41.7% |
+| Weston McKennie | 92 | Serie A TIM | 30k coins | -31.8% | -26.4% |
+| Bremer | 88 | Serie A TIM | 189k coins | -23% | -42.8% |
+| Kenan Yıldız | 91 | Serie A TIM | 45k coins | -20.6% | -51.4% |
+| Marcus Pedersen | 89 | Serie A TIM | 29k coins | -20.2% | -47.2% |
+| Yoan Bonny | 86 | Serie A TIM | 36k coins | -18.6% | -23.5% |
 
 
 ### Análise das baixas
 
-- **Lúcio (89)** caiu **-49.6%** em 24h, a **28k coins** (faixa do dia: 14.250–58k). Está -56% abaixo da média de 7 dias (descontada).
+- **Lautaro Martínez (90)** caiu **-48.5%** em 24h, a **97k coins** (faixa do dia: 50k–140k). Está em linha com a média de 7 dias (-7%).
 
-- **Antonio Di Natale (92)** caiu **-48.8%** em 24h, a **251k coins** (faixa do dia: 251k–493k). Está -46% abaixo da média de 7 dias (descontada).
+- **Wesley Sneijder (89)** caiu **-38.7%** em 24h, a **27k coins** (faixa do dia: 25k–48k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Daniele De Rossi (91)** caiu **-41.8%** em 24h, a **145k coins** (faixa do dia: 145k–253k). Está -30% abaixo da média de 7 dias (descontada).
+- **Rafael Leão (87)** caiu **-38.3%** em 24h, a **149k coins** (faixa do dia: 146k–279k). Está -48% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Esteban Cambiasso já avançou 43.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gustav Isaksen já avançou 47.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lúcio recuou -49.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lautaro Martínez recuou -48.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Esteban Cambiasso (86, Serie A TIM), com +43.3% em 24h, a 20k coins no Console (PS).
+Gustav Isaksen (87, Serie A TIM), com +47.5% em 24h, a 58k coins no Console (PS).
 
 **E a maior queda do dia?**
-Lúcio (89), -49.6% em 24h, a 28k coins.
+Lautaro Martínez (90), -48.5% em 24h, a 97k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 45 cartas em alta contra 51 em queda (média -3.77%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 38 cartas em alta contra 51 em queda (média -2.16%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
