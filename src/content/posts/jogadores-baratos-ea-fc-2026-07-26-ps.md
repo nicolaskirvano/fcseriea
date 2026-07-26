@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:30:11.000Z
+pubDatetime: 2026-07-26T19:30:13.000Z
 title: "Jogadores baratos EA FC: Serie A em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.450 coins.
+- **Preço médio das 14 opções:** 13.071 coins.
 - **Posição mais frequente:** ST, com 7 cartas.
 - **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
@@ -41,33 +41,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
-| Giovane | 89 | CAM | Serie A TIM | 11.250 coins | -11.8% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11.250 coins | +14.6% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 14.000 coins | +7.7% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 12.250 coins | +4.2% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12.750 coins | +1.6% |
-| Oliver Bierhoff | 88 | ST | Serie A TIM | 13.500 coins | +10% |
+| Oliver Bierhoff | 88 | ST | Serie A TIM | 12.250 coins | +4.1% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 14.000 coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 14.500 coins | +21.7% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 12.500 coins | -3.8% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 13.750 coins | +11.8% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14.750 coins | -3.4% |
-| Cher Ndour | 86 | CM | Serie A TIM | 12.750 coins | +6% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 13.500 coins | +12.2% |
+| Iván Córdoba | 87 | CB | Serie A TIM | 14.250 coins | -6.6% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14.750 coins | +3.4% |
+| Armand Laurienté | 86 | LW | Serie A TIM | 13.250 coins | +15.6% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 14.000 coins | +9.8% |
+| Marten de Roon | 85 | CM | Serie A TIM | 13.000 coins | +9.3% |
+| Seydou Doumbia | 85 | ST | Serie A TIM | 14.500 coins | +1.7% |
 
 
 ## 📈 Destaques
 
 - **Nico Paz (90, CAM)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Giovane (89, CAM)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11.250 coins**
-
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **14.000 coins**
+
 - **Andrea Barzagli (88, CB)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Oliver Bierhoff (88, ST)** da Serie A TIM, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -76,7 +75,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Nico Paz (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Gianluca Vialli (89, ST) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Donyell Malen (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
