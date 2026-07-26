@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:30:20.000Z
+pubDatetime: 2026-07-26T01:30:20.000Z
 title: "Jogadores baratos EA FC: Serie A em 25/07 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 11.942 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
+- **Preço médio das 11 opções:** 12.273 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
 - **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -44,14 +44,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12.500 coins | +7.8% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 14.750 coins | 0% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 11.000 coins | -13.7% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 11.750 coins | +6.8% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 13.000 coins | +14.3% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | +2.3% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11.750 coins | -4.3% |
+| Rui Costa | 87 | CAM | Serie A TIM | 13.750 coins | +1.9% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 14.250 coins | +27.3% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | -2.2% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11.750 coins | +2.2% |
 | Seydou Doumbia | 85 | ST | Serie A TIM | 13.500 coins | +8% |
 
 
@@ -65,7 +63,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Andrea Barzagli (88, CB)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12.500 coins**
+- **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

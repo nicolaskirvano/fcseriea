@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Federico Dimarco</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moise Kean</text>
-<rect x="285" y="153" width="165" height="28" rx="7" fill="#22c55e"/>
-<text x="460" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
+<rect x="285" y="153" width="435" height="28" rx="7" fill="#22c55e"/>
+<text x="730" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.0%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Semih Kılıçsoy</text>
-<rect x="285" y="211" width="147" height="28" rx="7" fill="#22c55e"/>
-<text x="442" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oliver Sørensen</text>
-<rect x="285" y="269" width="116" height="28" rx="7" fill="#22c55e"/>
-<text x="411" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
-<rect x="285" y="327" width="72" height="28" rx="7" fill="#22c55e"/>
-<text x="367" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Romelu Lukaku</text>
-<rect x="285" y="385" width="59" height="28" rx="7" fill="#22c55e"/>
-<text x="354" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.6%</text>
+<rect x="285" y="211" width="273" height="28" rx="7" fill="#22c55e"/>
+<text x="568" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marek Hamšík</text>
+<rect x="285" y="269" width="231" height="28" rx="7" fill="#22c55e"/>
+<text x="526" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cher Ndour</text>
+<rect x="285" y="327" width="229" height="28" rx="7" fill="#22c55e"/>
+<text x="524" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moise Kean</text>
+<rect x="285" y="385" width="212" height="28" rx="7" fill="#22c55e"/>
+<text x="507" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.7%</text>
 </svg>
