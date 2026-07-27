@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:30:21.000Z
+pubDatetime: 2026-07-27T13:30:20.000Z
 title: "Investimentos EA FC: Serie A em 27/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.9% em 24h** e **+32.6% em 7 dias**.
-- **4 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.2% em 24h** e **+22.9% em 7 dias**.
+- **7 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 14 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +11.1% | +83.5% | Esticada |
-| Semih Kılıçsoy | 84 | Serie A TIM | 60k coins | +21.5% | +62.5% | Esticada |
-| Martin Baturina | 89 | Serie A TIM | 40k coins | +6.9% | +51.8% | Momentum moderado |
-| Armand Laurienté | 86 | Serie A TIM | 39k coins | +35.7% | +42.1% | Esticada |
-| Hidetoshi Nakata | 88 | Serie A TIM | 35k coins | +4.5% | +37.3% | Momentum moderado |
-| Morata | 87 | Serie A TIM | 118k coins | +4.4% | +32.6% | Momentum moderado |
-| Bremer | 87 | Serie A TIM | 50k coins | +29% | +28.2% | Esticada |
-| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +18.4% | +26.9% | Momentum moderado |
-| Weston McKennie | 84 | Serie A TIM | 41k coins | +9.9% | +15.6% | Momentum moderado |
-| Martin Baturina | 84 | Serie A TIM | 48k coins | +7.3% | +7.3% | Momentum moderado |
-| Gustav Isaksen | 87 | Serie A TIM | 50k coins | +6% | +6% | Momentum moderado |
+| Matías Soulé | 84 | Serie A TIM | 50k coins | +23.5% | +83.5% | Esticada |
+| Matías Soulé | 86 | Serie A TIM | 40k coins | +4.3% | +74.7% | Esticada |
+| Gervinho | 85 | Serie A TIM | 30k coins | +22.4% | +66.7% | Esticada |
+| Semih Kılıçsoy | 84 | Serie A TIM | 60k coins | +18.8% | +50% | Momentum moderado |
+| Yoan Bonny | 86 | Serie A TIM | 67k coins | +39% | +46.3% | Esticada |
+| Juan Cuadrado | 86 | Serie A TIM | 50k coins | +9.5% | +36.9% | Momentum moderado |
+| Christian Pulisic | 86 | Serie A TIM | 54k coins | +17.6% | +26.6% | Momentum moderado |
+| Francisco Conceição | 84 | Serie A TIM | 50k coins | +2.9% | +19.2% | Entrada a observar |
+| Yann Aurel Bisseck | 84 | Serie A TIM | 42k coins | +12.5% | +15.4% | Momentum moderado |
+| Moise Kean | 86 | Serie A TIM | 40k coins | +33.1% | +14.9% | Esticada |
+| Marek Hamšík | 87 | Serie A TIM | 20k coins | +16% | +8.8% | Momentum moderado |
+| André-Franck Zambo Anguissa | 84 | Serie A TIM | 41k coins | +24.8% | +7.7% | Esticada |
+| Weston McKennie | 84 | Serie A TIM | 42k coins | +1.9% | +7.1% | Entrada a observar |
+| Kevin De Bruyne | 89 | Serie A TIM | 236k coins | +39.5% | +6.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Matías Soulé (84)** — 50k coins, **+83.5% em 7 dias** (+11.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (84)** — 50k coins, **+83.5% em 7 dias** (+23.5% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Semih Kılıçsoy (84)** — 60k coins, **+62.5% em 7 dias** (+21.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (86)** — 40k coins, **+74.7% em 7 dias** (+4.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Martin Baturina (89)** — 40k coins, **+51.8% em 7 dias** (+6.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gervinho (85)** — 30k coins, **+66.7% em 7 dias** (+22.4% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Armand Laurienté (86)** — 39k coins, **+42.1% em 7 dias** (+35.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Semih Kılıçsoy (84)** — 60k coins, **+50% em 7 dias** (+18.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hidetoshi Nakata (88)** — 35k coins, **+37.3% em 7 dias** (+4.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yoan Bonny (86)** — 67k coins, **+46.3% em 7 dias** (+39% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
