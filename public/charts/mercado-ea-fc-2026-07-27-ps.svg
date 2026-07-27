@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rafael Leão</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenan Yıldız</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">De Gea</text>
-<rect x="285" y="153" width="432" height="28" rx="7" fill="#22c55e"/>
-<text x="727" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paulo Dybala</text>
-<rect x="285" y="211" width="411" height="28" rx="7" fill="#22c55e"/>
-<text x="706" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arthur Atta</text>
+<rect x="285" y="153" width="448" height="28" rx="7" fill="#22c55e"/>
+<text x="743" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan David</text>
+<rect x="285" y="211" width="446" height="28" rx="7" fill="#22c55e"/>
+<text x="741" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin De Bruyne</text>
-<rect x="285" y="269" width="393" height="28" rx="7" fill="#22c55e"/>
-<text x="688" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessandro Bastoni</text>
-<rect x="285" y="327" width="375" height="28" rx="7" fill="#22c55e"/>
-<text x="670" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Martin Baturina</text>
-<rect x="285" y="385" width="301" height="28" rx="7" fill="#22c55e"/>
-<text x="596" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.8%</text>
+<rect x="285" y="269" width="437" height="28" rx="7" fill="#22c55e"/>
+<text x="732" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iván Córdoba</text>
+<rect x="285" y="327" width="378" height="28" rx="7" fill="#22c55e"/>
+<text x="673" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luka Modrić</text>
+<rect x="285" y="385" width="369" height="28" rx="7" fill="#22c55e"/>
+<text x="664" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
 </svg>
