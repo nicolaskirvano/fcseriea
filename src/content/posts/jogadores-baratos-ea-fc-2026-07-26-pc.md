@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:30:19.000Z
+pubDatetime: 2026-07-27T01:30:21.000Z
 title: "Jogadores baratos EA FC: Serie A em 26/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 11.854 coins.
+- **Preço médio das 13 opções:** 12.077 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
 - **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
@@ -41,30 +41,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12.000 coins | +6.7% |
+| Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | -8.3% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 12.000 coins | +9.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13.750 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 14.750 coins | 0% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 11.000 coins | -10.2% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 11.000 coins | -2.2% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Christian Pulisic | 87 | CAM | Serie A TIM | 11.000 coins | 0% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 13.250 coins | 0% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 13.250 coins | +20.5% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 14.500 coins | +9.1% |
 | Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | 0% |
-| Seydou Doumbia | 85 | ST | Serie A TIM | 13.250 coins | -1.9% |
 
 
 ## 📈 Destaques
 
 - **Nico Paz (90, CAM)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrea Barzagli (88, CB)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12.000 coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Andrea Barzagli (88, CB)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -73,7 +74,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Nico Paz (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Gianluca Vialli (89, ST) por 11.250 coins é a referência de rating deste recorte.
+- **Ataque:** Donyell Malen (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
