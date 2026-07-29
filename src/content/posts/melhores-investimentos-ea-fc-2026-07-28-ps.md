@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T22:30:12.000Z
+pubDatetime: 2026-07-29T01:30:10.000Z
 title: "Investimentos EA FC: Serie A em 28/07 — Console (PS)"
 draft: false
 featured: true
