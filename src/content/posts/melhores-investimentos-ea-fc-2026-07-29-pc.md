@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:30:21.000Z
+pubDatetime: 2026-07-29T19:30:19.000Z
 title: "Investimentos EA FC: Serie A em 29/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.0% em 24h** e **+15.0% em 7 dias**.
-- **1 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.3% em 24h** e **+17.4% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,29 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lautaro Martínez | 89 | Serie A TIM | 92k coins | +5.1% | +65.8% | Esticada |
-| Oliver Sørensen | 84 | Serie A TIM | 50k coins | +1.5% | +30.7% | Momentum moderado |
-| Junior Messias | 87 | Serie A TIM | 47k coins | +3.9% | +27% | Momentum moderado |
-| Mike Maignan | 88 | Serie A TIM | 47k coins | +12.6% | +20.5% | Momentum moderado |
-| Manuel Akanji | 86 | Serie A TIM | 42k coins | +15.4% | +16.9% | Momentum moderado |
-| Pervis Estupiñán | 87 | Serie A TIM | 49k coins | +2.2% | +15% | Entrada a observar |
-| Riccardo Orsolini | 85 | Serie A TIM | 28k coins | +10% | +14.6% | Momentum moderado |
-| Giorgio Scalvini | 86 | Serie A TIM | 48k coins | +6.4% | +14.3% | Momentum moderado |
-| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +13% | +13% | Momentum moderado |
-| Marco Carnesecchi | 87 | Serie A TIM | 55k coins | +3.7% | +9.9% | Entrada a observar |
+| Oliver Sørensen | 84 | Serie A TIM | 50k coins | +1.5% | +42.9% | Momentum moderado |
+| Charles De Ketelaere | 89 | Serie A TIM | 40k coins | +28.3% | +38.1% | Esticada |
+| Mike Maignan | 88 | Serie A TIM | 50k coins | +19.8% | +28.2% | Momentum moderado |
+| Juan Cuadrado | 86 | Serie A TIM | 60k coins | +33.3% | +26.3% | Esticada |
+| Pervis Estupiñán | 87 | Serie A TIM | 48k coins | +8.9% | +22.5% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 48k coins | +17.3% | +18.8% | Momentum moderado |
+| Gianluca Mancini | 85 | Serie A TIM | 28k coins | +17.4% | +17.4% | Momentum moderado |
+| Pierre Kalulu | 91 | Serie A TIM | 76k coins | +14.7% | +16.4% | Momentum moderado |
+| Giorgio Scalvini | 86 | Serie A TIM | 50k coins | +5.3% | +15.8% | Momentum moderado |
+| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +10% | +12.2% | Momentum moderado |
+| Francisco Conceição | 84 | Serie A TIM | 48k coins | +17.3% | +8% | Momentum moderado |
+| Kenan Yıldız | 91 | Serie A TIM | 112k coins | +14.3% | +7.7% | Momentum moderado |
 | Scott McTominay | 87 | Serie A TIM | 159k coins | +6% | +6% | Momentum moderado |
+| Maicon | 90 | Serie A TIM | 151k coins | +6% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lautaro Martínez (89)** — 92k coins, **+65.8% em 7 dias** (+5.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lautaro Martínez (89)** — 92k coins, **+65.8% em 7 dias** (+5.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Sørensen (84)** — 50k coins, **+30.7% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Sørensen (84)** — 50k coins, **+42.9% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Junior Messias (87)** — 47k coins, **+27% em 7 dias** (+3.9% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Charles De Ketelaere (89)** — 40k coins, **+38.1% em 7 dias** (+28.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mike Maignan (88)** — 47k coins, **+20.5% em 7 dias** (+12.6% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mike Maignan (88)** — 50k coins, **+28.2% em 7 dias** (+19.8% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Akanji (86)** — 42k coins, **+16.9% em 7 dias** (+15.4% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan Cuadrado (86)** — 60k coins, **+26.3% em 7 dias** (+33.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
