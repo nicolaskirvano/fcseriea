@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:30:10.000Z
+pubDatetime: 2026-07-30T19:30:08.000Z
 title: "Mercado EA FC em 30/07: Serie A — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Filip Kostić (88, Serie A TIM), com +60% em 24h, a 42k coins no Console (PS)."
+    a: "Khéphren Thuram (85, Serie A TIM), com +60% em 24h, a 80k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "De Gea (89), -50% em 24h, a 107k coins."
+    a: "Gervinho (87), -50% em 24h, a 46k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Maicon (88) — 54% de probabilidade de alta, a 19.750 coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 54 cartas em alta contra 45 em queda (média 5.19%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 41 cartas em alta contra 49 em queda (média 1.36%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **30/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **54 valorizações** contra **45 quedas** entre as cartas relevantes, com média de **5.19%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **30/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **41 valorizações** contra **49 quedas** entre as cartas relevantes, com média de **1.36%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Filip Kostić (88) **+60%** · 🔴 **Maior baixa:** De Gea (89) **-50%**
+> 🟢 **Maior alta:** Khéphren Thuram (85) **+60%** · 🔴 **Maior baixa:** Gervinho (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Serie A — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -36,23 +38,23 @@ Resumo de **30/07/2026** no Console (PS): mercado **em alta** — predominam as 
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 132 cartas.
+- **Participação das altas:** 45.6% entre as cartas que se moveram; o universo observado reúne 117 cartas.
 - **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Filip Kostić | 88 | Serie A TIM | 42k coins | +60% | +77.8% |
-| Marek Hamšík | 88 | Serie A TIM | 44k coins | +58.8% | +25.7% |
-| Leonardo Spinazzola | 89 | Serie A TIM | 42k coins | +57.3% | +23.6% |
-| Antonio Di Natale | 88 | Serie A TIM | 58k coins | +48.4% | +22.9% |
-| Esteban Cambiasso | 86 | Serie A TIM | 20k coins | +48.2% | +29.7% |
-| Federico Dimarco | 87 | Serie A TIM | 80k coins | +48.2% | +48.2% |
-| Wesley Sneijder | 89 | Serie A TIM | 100k coins | +48.2% | +67.5% |
-| Kevin De Bruyne | 88 | Serie A TIM | 146k coins | +43.6% | +33.9% |
-| Santiago Castro | 87 | Serie A TIM | 42k coins | +41.7% | +198.2% |
-| Nicolò Zaniolo | 86 | Serie A TIM | 20k coins | +36.5% | +48.5% |
+| Khéphren Thuram | 85 | Serie A TIM | 80k coins | +60% | 0% |
+| Marek Hamšík | 89 | Serie A TIM | 21k coins | +51.7% | -39.3% |
+| Federico Dimarco | 87 | Serie A TIM | 75k coins | +35.1% | +50.8% |
+| Andrea Barzagli | 87 | Serie A TIM | 25k coins | +31.6% | +92.6% |
+| Antonio Di Natale | 88 | Serie A TIM | 50k coins | +28.3% | +7.4% |
+| Dušan Vlahović | 86 | Serie A TIM | 30k coins | +21.2% | -14.9% |
+| Moise Kean | 86 | Serie A TIM | 48k coins | +21.1% | +36.2% |
+| Éderson | 87 | Serie A TIM | 75k coins | +17.8% | +50.6% |
+| Daniele De Rossi | 87 | Serie A TIM | 36k coins | +17.1% | -9.9% |
+| Pierre Kalulu | 91 | Serie A TIM | 70k coins | +15.6% | -19.6% |
 
 
 ### Análise das altas
@@ -61,43 +63,52 @@ Resumo de **30/07/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Filip Kostić (88)** subiu **+60%** em 24h, a **42k coins** (faixa do dia: 22k–42k). Está +47% acima da média de 7 dias (aquecida).
+- **Khéphren Thuram (85)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 35k–80k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Marek Hamšík (88)** subiu **+58.8%** em 24h, a **44k coins** (faixa do dia: 19.250–72k). Está +24% acima da média de 7 dias (aquecida).
+- **Marek Hamšík (89)** subiu **+51.7%** em 24h, a **21k coins** (faixa do dia: 13.750–61k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Leonardo Spinazzola (89)** subiu **+57.3%** em 24h, a **42k coins** (faixa do dia: 24k–55k). Está +36% acima da média de 7 dias (aquecida).
+- **Federico Dimarco (87)** subiu **+35.1%** em 24h, a **75k coins** (faixa do dia: 48k–96k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| De Gea | 89 | Serie A TIM | 107k coins | -50% | +11.7% |
-| Rasmus Højlund | 87 | Serie A TIM | 52k coins | -35.7% | -22.4% |
-| Christian Pulisic | 86 | Serie A TIM | 64k coins | -30.7% | -13.7% |
-| Lorenzo Pellegrini | 83 | Serie A TIM | 48k coins | -26.2% | -15.8% |
-| Marcus Pedersen | 89 | Serie A TIM | 28k coins | -25.8% | -30% |
-| Scott McTominay | 91 | Serie A TIM | 308k coins | -24.3% | +34.9% |
-| Rafael Leão | 86 | Serie A TIM | 300k coins | -24% | +8.1% |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 61k coins | -21.9% | -12.6% |
-| Pervis Estupiñán | 87 | Serie A TIM | 49k coins | -16.5% | +16.2% |
-| Maicon | 89 | Serie A TIM | 139k coins | -14.8% | -3.5% |
+| Gervinho | 87 | Serie A TIM | 46k coins | -50% | -44.7% |
+| Francisco Conceição | 89 | Serie A TIM | 83k coins | -39.5% | +28.1% |
+| De Gea | 89 | Serie A TIM | 115k coins | -36.1% | +28.5% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 80k coins | -32.8% | +82.9% |
+| Rasmus Højlund | 87 | Serie A TIM | 53k coins | -22.1% | -8.4% |
+| Lorenzo Pellegrini | 83 | Serie A TIM | 51k coins | -21.5% | -9.7% |
+| Luka Modrić | 90 | Serie A TIM | 80k coins | -21.2% | -11.4% |
+| Martin Baturina | 84 | Serie A TIM | 45k coins | -16.4% | +26.1% |
+| Semih Kılıçsoy | 84 | Serie A TIM | 50k coins | -13.8% | -6.5% |
+| Manuel Locatelli | 86 | Serie A TIM | 53k coins | -13.6% | +4.4% |
 
 
 ### Análise das baixas
 
-- **De Gea (89)** caiu **-50%** em 24h, a **107k coins** (faixa do dia: 93k–230k). Está -29% abaixo da média de 7 dias (descontada).
+- **Gervinho (87)** caiu **-50%** em 24h, a **46k coins** (faixa do dia: 42k–145k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Rasmus Højlund (87)** caiu **-35.7%** em 24h, a **52k coins** (faixa do dia: 45k–70k). Está em linha com a média de 7 dias (-2%).
+- **Francisco Conceição (89)** caiu **-39.5%** em 24h, a **83k coins** (faixa do dia: 39k–110k). Está +131% acima da média de 7 dias (aquecida).
 
-- **Christian Pulisic (86)** caiu **-30.7%** em 24h, a **64k coins** (faixa do dia: 44k–70k). Está +9% acima da média de 7 dias (aquecida).
+- **De Gea (89)** caiu **-36.1%** em 24h, a **115k coins** (faixa do dia: 93k–230k). Está -24% abaixo da média de 7 dias (descontada).
+
+
+## 🔮 O que o modelo prevê para as próximas 24h
+
+Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Maicon | 88 | 19.750 coins | 21k coins | 54% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Filip Kostić já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Khéphren Thuram já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** De Gea recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gervinho recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +120,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Filip Kostić (88, Serie A TIM), com +60% em 24h, a 42k coins no Console (PS).
+Khéphren Thuram (85, Serie A TIM), com +60% em 24h, a 80k coins no Console (PS).
 
 **E a maior queda do dia?**
-De Gea (89), -50% em 24h, a 107k coins.
+Gervinho (87), -50% em 24h, a 46k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**
+Pelo modelo FutQuant, Maicon (88) — 54% de probabilidade de alta, a 19.750 coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 54 cartas em alta contra 45 em queda (média 5.19%).
+Hoje o mercado está lateral — sem direção clara, com 41 cartas em alta contra 49 em queda (média 1.36%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

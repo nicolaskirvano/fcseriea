@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:30:22.000Z
+pubDatetime: 2026-07-30T19:30:20.000Z
 title: "Jogadores baratos EA FC: Serie A em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 11.562 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 1.800 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 11.825 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,13 +46,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12.250 coins | 0% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14.000 coins | +1.9% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14.250 coins | +29.5% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 14.500 coins | -3.9% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.750 coins | 0% |
-| De Gea | 85 | GK | Serie A TIM | 1.800 coins | +38.5% |
-| Seydou Doumbia | 85 | ST | Serie A TIM | 14.500 coins | -2.7% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12.500 coins | +3.8% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 13.000 coins | 0% |
+| Hidetoshi Nakata | 87 | CAM | Serie A TIM | 14.250 coins | +1.8% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.250 coins | -2.2% |
 
 
 ## 📈 Destaques
