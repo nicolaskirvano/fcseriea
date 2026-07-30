@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:30:22.000Z
+pubDatetime: 2026-07-30T01:30:23.000Z
 title: "Jogadores baratos EA FC: Serie A em 29/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 11.750 coins.
+- **Preço médio das 10 opções:** 11.775 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
 - **Faixa real:** 11.000 a 13.250 coins; nenhuma carta custa 15 mil.
 
@@ -47,9 +47,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Hidetoshi Nakata | 87 | CAM | Serie A TIM | 12.750 coins | +10% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 13.000 coins | -1.9% |
-| Tomas Brolin | 87 | ST | Serie A TIM | 13.250 coins | 0% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.000 coins | +2.3% |
+| Tomas Brolin | 87 | ST | Serie A TIM | 12.750 coins | +9.4% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 13.250 coins | 0% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.500 coins | +4.5% |
 
 
 ## 📈 Destaques
