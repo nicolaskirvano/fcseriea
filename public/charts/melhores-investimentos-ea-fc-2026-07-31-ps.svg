@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mattia Zaccagni</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+63.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluca Mancini</text>
-<rect x="285" y="153" width="388" height="28" rx="7" fill="#22c55e"/>
-<text x="683" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Romelu Lukaku</text>
-<rect x="285" y="211" width="257" height="28" rx="7" fill="#22c55e"/>
-<text x="552" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tomas Brolin</text>
-<rect x="285" y="269" width="235" height="28" rx="7" fill="#22c55e"/>
-<text x="530" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oliver Sørensen</text>
-<rect x="285" y="327" width="207" height="28" rx="7" fill="#22c55e"/>
-<text x="502" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Martin Baturina</text>
-<rect x="285" y="385" width="154" height="28" rx="7" fill="#22c55e"/>
-<text x="449" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Armand Laurienté</text>
+<rect x="285" y="153" width="428" height="28" rx="7" fill="#22c55e"/>
+<text x="723" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
+<rect x="285" y="211" width="425" height="28" rx="7" fill="#22c55e"/>
+<text x="720" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+61.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charles De Ketelaere</text>
+<rect x="285" y="269" width="395" height="28" rx="7" fill="#22c55e"/>
+<text x="690" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pervis Estupiñán</text>
+<rect x="285" y="327" width="273" height="28" rx="7" fill="#22c55e"/>
+<text x="568" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marten de Roon</text>
+<rect x="285" y="385" width="238" height="28" rx="7" fill="#22c55e"/>
+<text x="533" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.6%</text>
 </svg>
