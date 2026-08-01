@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:30:11.000Z
+pubDatetime: 2026-08-01T01:30:11.000Z
 title: "Jogadores baratos EA FC: Serie A em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 11.462 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.886 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,16 +43,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 14.750 coins | +1.7% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 14.750 coins | +13.5% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 14.250 coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 11.500 coins | +11.4% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Marek Hamšík | 87 | CAM | Serie A TIM | 12.500 coins | -9.5% |
-| Rui Costa | 87 | CAM | Serie A TIM | 14.500 coins | -1.7% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 13.250 coins | -1.7% |
-| Loïs Openda | 83 | ST | Serie A TIM | 1.500 coins | +21.4% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14.250 coins | -5% |
+| Oliver Bierhoff | 86 | ST | Serie A TIM | 12.000 coins | -14% |
 
 
 ## 📈 Destaques

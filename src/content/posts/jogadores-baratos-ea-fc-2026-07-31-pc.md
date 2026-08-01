@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:30:20.000Z
+pubDatetime: 2026-08-01T01:30:20.000Z
 title: "Jogadores baratos EA FC: Serie A em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 11.250 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 11.000 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 11.444 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 11.000 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -47,6 +47,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 13.000 coins | +4% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
 
 
