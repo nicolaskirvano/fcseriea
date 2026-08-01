@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khéphren Thuram</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marten de Roon</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Francisco Conceição</text>
-<rect x="285" y="153" width="292" height="28" rx="7" fill="#22c55e"/>
-<text x="587" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Filip Kostić</text>
-<rect x="285" y="211" width="266" height="28" rx="7" fill="#22c55e"/>
-<text x="561" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iván Córdoba</text>
-<rect x="285" y="269" width="257" height="28" rx="7" fill="#22c55e"/>
-<text x="552" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan David</text>
-<rect x="285" y="327" width="245" height="28" rx="7" fill="#22c55e"/>
-<text x="540" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
-<rect x="285" y="385" width="190" height="28" rx="7" fill="#22c55e"/>
-<text x="485" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bremer</text>
+<rect x="285" y="153" width="466" height="28" rx="7" fill="#22c55e"/>
+<text x="761" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arthur Atta</text>
+<rect x="285" y="211" width="456" height="28" rx="7" fill="#22c55e"/>
+<text x="751" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Martin Baturina</text>
+<rect x="285" y="269" width="361" height="28" rx="7" fill="#22c55e"/>
+<text x="656" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Filip Kostić</text>
+<rect x="285" y="327" width="361" height="28" rx="7" fill="#22c55e"/>
+<text x="656" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan David</text>
+<rect x="285" y="385" width="331" height="28" rx="7" fill="#22c55e"/>
+<text x="626" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.3%</text>
 </svg>
