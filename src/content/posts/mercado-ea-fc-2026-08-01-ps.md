@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:30:12.000Z
+pubDatetime: 2026-08-01T22:30:09.000Z
 title: "Mercado EA FC em 01/08: Serie A — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Stephan El Shaarawy (88, Serie A TIM), com +57.9% em 24h, a 750k coins no Console (PS)."
+    a: "Daniele De Rossi (91, Serie A TIM), com +38.8% em 24h, a 300k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Wesley Sneijder (89), -45.3% em 24h, a 24k coins."
+    a: "Wesley Sneijder (89), -45.3% em 24h, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 42 cartas em alta contra 46 em queda (média 5.96%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 43 cartas em alta contra 45 em queda (média 6.1%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **42 subiram** e **46 caíram**, com variação média de **5.96%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **43 subiram** e **45 caíram**, com variação média de **6.1%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Stephan El Shaarawy (88) **+57.9%** · 🔴 **Maior baixa:** Wesley Sneijder (89) **-45.3%**
+> 🟢 **Maior alta:** Daniele De Rossi (91) **+38.8%** · 🔴 **Maior baixa:** Wesley Sneijder (89) **-45.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Serie A — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 126 cartas.
+- **Amplitude do dia:** 84.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.9% entre as cartas que se moveram; o universo observado reúne 126 cartas.
 - **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Stephan El Shaarawy | 88 | Serie A TIM | 750k coins | +57.9% | +17.4% |
-| Riccardo Orsolini | 85 | Serie A TIM | 27k coins | +54.9% | +22.2% |
-| Jamie Vardy | 90 | Serie A TIM | 234k coins | +46.1% | +29.6% |
-| Antonio Di Natale | 92 | Serie A TIM | 366k coins | +40.8% | +22.8% |
-| Davide Zappacosta | 88 | Serie A TIM | 26k coins | +30% | +15.6% |
-| Wesley | 88 | Serie A TIM | 36k coins | +28.8% | +7.5% |
-| Rasmus Højlund | 87 | Serie A TIM | 22k coins | +21.3% | -10.8% |
-| Gustav Isaksen | 87 | Serie A TIM | 58k coins | +20.8% | +19% |
-| Yoan Bonny | 86 | Serie A TIM | 22k coins | +19.5% | -34.3% |
-| Antonio Di Natale | 89 | Serie A TIM | 160k coins | +16.7% | +35.3% |
+| Daniele De Rossi | 91 | Serie A TIM | 300k coins | +38.8% | +56.7% |
+| Idrissa Touré | 83 | Serie A TIM | 92k coins | +37.5% | +73.1% |
+| Daniele De Rossi | 89 | Serie A TIM | 249k coins | +25% | +52.8% |
+| Rafael Leão | 86 | Serie A TIM | 380k coins | +22.5% | +47% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 80k coins | +19.4% | +18.5% |
+| Juan David Cabal | 85 | Serie A TIM | 27k coins | +18.5% | +47.3% |
+| Juan Cuadrado | 86 | Serie A TIM | 40k coins | +17.8% | +21.4% |
+| Kenan Yıldız | 88 | Serie A TIM | 229k coins | +15.1% | +102.7% |
+| Iván Córdoba | 88 | Serie A TIM | 65k coins | +14% | -18.8% |
+| Nicolae Stanciu | 86 | Serie A TIM | 58k coins | +13.7% | +23.4% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Stephan El Shaarawy (88)** subiu **+57.9%** em 24h, a **750k coins** (faixa do dia: 416k–950k). Está +14% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (91)** subiu **+38.8%** em 24h, a **300k coins** (faixa do dia: 177k–377k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Riccardo Orsolini (85)** subiu **+54.9%** em 24h, a **27k coins** (faixa do dia: 14.750–30k). Está +27% acima da média de 7 dias (aquecida).
+- **Idrissa Touré (83)** subiu **+37.5%** em 24h, a **92k coins** (faixa do dia: 46k–139k). Está +38% acima da média de 7 dias (aquecida).
 
-- **Jamie Vardy (90)** subiu **+46.1%** em 24h, a **234k coins** (faixa do dia: 139k–246k). Está +13% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (89)** subiu **+25%** em 24h, a **249k coins** (faixa do dia: 209k–275k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wesley Sneijder | 89 | Serie A TIM | 24k coins | -45.3% | -2% |
-| Federico Dimarco | 87 | Serie A TIM | 46k coins | -31% | -37.9% |
-| Marco Carnesecchi | 87 | Serie A TIM | 52k coins | -28.3% | -6.8% |
-| Dušan Vlahović | 86 | Serie A TIM | 32k coins | -21.5% | -20.3% |
-| Kenan Yıldız | 82 | Serie A TIM | 91k coins | -17.3% | +30% |
-| Iván Córdoba | 88 | Serie A TIM | 104k coins | -16.7% | -10.6% |
-| Matías Soulé | 84 | Serie A TIM | 43k coins | -13.6% | -9.5% |
-| Lúcio | 89 | Serie A TIM | 47k coins | -13% | +14.3% |
-| Luca Mazzitelli | 84 | Serie A TIM | 44k coins | -12% | -2.2% |
-| Kevin De Bruyne | 89 | Serie A TIM | 98k coins | -11.8% | -12.2% |
+| Wesley Sneijder | 89 | Serie A TIM | 23k coins | -45.3% | +5.7% |
+| Weston McKennie | 92 | Serie A TIM | 63k coins | -31.7% | +115% |
+| Federico Dimarco | 87 | Serie A TIM | 50k coins | -20.6% | -28.6% |
+| Hakan Çalhanoğlu | 87 | Serie A TIM | 57k coins | -15.4% | +21.5% |
+| Luca Mazzitelli | 84 | Serie A TIM | 45k coins | -13.5% | -3.9% |
+| Giorgio Scalvini | 86 | Serie A TIM | 50k coins | -12.7% | -3.5% |
+| Mike Maignan | 88 | Serie A TIM | 44k coins | -11.1% | -3.3% |
+| Scott McTominay | 87 | Serie A TIM | 94k coins | -10.5% | -13% |
+| Kevin De Bruyne | 89 | Serie A TIM | 83k coins | -10.3% | +26.7% |
+| Kenan Yıldız | 82 | Serie A TIM | 100k coins | -9% | +32.8% |
 
 
 ### Análise das baixas
 
-- **Wesley Sneijder (89)** caiu **-45.3%** em 24h, a **24k coins** (faixa do dia: 22k–48k). Está -60% abaixo da média de 7 dias (descontada).
+- **Wesley Sneijder (89)** caiu **-45.3%** em 24h, a **23k coins** (faixa do dia: 22k–42k). Está -61% abaixo da média de 7 dias (descontada).
 
-- **Federico Dimarco (87)** caiu **-31%** em 24h, a **46k coins** (faixa do dia: 42k–76k). Está -30% abaixo da média de 7 dias (descontada).
+- **Weston McKennie (92)** caiu **-31.7%** em 24h, a **63k coins** (faixa do dia: 35k–94k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Marco Carnesecchi (87)** caiu **-28.3%** em 24h, a **52k coins** (faixa do dia: 42k–80k). Está -16% abaixo da média de 7 dias (descontada).
+- **Federico Dimarco (87)** caiu **-20.6%** em 24h, a **50k coins** (faixa do dia: 42k–76k). Está -22% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Stephan El Shaarawy já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Daniele De Rossi já avançou 38.8% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Wesley Sneijder recuou -45.3%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Stephan El Shaarawy (88, Serie A TIM), com +57.9% em 24h, a 750k coins no Console (PS).
+Daniele De Rossi (91, Serie A TIM), com +38.8% em 24h, a 300k coins no Console (PS).
 
 **E a maior queda do dia?**
-Wesley Sneijder (89), -45.3% em 24h, a 24k coins.
+Wesley Sneijder (89), -45.3% em 24h, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 42 cartas em alta contra 46 em queda (média 5.96%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 43 cartas em alta contra 45 em queda (média 6.1%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
