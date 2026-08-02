@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:30:18.000Z
+pubDatetime: 2026-08-02T22:30:20.000Z
 title: "Mercado EA FC em 02/08: Serie A — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Juan Cuadrado (86), -42.7% em 24h, a 33k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 38 cartas em alta contra 45 em queda (média 0.35%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 36 cartas em alta contra 38 em queda (média 2.22%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **02/08/2026** (PC): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **38 em alta** e **45 em queda**, média de **0.35%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **02/08/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **36 em alta** e **38 em queda**, média de **2.22%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Lautaro Martínez (90) **+54.6%** · 🔴 **Maior baixa:** Juan Cuadrado (86) **-42.7%**
 
@@ -36,23 +36,23 @@ Panorama de **02/08/2026** (PC): mercado **lateral** — sem direção clara. En
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 97.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.8% entre as cartas que se moveram; o universo observado reúne 138 cartas.
+- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 124 cartas.
 - **Concentração:** Serie A TIM aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lautaro Martínez | 90 | Serie A TIM | 63k coins | +54.6% | +16.7% |
-| Lorenzo Pellegrini | 83 | Serie A TIM | 65k coins | +49.4% | +20.4% |
-| Piotr Zieliński | 85 | Serie A TIM | 55k coins | +37.5% | +50.7% |
+| Lautaro Martínez | 90 | Serie A TIM | 63k coins | +54.6% | +34% |
+| Lorenzo Pellegrini | 83 | Serie A TIM | 65k coins | +49.4% | +21.5% |
+| Piotr Zieliński | 85 | Serie A TIM | 55k coins | +37.5% | +80.3% |
+| Riccardo Orsolini | 85 | Serie A TIM | 36k coins | +36.8% | +39.4% |
 | Christian Pulisic | 86 | Serie A TIM | 54k coins | +33.8% | 0% |
-| Riccardo Orsolini | 85 | Serie A TIM | 37k coins | +33.6% | +41.3% |
-| Santiago Castro | 87 | Serie A TIM | 20k coins | +26.5% | +19.4% |
-| Pervis Estupiñán | 87 | Serie A TIM | 48k coins | +25.6% | +25.6% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 75k coins | +25% | +3.4% |
-| Yoan Bonny | 86 | Serie A TIM | 59k coins | +22% | +22% |
-| Mike Maignan | 88 | Serie A TIM | 65k coins | +18.2% | +42.1% |
+| Scott McTominay | 87 | Serie A TIM | 117k coins | +33.7% | +17% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 36k coins | +25.9% | +21.7% |
+| Francisco Conceição | 84 | Serie A TIM | 50k coins | +14.9% | +12.4% |
+| Kevin De Bruyne | 89 | Serie A TIM | 218k coins | +14.7% | -9.2% |
+| Maicon | 90 | Serie A TIM | 126k coins | +14.6% | +6.5% |
 
 
 ### Análise das altas
@@ -65,32 +65,32 @@ Panorama de **02/08/2026** (PC): mercado **lateral** — sem direção clara. En
 
 - **Lorenzo Pellegrini (83)** subiu **+49.4%** em 24h, a **65k coins** (faixa do dia: 44k–65k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Piotr Zieliński (85)** subiu **+37.5%** em 24h, a **55k coins** (faixa do dia: 21k–55k). Está +41% acima da média de 7 dias (aquecida).
+- **Piotr Zieliński (85)** subiu **+37.5%** em 24h, a **55k coins** (faixa do dia: 21k–55k). Está +40% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Cuadrado | 86 | Serie A TIM | 33k coins | -42.7% | -43.2% |
-| Maicon | 88 | Serie A TIM | 49k coins | -39.9% | +9.2% |
-| Daniele De Rossi | 91 | Serie A TIM | 221k coins | -35.6% | -34.6% |
-| Nicolae Stanciu | 86 | Serie A TIM | 70k coins | -29.1% | -4.1% |
-| Paulo Dybala | 91 | Serie A TIM | 262k coins | -24.3% | +37.9% |
-| Khéphren Thuram | 87 | Serie A TIM | 60k coins | -22.4% | -15.2% |
-| Kevin De Bruyne | 88 | Serie A TIM | 269k coins | -21.3% | +41.6% |
-| Denzel Dumfries | 89 | Serie A TIM | 40k coins | -21.3% | +52.4% |
-| Marek Hamšík | 87 | Serie A TIM | 22k coins | -20.9% | +16% |
+| Juan Cuadrado | 86 | Serie A TIM | 33k coins | -42.7% | -42.7% |
+| Davide Zappacosta | 88 | Serie A TIM | 22k coins | -37.1% | +35.4% |
+| Jonathan David | 90 | Serie A TIM | 43k coins | -33% | -15.7% |
+| Gustav Isaksen | 87 | Serie A TIM | 44k coins | -32.8% | +10% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 49k coins | -30.4% | +44.4% |
+| Junior Messias | 87 | Serie A TIM | 20k coins | -26.3% | -24.3% |
+| Cher Ndour | 86 | Serie A TIM | 28k coins | -22.5% | +9.5% |
+| Semih Kılıçsoy | 84 | Serie A TIM | 50k coins | -22.3% | -22.3% |
 | Kenan Yıldız | 82 | Serie A TIM | 65k coins | -18.2% | -21.2% |
+| Paulo Dybala | 91 | Serie A TIM | 262k coins | -17.4% | +40.9% |
 
 
 ### Análise das baixas
 
 - **Juan Cuadrado (86)** caiu **-42.7%** em 24h, a **33k coins** (faixa do dia: 33k–58k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Maicon (88)** caiu **-39.9%** em 24h, a **49k coins** (faixa do dia: 28k–97k). Está -10% abaixo da média de 7 dias (descontada).
+- **Davide Zappacosta (88)** caiu **-37.1%** em 24h, a **22k coins** (faixa do dia: 22k–41k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Daniele De Rossi (91)** caiu **-35.6%** em 24h, a **221k coins** (faixa do dia: 221k–356k). Está -22% abaixo da média de 7 dias (descontada).
+- **Jonathan David (90)** caiu **-33%** em 24h, a **43k coins** (faixa do dia: 24k–81k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Lautaro Martínez (90, Serie A TIM), com +54.6% em 24h, a 63k coins no PC.
 Juan Cuadrado (86), -42.7% em 24h, a 33k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 38 cartas em alta contra 45 em queda (média 0.35%).
+Hoje o mercado está em alta — predominam as valorizações, com 36 cartas em alta contra 38 em queda (média 2.22%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
