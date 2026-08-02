@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:30:19.000Z
+pubDatetime: 2026-08-02T01:30:19.000Z
 title: "Investimentos EA FC: Serie A em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Rasmus Højlund (87, Serie A TIM) lidera, com +40.6% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Weston McKennie (92, Serie A TIM) lidera, com +59.3% em 7 dias a 84k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rasmus Højlund (87) acumula **+40.6% em 7 dias** a 90k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Weston McKennie (92) acumula **+59.3% em 7 dias** a 84k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.3% em 24h** e **+15.7% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.3% em 24h** e **+29.5% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rasmus Højlund | 87 | Serie A TIM | 90k coins | +5.9% | +40.6% | Momentum moderado |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 70k coins | +23% | +36.3% | Esticada |
-| Gustav Isaksen | 87 | Serie A TIM | 66k coins | +11% | +31% | Momentum moderado |
-| Marco Carnesecchi | 87 | Serie A TIM | 52k coins | +3% | +19.1% | Entrada a observar |
-| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +3.8% | +12.2% | Entrada a observar |
-| Martin Baturina | 84 | Serie A TIM | 48k coins | +23.4% | +9.8% | Esticada |
-| Esteban Cambiasso | 86 | Serie A TIM | 22k coins | +21.6% | +7.1% | Esticada |
-| Mariano Troilo | 86 | Serie A TIM | 48k coins | +24.5% | +7% | Esticada |
+| Weston McKennie | 92 | Serie A TIM | 84k coins | +2.4% | +59.3% | Momentum moderado |
+| Antonio Di Natale | 88 | Serie A TIM | 114k coins | +38.8% | +57.3% | Esticada |
+| Nicolae Stanciu | 86 | Serie A TIM | 120k coins | +20.6% | +53.8% | Esticada |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 75k coins | +32.7% | +51.5% | Esticada |
+| Marten de Roon | 85 | Serie A TIM | 25k coins | +7.4% | +37.8% | Momentum moderado |
+| Éderson | 87 | Serie A TIM | 68k coins | +3.1% | +34.7% | Momentum moderado |
+| Gustav Isaksen | 87 | Serie A TIM | 66k coins | +11% | +34.4% | Momentum moderado |
+| Armand Laurienté | 86 | Serie A TIM | 32k coins | +7.4% | +29.5% | Momentum moderado |
+| Luka Modrić | 90 | Serie A TIM | 192k coins | +39.6% | +26.9% | Esticada |
+| Mariano Troilo | 86 | Serie A TIM | 45k coins | +5.6% | +23.4% | Momentum moderado |
+| Jonathan David | 90 | Serie A TIM | 66k coins | +28.3% | +23.1% | Esticada |
+| Kevin De Bruyne | 89 | Serie A TIM | 215k coins | +13.8% | +17.5% | Momentum moderado |
+| Marco Carnesecchi | 87 | Serie A TIM | 48k coins | +6% | +12.7% | Momentum moderado |
+| Jesús Rodríguez | 84 | Serie A TIM | 44k coins | +17.2% | +10.9% | Momentum moderado |
+| Giorgio Scalvini | 86 | Serie A TIM | 49k coins | +11.3% | +10.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Rasmus Højlund (87)** — 90k coins, **+40.6% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (92)** — 84k coins, **+59.3% em 7 dias** (+2.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (86)** — 70k coins, **+36.3% em 7 dias** (+23% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antonio Di Natale (88)** — 114k coins, **+57.3% em 7 dias** (+38.8% em 24h). Preço +74% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gustav Isaksen (87)** — 66k coins, **+31% em 7 dias** (+11% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolae Stanciu (86)** — 120k coins, **+53.8% em 7 dias** (+20.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marco Carnesecchi (87)** — 52k coins, **+19.1% em 7 dias** (+3% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovanni Di Lorenzo (86)** — 75k coins, **+51.5% em 7 dias** (+32.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Riccardo Orsolini (85)** — 26k coins, **+12.2% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marten de Roon (85)** — 25k coins, **+37.8% em 7 dias** (+7.4% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Rasmus Højlund (87, Serie A TIM) lidera, com +40.6% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Weston McKennie (92, Serie A TIM) lidera, com +59.3% em 7 dias a 84k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
