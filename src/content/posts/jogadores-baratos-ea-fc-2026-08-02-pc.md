@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:30:20.000Z
+pubDatetime: 2026-08-02T19:30:20.000Z
 title: "Jogadores baratos EA FC: Serie A em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 11.304 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.000 a 12.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.517 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,15 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Pierre Kalulu | 91 | CB | Serie A TIM | 11.500 coins | 0% |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | De Gea | 89 | GK | Serie A TIM | 11.250 coins | 0% |
-| Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
 | Francisco Conceição | 89 | RM | Serie A TIM | 11.250 coins | 0% |
+| Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 12.000 coins | 0% |
-| Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Marek Hamšík | 88 | CM | Serie A TIM | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
+| Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Oliver Bierhoff | 86 | ST | Serie A TIM | 11.500 coins | +2.2% |
+| Rui Costa | 87 | CAM | Serie A TIM | 14.750 coins | +34.1% |
 
 
 ## 📈 Destaques
