@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:30:10.000Z
+pubDatetime: 2026-08-03T22:30:13.000Z
 title: "Jogadores baratos EA FC: Serie A em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.300 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 11.000 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.583 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 11.000 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Pierre Kalulu | 91 | CB | Serie A TIM | 11.500 coins | 0% |
 | Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
-| Francisco Conceição | 89 | RM | Serie A TIM | 11.250 coins | 0% |
 | Luka Modrić | 89 | CM | Serie A TIM | 11.250 coins | -4.3% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11.250 coins | 0% |
+| Francisco Conceição | 89 | RM | Serie A TIM | 11.250 coins | 0% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11.500 coins | +2.2% |
+| Marek Hamšík | 89 | CAM | Serie A TIM | 13.750 coins | -13.4% |
+| Hidetoshi Nakata | 89 | CAM | Serie A TIM | 13.750 coins | +5.6% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | +11.4% |
 | Marek Hamšík | 88 | CM | Serie A TIM | 11.000 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 12.500 coins | +11.4% |
-| Billy Gilmour | 87 | CDM | Serie A TIM | 11.000 coins | 0% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 11.000 coins | 0% |
+| Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Nico Paz (90, CAM)** da Serie A TIM, a apenas **11.250 coins**
 
-- **Francisco Conceição (89, RM)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Luka Modrić (89, CM)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
