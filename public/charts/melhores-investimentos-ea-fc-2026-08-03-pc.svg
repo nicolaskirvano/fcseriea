@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nuno Tavares</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yoan Bonny</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Neres</text>
-<rect x="285" y="153" width="381" height="28" rx="7" fill="#22c55e"/>
-<text x="676" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gustav Isaksen</text>
-<rect x="285" y="211" width="336" height="28" rx="7" fill="#22c55e"/>
-<text x="631" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arthur Atta</text>
-<rect x="285" y="269" width="277" height="28" rx="7" fill="#22c55e"/>
-<text x="572" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moise Kean</text>
-<rect x="285" y="327" width="225" height="28" rx="7" fill="#22c55e"/>
-<text x="520" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maicon</text>
-<rect x="285" y="385" width="201" height="28" rx="7" fill="#22c55e"/>
-<text x="496" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khéphren Thuram</text>
+<rect x="285" y="153" width="268" height="28" rx="7" fill="#22c55e"/>
+<text x="563" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arthur Atta</text>
+<rect x="285" y="211" width="219" height="28" rx="7" fill="#22c55e"/>
+<text x="514" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Manuel Locatelli</text>
+<rect x="285" y="269" width="166" height="28" rx="7" fill="#22c55e"/>
+<text x="461" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yann Aurel Bisseck</text>
+<rect x="285" y="327" width="103" height="28" rx="7" fill="#22c55e"/>
+<text x="398" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenan Yıldız</text>
+<rect x="285" y="385" width="93" height="28" rx="7" fill="#22c55e"/>
+<text x="388" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.1%</text>
 </svg>
