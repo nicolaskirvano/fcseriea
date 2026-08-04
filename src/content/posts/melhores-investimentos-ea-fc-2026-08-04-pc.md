@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:30:18.000Z
+pubDatetime: 2026-08-04T13:30:18.000Z
 title: "Investimentos EA FC: Serie A em 04/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 04/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (04/08/2026) no EA FC?"
-    a: "Rui Costa (87, Serie A TIM) lidera, com +28.8% em 7 dias a 18.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Leonardo Spinazzola (89, Serie A TIM) lidera, com +44.9% em 7 dias a 47k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **04/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rui Costa (87) acumula **+28.8% em 7 dias** a 18.000 coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Leonardo Spinazzola (89) acumula **+44.9% em 7 dias** a 47k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Serie A em 04/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-04-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **04/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.6% em 24h** e **+20.0% em 7 dias**.
-- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.8% em 24h** e **+20.2% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rui Costa | 87 | Serie A TIM | 18.000 coins | +8.6% | +28.8% | Momentum moderado |
-| Hidetoshi Nakata | 89 | Serie A TIM | 30k coins | +26.3% | +26.3% | Esticada |
-| Mariano Troilo | 86 | Serie A TIM | 45k coins | +7.1% | +20% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 48k coins | +14.9% | +19.9% | Momentum moderado |
-| Bremer | 87 | Serie A TIM | 48k coins | +3.7% | +6% | Entrada a observar |
+| Leonardo Spinazzola | 89 | Serie A TIM | 47k coins | +39.9% | +44.9% | Esticada |
+| Kevin De Bruyne | 89 | Serie A TIM | 157k coins | +2.6% | +27.5% | Momentum moderado |
+| Rui Costa | 88 | Serie A TIM | 38k coins | +26.4% | +12.9% | Esticada |
+| Wesley | 88 | Serie A TIM | 80k coins | +15.1% | +11.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Rui Costa (87)** — 18.000 coins, **+28.8% em 7 dias** (+8.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leonardo Spinazzola (89)** — 47k coins, **+44.9% em 7 dias** (+39.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hidetoshi Nakata (89)** — 30k coins, **+26.3% em 7 dias** (+26.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin De Bruyne (89)** — 157k coins, **+27.5% em 7 dias** (+2.6% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mariano Troilo (86)** — 45k coins, **+20% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rui Costa (88)** — 38k coins, **+12.9% em 7 dias** (+26.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adrien Rabiot (86)** — 48k coins, **+19.9% em 7 dias** (+14.9% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Bremer (87)** — 48k coins, **+6% em 7 dias** (+3.7% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wesley (88)** — 80k coins, **+11.1% em 7 dias** (+15.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (04/08/2026) no EA FC?**  
-Rui Costa (87, Serie A TIM) lidera, com +28.8% em 7 dias a 18.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Leonardo Spinazzola (89, Serie A TIM) lidera, com +44.9% em 7 dias a 47k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
