@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T13:30:10.000Z
+pubDatetime: 2026-08-05T16:30:07.000Z
 title: "Mercado EA FC em 05/08: Serie A — Console (PS)"
 draft: false
 featured: true
