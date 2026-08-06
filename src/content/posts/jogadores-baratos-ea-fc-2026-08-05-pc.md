@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T22:30:20.000Z
+pubDatetime: 2026-08-06T01:30:22.000Z
 title: "Jogadores baratos EA FC: Serie A em 05/08 — PC"
 draft: false
 featured: false
