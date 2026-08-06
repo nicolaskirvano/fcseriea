@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T16:30:20.000Z
+pubDatetime: 2026-08-06T19:30:19.000Z
 title: "Investimentos EA FC: Serie A em 06/08 — PC"
 draft: false
 featured: true
