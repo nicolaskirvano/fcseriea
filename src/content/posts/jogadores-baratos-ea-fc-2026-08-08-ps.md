@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:30:10.000Z
+pubDatetime: 2026-08-08T13:30:11.000Z
 title: "Jogadores baratos EA FC: Serie A em 08/08 — Console (PS)"
 draft: false
 featured: false
